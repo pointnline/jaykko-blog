@@ -1,0 +1,39 @@
+baseURL = 'https://pointnline.github.io/jaykko-blog/'
+languageCode = 'ko'
+title = '제이꼬 — AI × Finance × Edge'
+theme = 'hugo-theme-stack'
+paginate = 10
+
+[params]
+  mainSections = ['posts']
+  description = 'AI와 금융의 교차점에서 엣지를 찾는 기록'
+  
+  [params.sidebar]
+    emoji = '🌈'
+    subtitle = 'AI × Finance × Real Estate'
+  
+  [params.footer]
+    since = 2026
+
+  [params.article]
+    math = false
+    toc = true
+    readingTime = true
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'archives'
+    name = 'Archives'
+    url = '/archives'
+    weight = 2
+
+[markup]
+  [markup.highlight]
+    style = 'dracula'
+  [markup.goldmark.renderer]
+    unsafe = true

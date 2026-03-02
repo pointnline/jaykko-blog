@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on 제이꼬 — AI × Finance × Edge</title>
+        <link>http://localhost:1313/jaykko-blog/tags/</link>
+        <description>Recent content in Tags on 제이꼬 — AI × Finance × Edge</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ko</language>
+        <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jaykko-blog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AI자동화</title>
+            <link>http://localhost:1313/jaykko-blog/tags/ai%EC%9E%90%EB%8F%99%ED%99%94/</link>
+            <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/jaykko-blog/tags/ai%EC%9E%90%EB%8F%99%ED%99%94/</guid>
+            <description></description>
+        </item><item>
+            <title>부동산금융</title>
+            <link>http://localhost:1313/jaykko-blog/tags/%EB%B6%80%EB%8F%99%EC%82%B0%EA%B8%88%EC%9C%B5/</link>
+            <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/jaykko-blog/tags/%EB%B6%80%EB%8F%99%EC%82%B0%EA%B8%88%EC%9C%B5/</guid>
+            <description></description>
+        </item><item>
+            <title>시작</title>
+            <link>http://localhost:1313/jaykko-blog/tags/%EC%8B%9C%EC%9E%91/</link>
+            <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/jaykko-blog/tags/%EC%8B%9C%EC%9E%91/</guid>
+            <description></description>
+        </item></channel>
+</rss>
