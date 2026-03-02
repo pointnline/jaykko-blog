@@ -7,6 +7,8 @@ paginate = 10
 [params]
   mainSections = ['posts']
   description = 'AI와 금융의 교차점에서 엣지를 찾는 기록'
+  # 구글 애드센스 Publisher ID (심사 승인 후 입력)
+  # adsensePublisherId = "ca-pub-XXXXXXXXXXXXXXXX"
   
   [params.sidebar]
     emoji = '🌈'
@@ -31,6 +33,11 @@ paginate = 10
     name = 'Archives'
     url = '/archives'
     weight = 2
+  [[menu.main]]
+    identifier = 'morning-briefing'
+    name = '모닝브리핑'
+    url = '/categories/모닝브리핑'
+    weight = 3
 
 [markup]
   [markup.highlight]

@@ -1,0 +1,10 @@
+{{/* Google AdSense — production 환경에서만 로드 */}}
+{{ if and (eq hugo.Environment "production") (isset .Site.Params "adsensePublisherId") }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsensePublisherId }}"
+     crossorigin="anonymous"></script>
+{{ end }}
+
+{{/* Custom CSS overrides */}}
+<style>
+/* 추후 커스텀 스타일 추가 공간 */
+</style>
