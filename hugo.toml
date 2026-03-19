@@ -7,6 +7,9 @@ paginate = 10
 [params]
   mainSections = ['posts']
   description = 'AI와 금융의 교차점에서 엣지를 찾는 기록'
+  [params.colorScheme]
+    default = 'dark'
+    toggle = true
   # 구글 애드센스 Publisher ID (심사 승인 후 입력)
   # adsensePublisherId = "ca-pub-XXXXXXXXXXXXXXXX"
   

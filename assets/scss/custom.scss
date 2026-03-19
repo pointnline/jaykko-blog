@@ -1,0 +1,352 @@
+/* ═══════════════════════════════════════════════════════════
+   PointnLine Design System v1.2 — Hugo Stack Theme Override
+   🌈 RainbowMoon Edition
+   ═══════════════════════════════════════════════════════════ */
+
+/* ── Rainbow Tokens ── */
+:root {
+  --pnl-red: #e74c3c;
+  --pnl-orange: #f39c12;
+  --pnl-yellow: #f1c40f;
+  --pnl-green: #43e97b;
+  --pnl-blue: #3498db;
+  --pnl-indigo: #4a69bd;
+  --pnl-purple: #8b5cf6;
+  --pnl-cyan: #4ecdc4;
+}
+
+/* ═══════════ LIGHT THEME ═══════════ */
+:root {
+  --body-background: #fafaf8;
+
+  --accent-color: #b8973f;
+  --accent-color-darker: #a08535;
+  --accent-color-text: #fff;
+  --body-text-color: #6b7280;
+
+  --card-background: rgba(255,255,255,0.85);
+  --card-background-selected: #f5f3ee;
+  --card-text-color-main: #2d2d2d;
+  --card-text-color-secondary: #6b7280;
+  --card-text-color-tertiary: #9ca3af;
+  --card-separator-color: rgba(0,0,0,0.06);
+  --card-border-radius: 12px;
+
+  --tag-border-radius: 999px;
+
+  --blockquote-border-size: 3px;
+  --blockquote-background-color: #fdfbf7;
+
+  --link-background-color: 184, 151, 63;
+  --link-background-opacity: 0.15;
+  --link-background-opacity-hover: 0.3;
+
+  --code-background-color: rgba(184,151,63,0.08);
+  --code-text-color: #b8973f;
+
+  --table-border-color: rgba(0,0,0,0.08);
+  --tr-even-background-color: #fdfbf7;
+
+  --shadow-l1: 0 1px 3px rgba(0,0,0,0.04), 0 0 1px rgba(0,0,0,0.04);
+  --shadow-l2: 0 4px 20px rgba(0,0,0,0.06), 0 0 1px rgba(0,0,0,0.04);
+  --shadow-l3: 0 8px 30px rgba(0,0,0,0.06);
+  --shadow-l4: 0 16px 40px rgba(0,0,0,0.08);
+
+  --scrollbar-thumb: #d4c9a8;
+  --scrollbar-track: var(--body-background);
+}
+
+/* ═══════════ DARK THEME ═══════════ */
+:root[data-scheme="dark"] {
+  --body-background: #06060b;
+
+  --accent-color: #c9a84c;
+  --accent-color-darker: #e8d5a3;
+  --accent-color-text: #06060b;
+  --body-text-color: #888888;
+
+  --card-background: rgba(255,255,255,0.03);
+  --card-background-selected: rgba(255,255,255,0.06);
+  --card-text-color-main: #e8e6e1;
+  --card-text-color-secondary: #888888;
+  --card-text-color-tertiary: #555555;
+  --card-separator-color: rgba(255,255,255,0.06);
+
+  --blockquote-background-color: rgba(255,255,255,0.03);
+
+  --link-background-color: 201, 168, 76;
+  --link-background-opacity: 0.15;
+  --link-background-opacity-hover: 0.3;
+
+  --code-background-color: rgba(201,168,76,0.1);
+  --code-text-color: #c9a84c;
+
+  --table-border-color: rgba(255,255,255,0.08);
+  --tr-even-background-color: rgba(255,255,255,0.03);
+
+  --shadow-l1: 0 2px 8px rgba(0,0,0,0.3);
+  --shadow-l2: 0 4px 24px rgba(0,0,0,0.4);
+  --shadow-l3: 0 8px 32px rgba(0,0,0,0.5);
+  --shadow-l4: 0 16px 48px rgba(0,0,0,0.5);
+
+  --scrollbar-thumb: rgba(201,168,76,0.3);
+  --scrollbar-track: #06060b;
+}
+
+/* ═══════════ FONT SYSTEM ═══════════ */
+:root {
+  --base-font-family: "Noto Sans KR", -apple-system, BlinkMacSystemFont, sans-serif;
+  --article-font-family: "Noto Sans KR", -apple-system, sans-serif;
+  --code-font-family: "JetBrains Mono", Menlo, Monaco, monospace;
+}
+
+/* ═══════════ GLOBAL ENHANCEMENTS ═══════════ */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+              color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ── Headings: Playfair Display ── */
+.article-title,
+.section-title,
+h1, h2 {
+  font-family: "Playfair Display", "Noto Sans KR", serif !important;
+  letter-spacing: -0.02em;
+}
+
+.article-subtitle,
+.widget-title {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+/* ── Code blocks: JetBrains Mono ── */
+code, pre, .highlight {
+  font-family: "JetBrains Mono", Menlo, Monaco, monospace !important;
+}
+
+/* ═══════════ SIDEBAR ═══════════ */
+.sidebar {
+  --card-background: rgba(255,255,255,0.03);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+
+  [data-scheme="light"] & {
+    --card-background: rgba(255,255,255,0.85);
+  }
+}
+
+.sidebar .site-name {
+  font-family: "Playfair Display", serif !important;
+  letter-spacing: -0.02em;
+}
+
+.sidebar .site-description {
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 300;
+  opacity: 0.7;
+}
+
+/* ── Sidebar avatar gold ring ── */
+.sidebar .site-avatar .site-logo {
+  border: 2px solid var(--accent-color);
+  box-shadow: 0 0 20px rgba(201, 168, 76, 0.15);
+  transition: box-shadow 0.3s ease;
+
+  &:hover {
+    box-shadow: 0 0 30px rgba(201, 168, 76, 0.3);
+  }
+}
+
+/* ═══════════ CARDS — Glassmorphism ═══════════ */
+.card-list article,
+.widget,
+.article-page .main-article {
+  border: 1px solid transparent;
+  border-radius: 12px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  [data-scheme="dark"] & {
+    border-color: rgba(255,255,255,0.06);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+  }
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-l3);
+
+    [data-scheme="dark"] & {
+      border-color: rgba(201, 168, 76, 0.2);
+      box-shadow: 0 4px 24px rgba(201, 168, 76, 0.08);
+    }
+  }
+}
+
+/* ═══════════ ARTICLE CONTENT ═══════════ */
+.article-content {
+  line-height: 1.85;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display", "Noto Sans KR", serif;
+    color: var(--card-text-color-main);
+  }
+
+  h2 {
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 8px;
+    margin-top: 2.5rem;
+  }
+
+  a {
+    color: var(--accent-color);
+    text-decoration-color: rgba(201,168,76,0.3);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 0.2s;
+
+    &:hover {
+      text-decoration-color: var(--accent-color);
+    }
+  }
+
+  blockquote {
+    border-left-color: var(--accent-color);
+    border-radius: 0 8px 8px 0;
+    font-family: "Cormorant Garamond", "Noto Sans KR", serif;
+    font-size: 1.1em;
+    font-style: italic;
+    color: var(--card-text-color-secondary);
+  }
+
+  code:not(pre code) {
+    border-radius: 6px;
+    padding: 2px 6px;
+    font-size: 0.85em;
+  }
+
+  pre {
+    border-radius: 12px !important;
+    border: 1px solid rgba(255,255,255,0.06);
+  }
+
+  /* ── Table styling ── */
+  table {
+    border-radius: 8px;
+    overflow: hidden;
+
+    th {
+      background: var(--accent-color);
+      color: var(--accent-color-text);
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+  }
+
+  /* ── KBD styling ── */
+  kbd {
+    border-radius: 6px;
+    border-color: var(--accent-color);
+    font-family: "JetBrains Mono", monospace;
+  }
+}
+
+/* ═══════════ TAG PILLS ═══════════ */
+.article-tags a,
+.tag-list a {
+  border-radius: 999px !important;
+  padding: 4px 14px !important;
+  font-size: 0.75rem;
+  letter-spacing: 0.5px;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background: var(--accent-color) !important;
+    color: var(--accent-color-text) !important;
+    transform: translateY(-1px);
+  }
+}
+
+/* ═══════════ SEARCH ═══════════ */
+.search-input {
+  border-radius: 999px !important;
+  border: 1px solid rgba(201,168,76,0.2) !important;
+  background: var(--card-background) !important;
+  transition: border-color 0.2s;
+
+  &:focus {
+    border-color: var(--accent-color) !important;
+    box-shadow: 0 0 0 3px rgba(201,168,76,0.1) !important;
+  }
+}
+
+/* ═══════════ TOC (Table of Contents) ═══════════ */
+#TableOfContents {
+  li.active-class > a {
+    color: var(--accent-color);
+    border-left-color: var(--accent-color);
+  }
+}
+
+/* ═══════════ FOOTER ═══════════ */
+.footer {
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 0.8rem;
+  opacity: 0.6;
+}
+
+/* ═══════════ RAINBOW ACCENT LINE ═══════════ */
+/* Top of page rainbow gradient */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg,
+    var(--pnl-red), var(--pnl-orange), var(--pnl-yellow),
+    var(--pnl-green), var(--pnl-cyan), var(--pnl-blue),
+    var(--pnl-indigo), var(--pnl-purple));
+  z-index: 9999;
+}
+
+/* ═══════════ SCROLLBAR ═══════════ */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-color);
+}
+
+/* ═══════════ SELECTION ═══════════ */
+::selection {
+  background: rgba(201,168,76,0.25);
+  color: inherit;
+}
+
+/* ═══════════ SMOOTH TRANSITIONS ═══════════ */
+* {
+  transition-property: background-color, border-color, box-shadow;
+  transition-duration: 0.2s;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Override for elements that shouldn't animate everything */
+a, button, input {
+  transition-property: all;
+}
+
+/* ═══════════ RESPONSIVE TWEAKS ═══════════ */
+@media (max-width: 768px) {
+  .article-content h2 {
+    font-size: 1.5rem;
+  }
+}

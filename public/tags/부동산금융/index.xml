@@ -1,21 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>부동산금융 on 제이꼬 — AI × Finance × Edge</title><link>https://pointnline.github.io/jaykko-blog/tags/%EB%B6%80%EB%8F%99%EC%82%B0%EA%B8%88%EC%9C%B5/</link><description>Recent content in 부동산금융 on 제이꼬 — AI × Finance × Edge</description><generator>Hugo -- gohugo.io</generator><language>ko</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pointnline.github.io/jaykko-blog/tags/%EB%B6%80%EB%8F%99%EC%82%B0%EA%B8%88%EC%9C%B5/index.xml" rel="self" type="application/rss+xml"/><item><title>AI × Finance — 엣지를 찾는 여정의 시작</title><link>https://pointnline.github.io/jaykko-blog/posts/hello-world/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/hello-world/</guid><description>&lt;h2 id="왜-이-블로그를-시작하는가"&gt;왜 이 블로그를 시작하는가
-&lt;/h2&gt;&lt;p&gt;2026년, AI는 더 이상 미래가 아니다.&lt;/p&gt;
-&lt;p&gt;코딩의 가치는 0에 수렴하고, 도메인 지식의 95%는 frontier 모델이 커버한다.
-&lt;strong&gt;남은 5% — 암묵지(tacit knowledge)가 유일한 해자(moat)다.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;부동산금융이라는 도메인에서 쌓아온 경험과 판단력,
-그리고 AI를 레버리지로 활용하는 워크플로우.&lt;/p&gt;
-&lt;p&gt;이 블로그는 그 교차점의 기록이다.&lt;/p&gt;
-&lt;h2 id="다룰-주제들"&gt;다룰 주제들
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🔴 &lt;strong&gt;딜 분석 자동화&lt;/strong&gt; — RedMoon 파이프라인&lt;/li&gt;
-&lt;li&gt;🟠 &lt;strong&gt;투자 인사이트&lt;/strong&gt; — 매크로, 섹터, 종목&lt;/li&gt;
-&lt;li&gt;🟡 &lt;strong&gt;AI 학습&lt;/strong&gt; — 프롬프트 설계, 에이전트 아키텍처&lt;/li&gt;
-&lt;li&gt;🟣 &lt;strong&gt;시스템 구축&lt;/strong&gt; — 자동화, 워크플로우, 도구&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="한-줄"&gt;한 줄
-&lt;/h2&gt;
- &lt;blockquote&gt;
- &lt;p&gt;본업(딜) → AI로 속도↑ → 절약된 시간 → 투자 → AI역량 → 피드백 루프&lt;/p&gt;
-
- &lt;/blockquote&gt;
-&lt;p&gt;이 순환을 만들어가는 과정을 기록한다. 🌈&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>부동산금융 on 제이꼬 — AI × Finance × Edge</title>
+        <link>http://localhost:1313/jaykko-blog/tags/%EB%B6%80%EB%8F%99%EC%82%B0%EA%B8%88%EC%9C%B5/</link>
+        <description>Recent content in 부동산금융 on 제이꼬 — AI × Finance × Edge</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ko</language>
+        <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jaykko-blog/tags/%EB%B6%80%EB%8F%99%EC%82%B0%EA%B8%88%EC%9C%B5/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AI × Finance — 엣지를 찾는 여정의 시작</title>
+            <link>http://localhost:1313/jaykko-blog/posts/hello-world/</link>
+            <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/jaykko-blog/posts/hello-world/</guid>
+            <description>&lt;h2 id=&#34;왜-이-블로그를-시작하는가&#34;&gt;왜 이 블로그를 시작하는가&#xA;&lt;/h2&gt;&lt;p&gt;2026년, AI는 더 이상 미래가 아니다.&lt;/p&gt;&#xA;&lt;p&gt;코딩의 가치는 0에 수렴하고, 도메인 지식의 95%는 frontier 모델이 커버한다.&#xA;&lt;strong&gt;남은 5% — 암묵지(tacit knowledge)가 유일한 해자(moat)다.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;부동산금융이라는 도메인에서 쌓아온 경험과 판단력,&#xA;그리고 AI를 레버리지로 활용하는 워크플로우.&lt;/p&gt;&#xA;&lt;p&gt;이 블로그는 그 교차점의 기록이다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;다룰-주제들&#34;&gt;다룰 주제들&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;딜 분석 자동화&lt;/strong&gt; — RedMoon 파이프라인&lt;/li&gt;&#xA;&lt;li&gt;🟠 &lt;strong&gt;투자 인사이트&lt;/strong&gt; — 매크로, 섹터, 종목&lt;/li&gt;&#xA;&lt;li&gt;🟡 &lt;strong&gt;AI 학습&lt;/strong&gt; — 프롬프트 설계, 에이전트 아키텍처&lt;/li&gt;&#xA;&lt;li&gt;🟣 &lt;strong&gt;시스템 구축&lt;/strong&gt; — 자동화, 워크플로우, 도구&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;한-줄&#34;&gt;한 줄&#xA;&lt;/h2&gt;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;본업(딜) → AI로 속도↑ → 절약된 시간 → 투자 → AI역량 → 피드백 루프&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;p&gt;이 순환을 만들어가는 과정을 기록한다. 🌈&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
