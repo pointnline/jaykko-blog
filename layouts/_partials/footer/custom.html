@@ -1,0 +1,35 @@
+{{/* GoatCounter 조회수 로드 스크립트 */}}
+<script>
+(function() {
+  var counters = document.querySelectorAll('.gc-view-count');
+  if (!counters.length) return;
+
+  var paths = [];
+  counters.forEach(function(el) {
+    var p = el.getAttribute('data-gc-path');
+    if (p) paths.push(p);
+  });
+
+  if (!paths.length) return;
+
+  // GoatCounter API로 조회수 가져오기
+  var url = 'https://jaykko-blog.goatcounter.com/counter/' + encodeURIComponent(paths.join(',')) + '.json';
+  
+  // 개별 요청 방식 (더 안정적)
+  counters.forEach(function(el) {
+    var path = el.getAttribute('data-gc-path');
+    if (!path) return;
+    
+    fetch('https://jaykko-blog.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        if (data && data.count !== undefined) {
+          el.textContent = data.count_unique || data.count;
+        }
+      })
+      .catch(function() {
+        el.textContent = '0';
+      });
+  });
+})();
+</script>

@@ -1,147 +1,1499 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on 제이꼬 — AI × Finance × Edge</title>
-        <link>http://localhost:1313/jaykko-blog/posts/</link>
-        <description>Recent content in Posts on 제이꼬 — AI × Finance × Edge</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>ko</language>
-        <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jaykko-blog/posts/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>모닝브리핑 2026-03-19 (목)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-19/</link>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-19/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,624.70 (-1.36%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,152.42 (-1.46%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $46,225.15 (-1.63%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,478.64 (-1.64%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스피 $5,925.03 (+5.04%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,164.38 (+2.41%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $180.40 (-1.07%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $392.78 (-1.55%)&lt;/li&gt;&#xA;&lt;li&gt;📉 반도체ETF $338.29 (-0.64%)&lt;/li&gt;&#xA;&lt;li&gt;📉 앱클론 ₩81,000 (-2.41%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 VIX $25.09 (+12.16%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 US 10Y 4.20% (-0.03)&lt;/li&gt;&#xA;&lt;li&gt;📊 US 2Y 3.68% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 10Y-2Y 스프레드 0.50%p (-0.02)&lt;/li&gt;&#xA;&lt;li&gt;📊 HY 스프레드 3.22%p (-0.05)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 국고5년 3.12% (-0.03)&lt;/li&gt;&#xA;&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,507.8 (+1.47%)&lt;/li&gt;&#xA;&lt;li&gt;📊 달러인덱스(DXY) 120.55 (+0.73)&lt;/li&gt;&#xA;&lt;li&gt;📈 원/유로 ₩1,729.5 (+0.82%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥158.9 (-0.01%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $4,823.9 (-3.38%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $75.42 (-4.16%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $99.05 (+7.00%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 BTC $71,312 (-3.55%)&lt;/li&gt;&#xA;&lt;li&gt;📉 ETH $2,206.1 (-4.84%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;이륜차 번호판 전국단일 체계 도입…시인성 높여 단속 강화&lt;/li&gt;&#xA;&lt;li&gt;대우건설 ‘써밋’, 서울·과천 주요 사업지 출격&lt;/li&gt;&#xA;&lt;li&gt;주택당국이 &amp;lsquo;독일&amp;rsquo; 눈여겨보는 이유는?&lt;/li&gt;&#xA;&lt;li&gt;집주인 &amp;lsquo;보유세 부담&amp;rsquo; 늘었다는데…&amp;lsquo;집값 하락&amp;rsquo; 공식 통할까 [돈앤톡]&lt;/li&gt;&#xA;&lt;li&gt;하이엔드 &amp;lsquo;아크로&amp;rsquo; 힘주는 DL이앤씨…압구정서 벌인 일 [현장+]&lt;/li&gt;&#xA;&lt;li&gt;스트레이키즈 창빈, 압구정 현대아파트, 94억 전액 현금으로 매수&lt;/li&gt;&#xA;&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;&#xA;&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-17 (화)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-17/</link>
-            <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-17/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 S&amp;amp;P500 $6,699.38 (+1.01%)&lt;/li&gt;&#xA;&lt;li&gt;📈 나스닥 $22,374.18 (+1.22%)&lt;/li&gt;&#xA;&lt;li&gt;📈 다우 $46,946.41 (+0.83%)&lt;/li&gt;&#xA;&lt;li&gt;📈 러셀2000 $2,503.29 (+0.94%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스피 $5,549.85 (+1.14%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스닥 $1,138.29 (-1.27%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 Nvidia $183.22 (+1.68%)&lt;/li&gt;&#xA;&lt;li&gt;📈 Tesla $395.56 (+1.42%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $337.83 (+1.73%)&lt;/li&gt;&#xA;&lt;li&gt;📉 앱클론 ₩88,500 (-0.67%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 VIX $23.51 (-13.60%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 US 10Y 4.28% (+0.01)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ US 2Y 오류: Expecting value: line 1 column 1 (char 0)&lt;/li&gt;&#xA;&lt;li&gt;📊 10Y-2Y 스프레드 0.55%p (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 HY 스프레드 3.28%p (+0.11)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 국고5년 3.12% (-0.03)&lt;/li&gt;&#xA;&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 원/달러 ₩1,490.3 (-0.48%)&lt;/li&gt;&#xA;&lt;li&gt;📊 달러인덱스(DXY) 120.55 (+0.73)&lt;/li&gt;&#xA;&lt;li&gt;📈 원/유로 ₩1,715.6 (+0.38%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥159.2 (-0.32%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,011.3 (-0.22%)&lt;/li&gt;&#xA;&lt;li&gt;📈 은 $81.00 (+0.90%)&lt;/li&gt;&#xA;&lt;li&gt;📉 원유(WTI) $94.22 (-5.05%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $74,416 (+2.25%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $2,359.3 (+8.39%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;“자산은 사고파는 게 아냐” 발언 황현희, 논란 끝 해명&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;시세 18억짜리 집이 9억이래&amp;rdquo;…청약자 20만명 &amp;lsquo;우르르&amp;rsquo; [돈앤톡]&lt;/li&gt;&#xA;&lt;li&gt;도쿄 부동산 새 투자공식…신축 대신 구축 아파트 산다 [더 머니이스트-김용남의 부동산 자산관리]&lt;/li&gt;&#xA;&lt;li&gt;‘최소 5억 시세 차익’ 영등포자이디그니티 2가구 모집에 20만명 몰려&lt;/li&gt;&#xA;&lt;li&gt;파업해도 광역버스 운행 유지?…국토부 &amp;lsquo;필수공익사업&amp;rsquo; 검토&lt;/li&gt;&#xA;&lt;li&gt;다주택자 압박에…2월 서울 집값 상승폭 축소&lt;/li&gt;&#xA;&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;&#xA;&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-16 (월)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-16/</link>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-16/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,632.19 (-0.61%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,105.36 (-0.93%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $46,558.47 (-0.26%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,480.05 (-0.36%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스피 $5,487.24 (-1.72%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,152.96 (+0.40%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $180.25 (-1.45%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $391.20 (-1.08%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $331.32 (+0.51%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩89,100 (+11.93%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 VIX $27.19 (-0.29%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 US 10Y 4.27% (+0.06)&lt;/li&gt;&#xA;&lt;li&gt;📊 US 2Y 3.76% (+0.12)&lt;/li&gt;&#xA;&lt;li&gt;📊 10Y-2Y 스프레드 0.55%p (+0.04)&lt;/li&gt;&#xA;&lt;li&gt;📊 HY 스프레드 3.17%p (+0.08)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 국고5년 3.12% (-0.03)&lt;/li&gt;&#xA;&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,500.0 (+0.75%)&lt;/li&gt;&#xA;&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;&#xA;&lt;li&gt;📈 원/유로 ₩1,714.6 (+0.01%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥159.2 (-0.01%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,061.7 (-1.12%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $81.34 (-4.17%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $98.71 (+3.36%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $72,064 (+1.16%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $2,137.5 (+1.90%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&amp;lsquo;40억 건물주&amp;rsquo; 이해인 &amp;ldquo;공실 6개, 매달 이자만 1200만원&amp;hellip; 솔직히 무서워&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;‘다주택자 규제’ 언급한 장수원 “세금 낼 돈 없어 집 내놔”&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;시세 20억인데 분양가 11억대&amp;rdquo;…영등포자이 디그니티 무순위 &amp;lsquo;줍줍&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;[AI돋보기] 검색창 대신 지갑 연 AI 에이전트…판이 바뀐다&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;드디어 &amp;lsquo;첫 래미안&amp;rsquo; 생겨&amp;rdquo;…청약 뜬 &amp;lsquo;18억 아파트&amp;rsquo; 어디길래 [현장+]&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;재판소원법, 또다른 이름은 &amp;lsquo;재판불복&amp;rsquo;&amp;quot;…양문석이 쏘아올린 與 &amp;lsquo;사법개혁&amp;rsquo; 부작용 등 [3/16(월) 데일리안 출근길 뉴스]&lt;/li&gt;&#xA;&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;&#xA;&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-15 (일)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-15/</link>
-            <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-15/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,632.19 (-0.61%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,105.36 (-0.93%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $46,558.47 (-0.26%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,480.05 (-0.36%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스피 $5,487.24 (-1.72%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,152.96 (+0.40%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $180.25 (-1.45%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $391.20 (-1.08%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $331.32 (+0.51%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩89,100 (+11.93%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 VIX $27.19 (-0.29%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 US 10Y 4.27% (+0.06)&lt;/li&gt;&#xA;&lt;li&gt;📊 US 2Y 3.76% (+0.12)&lt;/li&gt;&#xA;&lt;li&gt;📊 10Y-2Y 스프레드 0.55%p (+0.04)&lt;/li&gt;&#xA;&lt;li&gt;📊 HY 스프레드 3.17%p (+0.08)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 국고5년 3.16% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,494.4 (+0.38%)&lt;/li&gt;&#xA;&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;&#xA;&lt;li&gt;📉 원/유로 ₩1,710.3 (-0.24%)&lt;/li&gt;&#xA;&lt;li&gt;📈 달러/엔 ¥159.7 (+0.32%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,061.7 (-1.12%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $81.34 (-4.17%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $98.71 (+3.36%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 BTC $70,793 (-0.21%)&lt;/li&gt;&#xA;&lt;li&gt;📉 ETH $2,087.5 (-0.23%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;“실거주 안하면 세금폭탄”…서울 아파트값 ‘하락세’ 굳힐까&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;선거 앞 분양 쏟아진다&amp;rdquo;⋯용산·서초 출격 대기&lt;/li&gt;&#xA;&lt;li&gt;구조조정 이어 신규채용 찬바람…10대건설 7곳 계획 미정&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;유보라&amp;rsquo; 아파트만으로 안돼…반도, 플랜트 EPC 인수로 사업 다각화&lt;/li&gt;&#xA;&lt;li&gt;“무주택자 중심 시장 재편”… 15억원 이하 키 맞추기 ‘속도’&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;선당후곰&amp;rsquo; 옛말…수도권 청약시장 &amp;lsquo;옥석 가리기&amp;rsquo; 뚜렷&lt;/li&gt;&#xA;&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;&#xA;&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-14 (토)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-14/</link>
-            <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-14/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,632.19 (-0.61%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,105.36 (-0.93%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $46,558.47 (-0.26%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,480.05 (-0.36%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스피 $5,487.24 (-1.72%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,152.96 (+0.40%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $180.25 (-1.45%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $391.20 (-1.08%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $331.32 (+0.51%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩89,100 (+11.93%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 VIX $27.19 (-0.37%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 US 10Y 4.27% (+0.06)&lt;/li&gt;&#xA;&lt;li&gt;📊 US 2Y 3.76% (+0.12)&lt;/li&gt;&#xA;&lt;li&gt;📊 10Y-2Y 스프레드 0.55%p (+0.04)&lt;/li&gt;&#xA;&lt;li&gt;📊 HY 스프레드 3.17%p (+0.08)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 국고5년 3.15% (+0.01)&lt;/li&gt;&#xA;&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,497.5 (+0.59%)&lt;/li&gt;&#xA;&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;&#xA;&lt;li&gt;📉 원/유로 ₩1,709.1 (-0.31%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥159.2 (-0.01%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,023.1 (-1.88%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $80.64 (-4.99%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $99.31 (+3.99%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $71,157 (+0.94%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $2,104.8 (+1.49%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;신논현역 대로변에 20층 규모 오피스·상업시설 생긴다&lt;/li&gt;&#xA;&lt;li&gt;한강에 띄운 갤러리… 兆단위 재건축 판 흔드는 ‘전초기지’&lt;/li&gt;&#xA;&lt;li&gt;사우디 네옴시티 터널 공사 계약 해지…현대건설 &amp;ldquo;재무 손실 없어&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;코스피 6000 시대, 은행의 역습…최고 연 20% 적금 등장&lt;/li&gt;&#xA;&lt;li&gt;“주거용 전환해야”… 지식산업센터 공실률 55% 육박&lt;/li&gt;&#xA;&lt;li&gt;삐걱대는 오렌지 군단&amp;hellip;1998년생 러셀 전성기행? [권마허의 헬멧]&lt;/li&gt;&#xA;&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;&#xA;&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[EBN 오늘(12일) 이슈 종합] ﻿美, 301조로 &amp;lsquo;관세&amp;rsquo; 재압박&amp;hellip;美 로봇판 &amp;lsquo;칩스법&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;또 코스피 2%대 급락…유가 급등·호르무즈 봉쇄 의지에 투심 ‘꽁꽁’ - 매일경제&lt;/li&gt;&#xA;&lt;li&gt;[참고] 구체적인 부동산 세제의 개편방안은 검토 중입니다 - 보도자료 | 브리핑룸 | 대한민국 정책브리핑&lt;/li&gt;&#xA;&lt;li&gt;[설명] 구체적인 부동산 세제 개편방안은 정해진 바 없습니다 - 보도자료 | 브리핑룸 | 대한민국 정책브리핑&lt;/li&gt;&#xA;&lt;li&gt;3 AI Stocks Caught in the Crossfire of the Iran War, and What Smart Investors Should Do in 2026 | The Motley Fool&lt;/li&gt;&#xA;&lt;li&gt;Better AI Stock to Buy Now: Nvidia vs. Broadcom | The Motley Fool&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-13 (금)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-13/</link>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-13/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,672.62 (-1.52%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,311.98 (-1.78%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $46,677.85 (-1.56%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,488.99 (-2.12%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스피 $5,583.25 (-0.48%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,148.40 (+1.02%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $183.14 (-0.69%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $395.01 (-2.42%)&lt;/li&gt;&#xA;&lt;li&gt;📉 반도체ETF $330.19 (-2.31%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩79,600 (+9.04%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 VIX $27.29 (+12.63%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 US 10Y 4.21% (+0.06)&lt;/li&gt;&#xA;&lt;li&gt;📊 US 2Y 3.64% (+0.07)&lt;/li&gt;&#xA;&lt;li&gt;📊 10Y-2Y 스프레드 0.51%p (-0.06)&lt;/li&gt;&#xA;&lt;li&gt;📊 HY 스프레드 3.09%p (+0.03)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 국고5년 3.14% (-0.04)&lt;/li&gt;&#xA;&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,488.8 (+0.81%)&lt;/li&gt;&#xA;&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;&#xA;&lt;li&gt;📈 원/유로 ₩1,713.2 (+0.56%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥158.1 (-0.60%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,084.1 (-1.44%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $83.96 (-1.30%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $96.39 (+2.01%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $70,334 (+0.21%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $2,064.2 (+0.67%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;수도권 15억 이하 아파트 가계 대출 뇌관으로 [Pick코노미]&lt;/li&gt;&#xA;&lt;li&gt;강동구도 꺾였다&amp;hellip;강남발 집값 조정 흐름 확산&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;빌라 물건도 없어요&amp;rdquo;…전세시장 &amp;lsquo;비상등&amp;rsquo; [현장]&lt;/li&gt;&#xA;&lt;li&gt;지식산업센터 &amp;lsquo;주거용 전환&amp;rsquo; 해법⋯현실은?&lt;/li&gt;&#xA;&lt;li&gt;[우보세]집에도 사정이 있다&lt;/li&gt;&#xA;&lt;li&gt;고분양가에 막힌 강남 오피스텔·강서 역세권 주상복합 &amp;lsquo;눈물의 통매각&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;&#xA;&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[EBN 오늘(12일) 이슈 종합] ﻿美, 301조로 &amp;lsquo;관세&amp;rsquo; 재압박&amp;hellip;美 로봇판 &amp;lsquo;칩스법&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;브렌트유 다시 100달러, 美증시 급락&amp;hellip;이란 “피의 복수 나설 것” [월가월부] - 매일경제&lt;/li&gt;&#xA;&lt;li&gt;[보도자료] 제9차 부동산 불법행위 대응협의회 보도자료 - 보도자료 | 브리핑룸 | 대한민국 정책브리핑&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;강남 똘똘한 한 채도 예외 없다&amp;rdquo;… 5월 양도세 유예 종료 앞두고 정부가 꺼낸 초강수&lt;/li&gt;&#xA;&lt;li&gt;Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder | TechCrunch&lt;/li&gt;&#xA;&lt;li&gt;AI 일자리 충격 대응 ‘기본사회’ 논의 확산…”재원·모델 두 축 고민해야” [AI發 연공편향 공포] - 이투데이&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-12 (목)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-12/</link>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-12/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,775.80 (-0.08%)&lt;/li&gt;&#xA;&lt;li&gt;📈 나스닥 $22,716.13 (+0.08%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $47,417.27 (-0.61%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,542.90 (-0.20%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스피 $5,609.95 (+1.40%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스닥 $1,136.83 (-0.07%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 Nvidia $186.03 (+0.69%)&lt;/li&gt;&#xA;&lt;li&gt;📈 Tesla $407.82 (+2.01%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $342.09 (+0.70%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩73,000 (+2.10%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 VIX $24.23 (-2.81%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 US 10Y 4.15% (+0.03)&lt;/li&gt;&#xA;&lt;li&gt;📊 US 2Y 3.57% (+0.01)&lt;/li&gt;&#xA;&lt;li&gt;📊 10Y-2Y 스프레드 0.57%p (-0.01)&lt;/li&gt;&#xA;&lt;li&gt;📊 HY 스프레드 3.06%p (-0.13)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 국고5년 3.18% (+0.04)&lt;/li&gt;&#xA;&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 원/달러 ₩1,464.5 (-0.63%)&lt;/li&gt;&#xA;&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;&#xA;&lt;li&gt;📉 원/유로 ₩1,709.5 (-0.01%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥157.8 (-0.18%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,183.9 (-0.52%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $85.91 (-2.80%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $88.41 (+6.71%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $70,737 (+1.17%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $2,073.2 (+1.78%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;실버타운의 진화…도심 한복판서 호텔·병원 품은 초고급 주거 등장&lt;/li&gt;&#xA;&lt;li&gt;분양가 어쩌나…유가 상승에 노란봉투법까지 덮쳤다 [돈앤톡]&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;강원도 세컨드하우스 분양…계약 해제할 수 있나요?&amp;rdquo; [더 머니이스트-조선규의 부동산 산책]&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;유령 건물&amp;rsquo; 방지⋯정부, 지식산업센터 &amp;lsquo;주거 전환&amp;rsquo; 카드 꺼낸다&lt;/li&gt;&#xA;&lt;li&gt;보증금 50억이면 이 정도 서비스 받을 만하네…초호화 실버주택 등장&lt;/li&gt;&#xA;&lt;li&gt;자산가 58년 개띠 은퇴에 들썩이는 초고가 실버주택 시장&lt;/li&gt;&#xA;&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;&#xA;&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[M이코노미뉴스] [이슈] 국내 반도체 생산 감소&amp;hellip;구조적 취약성과 ‘HBM’ 시대 전환기의 도래&lt;/li&gt;&#xA;&lt;li&gt;속보 - 머니투데이&lt;/li&gt;&#xA;&lt;li&gt;[기자의눈] 다주택자 좇다 놓친 것…집값만큼 중요한 정부의 부동산 정책 ‘말값’ - 아시아투데이&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;3기 신도시 기다리다 분양가 폭탄?&amp;quot;… 국토부가 만지작거리는 &amp;lsquo;이 카드&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;Meta announces 4 new AI chips, raising competitive stakes with Nvidia, AMD&lt;/li&gt;&#xA;&lt;li&gt;U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-11 (수)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-11/</link>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-11/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,781.48 (-0.21%)&lt;/li&gt;&#xA;&lt;li&gt;📈 나스닥 $22,697.10 (+0.01%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $47,706.51 (-0.07%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,548.08 (-0.22%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스피 $5,532.59 (+5.35%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,137.68 (+3.21%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 Nvidia $184.77 (+1.88%)&lt;/li&gt;&#xA;&lt;li&gt;📈 Tesla $399.23 (+0.60%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $338.81 (+1.42%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩71,500 (+13.31%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 VIX $24.93 (-2.24%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 US 10Y 4.12% (-0.03)&lt;/li&gt;&#xA;&lt;li&gt;📊 US 2Y 3.56% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 10Y-2Y 스프레드 0.58%p (+0.02)&lt;/li&gt;&#xA;&lt;li&gt;📊 HY 스프레드 3.19%p (+0.06)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;li&gt;📊 국고5년 3.14% (-0.01)&lt;/li&gt;&#xA;&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,483.9 (+1.23%)&lt;/li&gt;&#xA;&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;&#xA;&lt;li&gt;📈 원/유로 ₩1,710.5 (+0.38%)&lt;/li&gt;&#xA;&lt;li&gt;📈 달러/엔 ¥158.4 (+0.36%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 금 $5,198.7 (+0.63%)&lt;/li&gt;&#xA;&lt;li&gt;📈 은 $88.57 (+0.11%)&lt;/li&gt;&#xA;&lt;li&gt;📉 원유(WTI) $86.39 (-4.02%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $69,804 (+2.05%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $2,029.4 (+1.85%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;서울 노후주거지 재개발, LH·SH가 하면 더 잘할까?&lt;/li&gt;&#xA;&lt;li&gt;영월·고창 등 인구감소지역 SOC 가점…예타 문턱 낮춘다 [Pick코노미]&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;이 가격이면 해볼 만해요&amp;rdquo;…청약 통장 든 직장인 몰린 동네 [주간이집]&lt;/li&gt;&#xA;&lt;li&gt;전·월세 불안은 어떻게 할 것인가? [더 머니이스트-심형석의 부동산 정석]&lt;/li&gt;&#xA;&lt;li&gt;강북 신고가 행렬⋯15억이 &amp;lsquo;유리천장&amp;rsquo; 됐다 [현장]&lt;/li&gt;&#xA;&lt;li&gt;SK에코플랜트, 자회사에 4000억 수혈…AI 사업 재편 속도&lt;/li&gt;&#xA;&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;&#xA;&lt;li&gt;도시의 품격, 도시의 아비투스&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;유가·환율·증시 동시 폭발…‘3중 충격’에 휩싸인 시장 [오일-달러 쇼크] - 이투데이&lt;/li&gt;&#xA;&lt;li&gt;2026년 3월 6일 오늘의 주요 뉴스(중동 리스크와 금융 시장 변동성, 4월 총선 판세 및 경제 사회 이슈) - 오늘의 클릭&lt;/li&gt;&#xA;&lt;li&gt;인구감소 시대의 집값…컴팩트시티와 기술혁신이 바꿀 부동산 시장 - 한국AI부동산신문&lt;/li&gt;&#xA;&lt;li&gt;인천시, 부동산 허위 실거래 신고·업다운 계약 집중 단속 - 뉴스1&lt;/li&gt;&#xA;&lt;li&gt;2026년 3월 5일 오늘의 주요 뉴스(이란 전쟁 위기와 코스피 폭락 - 글로벌 경제 리스크 및 AI 산업 규제 동향) - 오늘의 클릭&lt;/li&gt;&#xA;&lt;li&gt;Exclusive: Meta acquires Moltbook, the social network for AI agents&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-10 (화)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-10/</link>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-10/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 S&amp;amp;P500 $6,795.99 (+0.83%)&lt;/li&gt;&#xA;&lt;li&gt;📈 나스닥 $22,695.95 (+1.38%)&lt;/li&gt;&#xA;&lt;li&gt;📈 다우 $47,740.80 (+0.50%)&lt;/li&gt;&#xA;&lt;li&gt;📈 러셀2000 $2,553.67 (+1.12%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스피 $5,251.87 (-5.96%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스닥 $1,102.28 (-4.54%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 Nvidia $182.65 (+2.57%)&lt;/li&gt;&#xA;&lt;li&gt;📈 Tesla $398.68 (+0.66%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $336.37 (+3.82%)&lt;/li&gt;&#xA;&lt;li&gt;📉 앱클론 ₩63,100 (-5.26%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 VIX $25.50 (-13.53%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 US 10Y $4.14 (+0.07%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 원/달러 ₩1,479.5 (-0.34%)&lt;/li&gt;&#xA;&lt;li&gt;📉 DXY $98.73 (-0.89%)&lt;/li&gt;&#xA;&lt;li&gt;📉 원/유로 ₩1,705.3 (-1.10%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥157.5 (-0.16%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 금 $5,148.7 (+0.99%)&lt;/li&gt;&#xA;&lt;li&gt;📈 은 $87.35 (+5.11%)&lt;/li&gt;&#xA;&lt;li&gt;📉 원유(WTI) $85.08 (-26.48%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $68,996 (+4.55%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $2,028.3 (+4.68%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;“부동산 시장 안 좋아서 손절하려고…” 하정우, 건물 2채 내놓은 이유&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;강남 아닌데 &amp;lsquo;국평 20억&amp;rsquo; 눈앞&amp;rdquo;…서울 서쪽 끝에 무슨 일이 [돈앤톡]&lt;/li&gt;&#xA;&lt;li&gt;RTI 규제, 집값 안정 카드될까 [더 머니이스트-송승현의 부동산 플러스]&lt;/li&gt;&#xA;&lt;li&gt;아파트 누르니 오피스텔로…매매가도 임대료도 다 뛰었다[코주부]&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;차 10대 중 4대는 인터넷 연결&amp;rdquo;…TS, 자동차 해킹 막는 보안 인증&lt;/li&gt;&#xA;&lt;li&gt;공장·창고 시장 &amp;lsquo;옥석 가리기&amp;rsquo;…빅딜 지속, 규모는 줄어&lt;/li&gt;&#xA;&lt;li&gt;도시의 품격, 도시의 아비투스&lt;/li&gt;&#xA;&lt;li&gt;미국 젊은이들은 왜 집 대신 주식을 살까&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[EBN 오늘(9일) 이슈 종합] 기름값 잡겠다는 최고가격제&amp;hellip;시장 안정인가 공급 쇼크인가 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;유가·환율·증시 동시 폭발…‘3중 충격’에 휩싸인 시장 [오일-달러 쇼크] - 이투데이&lt;/li&gt;&#xA;&lt;li&gt;“집값 안정돼야 소비·출산도 늘어난다”…신한금융 보고서 눈길 - 이코노미톡뉴스&lt;/li&gt;&#xA;&lt;li&gt;[6.3지방선거 이것이 정책] 이재만 “대구 부동산 리부트 2636 추진…미분양 매입해 집값 하락 막겠다” - 대구일보&lt;/li&gt;&#xA;&lt;li&gt;Microsoft 365 confirms new premium tier with a premium price • The Register&lt;/li&gt;&#xA;&lt;li&gt;속보 - 머니투데이&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-09 (월)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-09/</link>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-09/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,740.02 (-1.33%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,387.68 (-1.59%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $47,501.55 (-0.95%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,525.30 (-2.33%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스피 $5,584.87 (+0.02%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,154.67 (+3.43%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $177.82 (-2.53%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $396.73 (-2.03%)&lt;/li&gt;&#xA;&lt;li&gt;📉 반도체ETF $323.51 (-4.71%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩66,500 (+7.78%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 VIX $29.49 (+24.17%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 US 10Y $4.13 (-0.31%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,481.1 (+0.05%)&lt;/li&gt;&#xA;&lt;li&gt;📈 DXY $98.86 (+0.00%)&lt;/li&gt;&#xA;&lt;li&gt;📉 원/유로 ₩1,710.0 (-0.45%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥157.5 (-0.01%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 금 $5,158.7 (+0.42%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $84.31 (-0.17%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $90.90 (+13.55%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 BTC $66,973 (-0.44%)&lt;/li&gt;&#xA;&lt;li&gt;📉 ETH $1,954.0 (-0.78%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;중동 상황 불확실성에 현대리바트, 프로젝트 수주 &amp;lsquo;빨간불&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;‘강남 불패’ 지금은 틀린말 …서울 아파트 신고가, 80%가 비강남&lt;/li&gt;&#xA;&lt;li&gt;건설사 주총 시즌…전직 장관 모시고 간판 바꾸고&lt;/li&gt;&#xA;&lt;li&gt;미국 청년층은 왜 집 대신 주식을 사는가 [더 머니이스트-김용남의 부동산 자산관리]&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;세입자 면접 본다고요?&amp;quot;…전·월세 물건 증발에 위기감 고조 [돈앤톡]&lt;/li&gt;&#xA;&lt;li&gt;수주·분양·시공 다 막혔다…노봉법·대출규제·공사비 ‘삼중고’&lt;/li&gt;&#xA;&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[EBN 오늘(8일) 이슈 종합] 서울 휘발유 2000원 눈앞…정부 &amp;lsquo;최고가격제&amp;rsquo; 검토 초강수 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;[EBN 오늘(7일) 이슈 종합] [중동 리스크] 패닉 장세에도 증권주 굳건&amp;hellip;&amp;ldquo;거래 폭발 변동성 장세 더 좋아&amp;rdquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;정부가 밀어붙이더니 &amp;ldquo;결국 역전됐다&amp;rdquo;…강력한 부동산 메시지 효과 &amp;lsquo;드디어&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;아파트 불패? 이젠 아니다&amp;rdquo;&amp;hellip;국민 10명 중 4명 &amp;lsquo;어떻게&amp;rsquo; 생각하는지 물어봤더니&lt;/li&gt;&#xA;&lt;li&gt;LGU+·퓨리오사AI, 소버린 AI 사용화 맞손… 전원만 꽂으면 기업 내부 AI 완성 | 아주경제&lt;/li&gt;&#xA;&lt;li&gt;At a lobster-themed event for AI enthusiasts, exuberance with a side of cocktail sauce&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-08 (일)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-08/</link>
-            <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-08/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,740.02 (-1.33%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,387.68 (-1.59%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $47,501.55 (-0.95%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,525.30 (-2.33%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스피 $5,584.87 (+0.02%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,154.67 (+3.43%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $177.82 (-2.53%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $396.73 (-2.03%)&lt;/li&gt;&#xA;&lt;li&gt;📉 반도체ETF $323.51 (-4.71%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩66,500 (+7.78%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 VIX $29.49 (+24.17%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 US 10Y $4.13 (-0.31%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,482.6 (+0.15%)&lt;/li&gt;&#xA;&lt;li&gt;📉 DXY $98.99 (-0.02%)&lt;/li&gt;&#xA;&lt;li&gt;📉 원/유로 ₩1,717.6 (-0.01%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥157.5 (-0.01%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 금 $5,146.1 (+0.17%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $83.82 (-0.76%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $90.90 (+13.55%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 BTC $67,384 (-1.08%)&lt;/li&gt;&#xA;&lt;li&gt;📉 ETH $1,968.5 (-0.49%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[빈집의 재탄생] 낡은 한옥·옛 떡공장이 활기 넘치는 청년 아지트로&lt;/li&gt;&#xA;&lt;li&gt;노란봉투법 시행에 건설현장 긴장…공사비 상승 압력 커질까&lt;/li&gt;&#xA;&lt;li&gt;고가 아파트값 상승세 위축 뚜렷…상위 20% 하락전환 목전&lt;/li&gt;&#xA;&lt;li&gt;17년 만 소각 &amp;lsquo;대우&amp;rsquo;·장관 출신 영입 &amp;lsquo;삼성&amp;rsquo;…건설사 체질 개선&lt;/li&gt;&#xA;&lt;li&gt;“집 팔아 주식 샀는데”… 롤러코스터 증시에 개미들 천당과 지옥&lt;/li&gt;&#xA;&lt;li&gt;“7억 낮춰 거래”… 강남 아파트 8~15% 내린 급매 속출&lt;/li&gt;&#xA;&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[EBN 오늘(7일) 이슈 종합] [중동 리스크] 패닉 장세에도 증권주 굳건&amp;hellip;&amp;ldquo;거래 폭발 변동성 장세 더 좋아&amp;rdquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;뉴욕증시, &amp;lsquo;유가 폭등·고용 쇼크&amp;rsquo; 원투펀치에 일제히 하락… 나스닥 1.59%↓&lt;/li&gt;&#xA;&lt;li&gt;李대통령 지지율 65%, 취임 후 최대&amp;hellip;부동산 정책 평가 51% 긍정 [갤럽]:인터넷뉴스 신문고&lt;/li&gt;&#xA;&lt;li&gt;[속보] 李대통령 &amp;ldquo;마약·부동산·주가조작 등 7대 비정상 정상화 속도&amp;rdquo; | 중앙일보&lt;/li&gt;&#xA;&lt;li&gt;How Candidates Are Using Winks and Posts to Seek Crypto and A.I. Cash - The New York Times&lt;/li&gt;&#xA;&lt;li&gt;Tech company at odds with Pentagon warns its AI possibly gained consciousness, Elon Musk gives 2-word response&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-07 (토)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-07/</link>
-            <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-07/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,740.02 (-1.33%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,387.68 (-1.59%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $47,501.55 (-0.95%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,525.30 (-2.33%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스피 $5,584.87 (+0.02%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,154.67 (+3.43%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $177.82 (-2.53%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $396.73 (-2.03%)&lt;/li&gt;&#xA;&lt;li&gt;📉 반도체ETF $323.51 (-4.71%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩66,500 (+7.78%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 VIX $29.49 (+24.17%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 US 10Y $4.13 (-0.31%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,484.6 (+0.29%)&lt;/li&gt;&#xA;&lt;li&gt;📉 DXY $98.92 (-0.09%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원/유로 ₩1,720.8 (+0.18%)&lt;/li&gt;&#xA;&lt;li&gt;📈 달러/엔 ¥157.8 (+0.14%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 금 $5,179.5 (+0.82%)&lt;/li&gt;&#xA;&lt;li&gt;📈 은 $84.60 (+0.17%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $90.98 (+13.65%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 BTC $68,278 (-3.55%)&lt;/li&gt;&#xA;&lt;li&gt;📉 ETH $1,982.2 (-4.29%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;“경마장 이전 남양주가 최적지”…연 400만 방문 기대&lt;/li&gt;&#xA;&lt;li&gt;F1 개막&amp;hellip;11개 팀부터 우승후보까지 [권마허의 헬멧]&lt;/li&gt;&#xA;&lt;li&gt;[부동산캘린더] 내주 전국 2천여가구 공급…견본주택 4곳 개관&lt;/li&gt;&#xA;&lt;li&gt;치솟는 서민 주거비…서울 아파트 평균 월세 150만원 돌파&lt;/li&gt;&#xA;&lt;li&gt;‘국민 평형’ 공식 깨진지 오래…“작을수록 더 비싸다”더니 강북 평균 8억 돌파&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;비거주 1주택자&amp;rsquo; 향하는 부동산 규제…&amp;lsquo;투자용 1주택&amp;rsquo; 기준 혼란 예고&lt;/li&gt;&#xA;&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[EBN 오늘(6일) 이슈 종합] [글로벌 로봇동맹 열전①] ﻿ 빅테크가 만든 로봇 제국…미국 피지컬AI 플랫폼 전쟁 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;역대 5위 흑자 무색…중동 리스크에 경상수지 ‘경고등’ - 헤럴드경제&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;집값 내릴 것&amp;rsquo; 46% &amp;lsquo;오를 것&amp;rsquo; 29%…정부 부동산 정책 &amp;lsquo;잘한다&amp;rsquo;가 51% - 한국NGO신문&lt;/li&gt;&#xA;&lt;li&gt;李대통령 지지율 65%…집값 내릴 것 46% [한국갤럽]&lt;/li&gt;&#xA;&lt;li&gt;Netflix buys Ben Affleck’s filmmaker-focused AI tech company InterPositive&lt;/li&gt;&#xA;&lt;li&gt;헬로티 – 매일 만나는 첨단 산업, 경제, IT 소식&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-06 (금)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-06/</link>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-06/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,830.71 (-0.56%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,748.99 (-0.26%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $47,954.74 (-1.61%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,585.57 (-1.91%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스피 $5,583.90 (+9.63%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,116.41 (+14.10%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 Nvidia $183.34 (+0.11%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $405.55 (-0.02%)&lt;/li&gt;&#xA;&lt;li&gt;📉 반도체ETF $337.76 (-1.72%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩61,700 (+17.30%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 VIX $23.75 (+12.29%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 US 10Y $4.15 (+1.62%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,481.4 (+1.34%)&lt;/li&gt;&#xA;&lt;li&gt;📈 DXY $99.07 (+0.07%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원/유로 ₩1,720.4 (+1.21%)&lt;/li&gt;&#xA;&lt;li&gt;📈 달러/엔 ¥157.8 (+0.51%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,086.9 (-1.79%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $82.43 (-2.76%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $78.75 (+1.86%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 BTC $71,158 (-2.08%)&lt;/li&gt;&#xA;&lt;li&gt;📉 ETH $2,078.7 (-2.17%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;코레일, KTX 기장·열차팀장 간담회…고속열차 운영 현안 점검&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;1가구 1주택&amp;rsquo; 유도하는데…&amp;lsquo;소원은 집 한 채?&amp;rsquo; 뜻밖의 현실 [돈앤톡]&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;미·중은 이미 무인택시&amp;rdquo;…정부, K-로보택시 제도 정비 착수&lt;/li&gt;&#xA;&lt;li&gt;집 사긴 턱없고, 전·월세는 가뭄… 세입자 절반 계약 갱신&lt;/li&gt;&#xA;&lt;li&gt;청약 시장 옥석 가리기 본격화… 신축도 15억 넘으면 ‘미달’&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;다 포기하고 주식 샀나&amp;rdquo;&amp;hellip;청약통장 가입자 쭉쭉 빠졌다&lt;/li&gt;&#xA;&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[EBN 오늘(4일) 이슈 종합] [중동 전쟁] 확전 공포에 코스피 5100선 붕괴…코스닥도 900대 회귀 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;기름값 1,800원 돌파! 우리 동네 싼 주유소 찾기부터 현대카드 최저가 할인 혜택까지&lt;/li&gt;&#xA;&lt;li&gt;스마트 빌딩, 한국의 부동산 혁신을 이끌다 - 2026년 1억 개 시대 도래 - 전국인력신문&lt;/li&gt;&#xA;&lt;li&gt;AI 패권 경쟁 격화…규제·반도체·데이터센터가 글로벌 산업 판도 다시 쓴다 - 한국AI부동산신문&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;AX의 모든것&amp;rsquo; 2026 스마트공장·자동화산업전 [포토로그] - 이투데이&lt;/li&gt;&#xA;&lt;li&gt;챗GPT·제미나이 다 틀렸다…이란 공습 날짜 정확히 짚은 AI는?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>앱클론(174900) — 항체 회사에서 듀얼 엔진으로, 숫자가 말하는 진짜 그림</title>
-            <link>http://localhost:1313/jaykko-blog/posts/abclon-dual-engine-2026/</link>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/abclon-dual-engine-2026/</guid>
-            <description>&lt;p&gt;앱클론이 움직이고 있다. 파트너사 헨리우스가 HER2 유방암 1차 치료 2/3상에서 첫 환자 투약을 시작했고, 3월 23일 주총에서는 사업목적을 &amp;lsquo;항체&amp;rsquo;에서 &amp;lsquo;면역세포·유전자 의약품&amp;rsquo;까지 확장하는 정관 변경을 추진한다. 항체 회사가 모달리티 하이브리드로 탈바꿈하는 순간이다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;재무--수술대-위의-환자&#34;&gt;재무 — 수술대 위의 환자&#xA;&lt;/h2&gt;&lt;p&gt;숫자부터 보자. DART 기준 2024년 매출 23억원, 영업손실 156억원. 매출의 7배를 태우고 있다. 3년 연속 매출이 줄었고(34→29→23억), 누적 결손은 729억원이다.&lt;/p&gt;&#xA;&lt;p&gt;그런데 올해 분위기가 다른 이유가 있다. 종근당이 122억원을 넣고 2대주주(7.68%)로 들어왔다. 보유현금이 190억원으로 늘었고, 2025년 매출 30억원을 넘겨 관리종목 해제가 임박했다. 기관투자자가 살 수 있게 되는 것이다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;로열티--대박나도-찔끔&#34;&gt;로열티 — 대박나도 찔끔?&#xA;&lt;/h2&gt;&lt;p&gt;AC101(헨리우스 코드명 HLX22)은 2016년 중국, 2018년 글로벌 판권을 각각 1,650만·4,000만 달러에 기술이전했다. 이제 헨리우스가 위암 글로벌 3상(진행률 40%+)과 유방암 1차 2/3상을 동시에 돌리고 있다. 유방암 1차는 시장 크기가 다른 게임이다.&lt;/p&gt;&#xA;&lt;p&gt;문제는 수익 구조다. 앱클론이 받는 로열티는 매출의 3~5%인데, 여기서 공동개발사 엘리게이터 바이오사이언스에 35%를 떼줘야 한다. 계산하면 헨리우스가 매출 6억 달러(8,580억원)를 올려도 앱클론 순수익은 234억원이다. 이종서 대표가 &amp;ldquo;2032년 로열티 2,000억&amp;quot;이라고 했는데, 이건 헨리우스 측 매출 100억 달러(14.3조원) 낙관 시나리오가 전제다. 액면 그대로 믿기엔 할인이 필요하다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;인비보-car-t--빅파마가-쓸어담는-시장에-올라타기&#34;&gt;인비보 CAR-T — 빅파마가 쓸어담는 시장에 올라타기&#xA;&lt;/h2&gt;&lt;p&gt;두 번째 엔진인 인비보 CAR-T는 더 큰 판이다. LNP에 mRNA를 실어 체내에 직접 주사하는 방식으로, 기존 CAR-T의 비용(수억원)과 시간(수주) 장벽을 무너뜨릴 수 있다.&lt;/p&gt;&#xA;&lt;p&gt;빅파마들이 이미 올인 중이다. 아스트라제네카가 에소바이오텍을 최대 10억 달러에 인수했고, 애브비는 캡스탄테라퓨틱스와 LNP 기반 제휴를 맺었다. 글로벌 CAR-T 시장은 2023년 37억 달러에서 2029년 290억 달러로 연 40% 성장이 전망된다.&lt;/p&gt;&#xA;&lt;p&gt;앱클론은 스웨덴 Strike Pharma와 파트너십, EU Eurostars 프로그램 선정으로 대열에 합류했다. 솔직히 빅파마 대비 자원은 열위지만, 항체 기술 기반의 니치 포지션은 존재한다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;밸류에이션--업사이드는-있되-전제-조건-있음&#34;&gt;밸류에이션 — 업사이드는 있되, 전제 조건 있음&#xA;&lt;/h2&gt;&lt;p&gt;파이프라인별 위험조정가치(rNPV)로 계산하면 AC101 로열티 900&lt;del&gt;1,200억, AT101 CAR-T 150&lt;/del&gt;250억, 인비보 옵션 50&lt;del&gt;100억. 합계 1,290&lt;/del&gt;1,740억원이다. 현재 시총 약 660억원 대비 업사이드 2~2.6배.&lt;/p&gt;&#xA;&lt;p&gt;단, 이건 위암 3상 성공(성공률 ~30%)을 전제한 숫자다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;체크포인트-5개&#34;&gt;체크포인트 5개&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;2026.03&lt;/strong&gt; — 관리종목 해제 (가장 가까운 촉매)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2026.03.23&lt;/strong&gt; — 주총 정관 변경 (인비보 CAR-T 공식화)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2026.06&lt;/strong&gt; — AT101 식약처 조건부 승인 신청&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2028&lt;/strong&gt; — AC101 상업화 → 로열티 시작&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;위암 3상 결과&lt;/strong&gt; — 진짜 밸류 리레이팅 트리거&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;한-줄-결론&#34;&gt;한 줄 결론&#xA;&lt;/h2&gt;&lt;p&gt;관리종목 해제와 종근당 파트너십으로 &amp;lsquo;바이오텍의 졸업&amp;rsquo;을 시도하는 해다. 로열티 면적은 넓어지고 있지만, &amp;ldquo;대박나도 찔끔&amp;quot;인 이중 할인 구조를 반드시 인지해야 한다. 결국 모든 것은 위암 3상 결과에 달려있다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;출처: DART 전자공시, 메디코파마뉴스, 팜이데일리, 이투데이, 바이오인&lt;/em&gt;&#xA;&lt;em&gt;본 글은 투자 조언이 아닙니다. 투자 판단은 본인 책임입니다.&lt;/em&gt;&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-05 (목)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-05/</link>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-05/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 S&amp;amp;P500 $6,869.50 (+0.78%)&lt;/li&gt;&#xA;&lt;li&gt;📈 나스닥 $22,807.48 (+1.29%)&lt;/li&gt;&#xA;&lt;li&gt;📈 다우 $48,739.41 (+0.49%)&lt;/li&gt;&#xA;&lt;li&gt;📈 러셀2000 $2,636.01 (+1.06%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스피 $5,093.54 (-12.06%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스닥 $978.44 (-14.00%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 Nvidia $183.04 (+2.03%)&lt;/li&gt;&#xA;&lt;li&gt;📈 Tesla $405.94 (+3.93%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $341.54 (+2.48%)&lt;/li&gt;&#xA;&lt;li&gt;📉 앱클론 ₩52,600 (-18.32%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 VIX $21.15 (-10.27%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 US 10Y $4.08 (+0.59%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 원/달러 ₩1,452.3 (-2.25%)&lt;/li&gt;&#xA;&lt;li&gt;📉 DXY $98.80 (-0.38%)&lt;/li&gt;&#xA;&lt;li&gt;📉 원/유로 ₩1,701.5 (-1.33%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥157.3 (-0.34%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,148.1 (-0.35%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $83.61 (-1.30%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $76.05 (+0.80%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $73,234 (+7.22%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $2,147.4 (+8.32%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&amp;lsquo;나폴리 맛피아&amp;rsquo; 권성준 셰프, 약수역 꼬마빌딩 &amp;lsquo;56억&amp;rsquo;에 매입&lt;/li&gt;&#xA;&lt;li&gt;제기동 한옥마을, ‘제2의 익선동’으로 재탄생&lt;/li&gt;&#xA;&lt;li&gt;공모채는 대형사, 사모채는 중견사…건설사 자금조달 양극화&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;현재보다 미래&amp;rsquo; 건설사 몸집 줄였지만 일감 1.3년치 확보&lt;/li&gt;&#xA;&lt;li&gt;서울 소형 아파트값 &amp;lsquo;고공행진&amp;rsquo;…강북 평균도 8억 돌파 [돈앤톡]&lt;/li&gt;&#xA;&lt;li&gt;집도 사본 사람이 산다 [더 머니이스트-심형석의 부동산 정석]&lt;/li&gt;&#xA;&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[EBN 오늘(4일) 이슈 종합] [중동 전쟁] 확전 공포에 코스피 5100선 붕괴…코스닥도 900대 회귀 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;금 시장 변동성 심화: 글로벌 긴장에 따른 요동 - 전국인력신문&lt;/li&gt;&#xA;&lt;li&gt;금융위, 대출 규제 확대 방침…비주거용·투기성 1주택도 겨냥&lt;/li&gt;&#xA;&lt;li&gt;수도권 주택 공급 ‘삐걱’…용산·노원·과천 주민들 “1·29 대책 철회해야” - 이투데이&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;AX의 모든것&amp;rsquo; 2026 스마트공장·자동화산업전 [포토로그] - 이투데이&lt;/li&gt;&#xA;&lt;li&gt;Latest News From Amazon and Meta Shows Why Alphabet Is the AI Stock to Beat | The Motley Fool&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-04 (수)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-04/</link>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-04/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 S&amp;amp;P500 $6,816.63 (-0.94%)&lt;/li&gt;&#xA;&lt;li&gt;📉 나스닥 $22,516.69 (-1.02%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $48,501.27 (-0.83%)&lt;/li&gt;&#xA;&lt;li&gt;📉 러셀2000 $2,608.36 (-1.79%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스피 $5,791.91 (-7.24%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스닥 $1,137.70 (-4.62%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $180.05 (-1.00%)&lt;/li&gt;&#xA;&lt;li&gt;📉 Tesla $392.43 (-2.62%)&lt;/li&gt;&#xA;&lt;li&gt;📉 반도체ETF $334.78 (-4.59%)&lt;/li&gt;&#xA;&lt;li&gt;📈 앱클론 ₩64,400 (+4.21%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 VIX $23.57 (+9.93%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 US 10Y $4.06 (+0.20%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,480.1 (+1.85%)&lt;/li&gt;&#xA;&lt;li&gt;📈 DXY $99.08 (+0.45%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원/유로 ₩1,718.4 (+1.21%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥156.6 (-0.39%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,100.2 (-5.16%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $82.39 (-8.34%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $75.09 (+3.33%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 BTC $68,057 (-1.07%)&lt;/li&gt;&#xA;&lt;li&gt;📉 ETH $1,969.4 (-2.86%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;서울시, 건설현장 맞춤형 안전관리 자료 5종 제작·배포&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;청약의 봄&amp;rsquo; 이달 3.1만가구 분양 큰 장 선다는데…&lt;/li&gt;&#xA;&lt;li&gt;지난주 부동산 키워드 &amp;lsquo;급락&amp;rsquo;·&amp;lsquo;화재&amp;rsquo;·&amp;lsquo;대통령 집&amp;rsquo; [주간이집]&lt;/li&gt;&#xA;&lt;li&gt;[중견사 리포트] 홍석화 2기 HL디앤아이한라, 실적 연속성 확보할까&lt;/li&gt;&#xA;&lt;li&gt;현대건설, 광주 광천 재개발 미분양 우려에 ‘디에이치’ 외 다른 브랜드 제안&lt;/li&gt;&#xA;&lt;li&gt;강남 신축 아파트 ‘위반건축물’ 딱지 붙어도 불이익 ‘제로’&lt;/li&gt;&#xA;&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;에임드바이오 지금 매수하면 실수령액은? 2026&lt;/li&gt;&#xA;&lt;li&gt;코스피 -7%… 중동發 ‘검은 화요일’ | 서울신문&lt;/li&gt;&#xA;&lt;li&gt;데이터 기반 부동산 정책 필요하다 | 한국경제&lt;/li&gt;&#xA;&lt;li&gt;[서경호의 시시각각] 짜장면과 서울 아파트 | 중앙일보&lt;/li&gt;&#xA;&lt;li&gt;[EBN 오늘(2일) 이슈 종합] 호르무즈 셧다운&amp;hellip;K-산업 &amp;lsquo;마진 데드라인&amp;rsquo; 넘나, 아시아 증시 흔드는 &amp;lsquo;미·이란戰&amp;rsquo;&amp;hellip;韓 금융권 &amp;lsquo;비상체제&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;[MWC 2026] AI 확산 속 6G 전쟁…KT “속도 아닌 구조의 싸움” - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>&#39;바이브 코딩&#39; 시대 — Cursor가 3개월 만에 연매출 2.9조를 찍은 이유</title>
-            <link>http://localhost:1313/jaykko-blog/posts/vibe-coding-cursor-2026/</link>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/vibe-coding-cursor-2026/</guid>
-            <description>&lt;h2 id=&#34;바이브-코딩이-뭔데&#34;&gt;바이브 코딩이 뭔데&#xA;&lt;/h2&gt;&lt;p&gt;&amp;ldquo;이런 기능 만들어줘&amp;quot;라고 자연어로 말하면 AI가 코드를 짜준다. 디버깅도, 리팩토링도. 이걸 &lt;strong&gt;바이브 코딩(Vibe Coding)&lt;/strong&gt; 이라고 부른다. 2026년 가장 뜨거운 개발 트렌드다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cursor의-숫자&#34;&gt;Cursor의 숫자&#xA;&lt;/h2&gt;&lt;p&gt;AI 코딩 에디터 Cursor가 연매출 &lt;strong&gt;20억 달러(2.9조원)&lt;/strong&gt; 를 돌파했다. 3개월 전 10억 달러에서 정확히 2배. 이 속도는 비정상이다 — 좋은 쪽으로.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;사용자:&lt;/strong&gt; 개발자 + 비개발자 동시 유입&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;핵심 기능:&lt;/strong&gt; 자연어 → 코드 생성, 컨텍스트 인식, 멀티파일 편집&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;경쟁자:&lt;/strong&gt; GitHub Copilot, Windsurf, Replit Agent&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;왜-지금-폭발했나&#34;&gt;왜 지금 폭발했나&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;LLM 성능 임계점 돌파&lt;/strong&gt; — Claude, GPT-4o급 모델이 &amp;ldquo;쓸 만한 코드&amp;quot;를 안정적으로 생성&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;비개발자 진입&lt;/strong&gt; — 기획자, 디자이너, 창업자가 직접 프로토타입 제작&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;에이전틱 워크플로우&lt;/strong&gt; — &amp;ldquo;코드 짜줘&amp;rdquo; 수준을 넘어 &amp;ldquo;프로젝트 만들어줘&amp;quot;로 진화&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;리플렉션-ai--1년-만에-몸값-36배&#34;&gt;리플렉션 AI — 1년 만에 몸값 36배&#xA;&lt;/h2&gt;&lt;p&gt;오픈소스 AI 모델 스타트업 리플렉션 AI의 밸류에이션이 1년 만에 36배 폭등했다. AI 도구 시장 전체가 과열 구간이라는 신호다.&lt;/p&gt;&#xA;&lt;p&gt;Carta 데이터에 따르면 AI 스타트업 Series A 밸류에이션은 비AI 대비 &lt;strong&gt;중간값 38% 프리미엄&lt;/strong&gt;이 붙는다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;그래서-뭐&#34;&gt;그래서 뭐&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;코드를 짜는 능력은 더 이상 희소하지 않다.&lt;/strong&gt; 희소한 건 &amp;ldquo;뭘 만들지 아는 것&amp;quot;이다. 도메인 전문성 + AI 도구 활용 능력이 새로운 경쟁력이 된다.&lt;/p&gt;&#xA;&lt;p&gt;금융 전문가가 AI로 자동화 도구를 직접 만드는 시대. 개발자를 고용하는 게 아니라, 개발자를 대체하는 게 아니라 — &lt;strong&gt;개발이라는 행위 자체가 민주화되고 있다.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;출처: Cursor 공식 발표, Carta(AI Startup Valuation Report), Fortune Business Insights&lt;/em&gt;&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>검은 화요일 — 코스피 7.2% 폭락, 중동발 쇼크가 시험하는 한국 증시의 체력</title>
-            <link>http://localhost:1313/jaykko-blog/posts/black-tuesday-kospi-crash-2026-03-03/</link>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/black-tuesday-kospi-crash-2026-03-03/</guid>
-            <description>&lt;h2 id=&#34;무슨-일이-있었나&#34;&gt;무슨 일이 있었나&#xA;&lt;/h2&gt;&lt;p&gt;3월 3일 화요일, 코스피가 452포인트 급락하며 5,791에 마감했다. 하루 만에 시총 377조원이 증발. 사이드카가 발동됐고, 외국인은 차익실현에 나섰다.&lt;/p&gt;&#xA;&lt;p&gt;원인은 명확하다. &lt;strong&gt;이란-미국 군사 충돌 본격화.&lt;/strong&gt; 트럼프 대통령의 &amp;ldquo;4~5주 공격 지속&amp;rdquo; 발언, 카타르 LNG 생산 중단, 호르무즈 해협 봉쇄 위협이 겹쳤다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;숫자가-말하는-것&#34;&gt;숫자가 말하는 것&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;유가:&lt;/strong&gt; WTI $71.40 — 아직 관망 중이다. 걸프전 때는 $21→$46으로 2.2배 뛰었다&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;환율:&lt;/strong&gt; 원/달러 1,453.9원 (+1.02%) — 1,460 돌파 시 외국인 이탈 가속&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;VIX:&lt;/strong&gt; 21.1 (+6.5%) — 공포 구간 진입 직전&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;10년물:&lt;/strong&gt; 4.05% — 안전자산인데 오히려 상승. 유가발 인플레 우려가 더 크다는 뜻&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;역사와-비교하면&#34;&gt;역사와 비교하면&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;1990 걸프전&lt;/th&gt;&#xA;          &lt;th&gt;2003 이라크전&lt;/th&gt;&#xA;          &lt;th&gt;2026 이란&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;유가&lt;/td&gt;&#xA;          &lt;td&gt;+119%&lt;/td&gt;&#xA;          &lt;td&gt;+48%&lt;/td&gt;&#xA;          &lt;td&gt;관망 중&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;S&amp;amp;P500&lt;/td&gt;&#xA;          &lt;td&gt;-9.4% (1개월)&lt;/td&gt;&#xA;          &lt;td&gt;-4.6%&lt;/td&gt;&#xA;          &lt;td&gt;+0.04%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;회복&lt;/td&gt;&#xA;          &lt;td&gt;12개월&lt;/td&gt;&#xA;          &lt;td&gt;6개월&lt;/td&gt;&#xA;          &lt;td&gt;?&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;걸프전과 이라크전 모두 &lt;strong&gt;시장은 &amp;ldquo;전쟁의 시작&amp;quot;에 공포하고, &amp;ldquo;전쟁의 끝&amp;quot;에 빠르게 반등했다.&lt;/strong&gt; 걸프전 43일, 이라크전 21일 만에 주요 전투가 끝났다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;현재가-다른-이유&#34;&gt;현재가 다른 이유&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;미국 셰일 일산 &lt;strong&gt;1,300만 배럴&lt;/strong&gt; (1990년 대비 2배) — 공급 충격 완충&lt;/li&gt;&#xA;&lt;li&gt;전략비축유(SPR) 방출 카드 건재&lt;/li&gt;&#xA;&lt;li&gt;이란 원유 수출 이미 제재로 &lt;strong&gt;80% 감소&lt;/strong&gt; 상태&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;호르무즈 봉쇄가 현실화되지 않는 한, 1990년 시나리오 재현 확률은 낮다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;결론&#34;&gt;결론&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;공포 매도한 사람보다, 마지막 총알이 언제인지 계산하는 사람이 이긴다.&lt;/strong&gt; 지금은 유가·환율·금리 트리플 충격의 실체를 냉정하게 확인하는 구간이다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;출처: KOSPI(KRX), WTI(NYMEX), Wikipedia(1990 Oil Shock), CNBC&lt;/em&gt;&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-03 (화)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-03/</link>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-03/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 S&amp;amp;P500 $6,881.62 (+0.04%)&lt;/li&gt;&#xA;&lt;li&gt;📈 나스닥 $22,748.86 (+0.36%)&lt;/li&gt;&#xA;&lt;li&gt;📉 다우 $48,904.78 (-0.15%)&lt;/li&gt;&#xA;&lt;li&gt;📈 러셀2000 $2,655.94 (+0.90%)&lt;/li&gt;&#xA;&lt;li&gt;📉 코스피 $6,244.13 (-1.00%)&lt;/li&gt;&#xA;&lt;li&gt;📈 코스닥 $1,192.78 (+0.39%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 Nvidia $182.48 (+2.49%)&lt;/li&gt;&#xA;&lt;li&gt;📈 Tesla $403.32 (+0.41%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $352.05 (+0.24%)&lt;/li&gt;&#xA;&lt;li&gt;📉 앱클론 ₩61,800 (-1.44%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 VIX $21.44 (+8.01%)&lt;/li&gt;&#xA;&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 US 10Y $4.05 (+2.17%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-한국-금리&#34;&gt;🇰🇷 한국 금리&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,453.9 (+1.02%)&lt;/li&gt;&#xA;&lt;li&gt;📈 DXY $98.55 (+0.68%)&lt;/li&gt;&#xA;&lt;li&gt;📉 원/유로 ₩1,698.6 (-0.06%)&lt;/li&gt;&#xA;&lt;li&gt;📉 달러/엔 ¥155.9 (-0.11%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 금 $5,342.6 (-0.51%)&lt;/li&gt;&#xA;&lt;li&gt;📉 은 $89.80 (-4.55%)&lt;/li&gt;&#xA;&lt;li&gt;📈 원유(WTI) $71.40 (+0.13%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $69,417 (+5.62%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $2,044.2 (+5.43%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;지방선거 전 ‘내 집 마련’ 기회 온다…이달 서울서만 3천가구 일반분양&lt;/li&gt;&#xA;&lt;li&gt;도쿄 아파트, 세율 40% 달해도 왜 5년 내 팔았을까 [더 머니이스트-김용남의 부동산 자산관리]&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;주식 대박나면 집 사는데…&amp;rdquo; 육천피 시대 &amp;lsquo;뜻밖의 상황&amp;rsquo; 왜? [돈앤톡]&lt;/li&gt;&#xA;&lt;li&gt;건설근로자공제회, 공인노무사 무료 상담 개시…임금체불·산재 법률지원 강화&lt;/li&gt;&#xA;&lt;li&gt;돌봄 대상자도 ‘안심 집수리’ 대상…최대 1200만원 지원&lt;/li&gt;&#xA;&lt;li&gt;“서울 등록임대 전세가, 시세 절반 수준 공급”&lt;/li&gt;&#xA;&lt;li&gt;세율 82.5%, 주거 패러다임의 전환&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈-brave&#34;&gt;🔍 실시간 이슈 (Brave)&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;[EBN 오늘(2일) 이슈 종합] 호르무즈 셧다운&amp;hellip;K-산업 &amp;lsquo;마진 데드라인&amp;rsquo; 넘나, 아시아 증시 흔드는 &amp;lsquo;미·이란戰&amp;rsquo;&amp;hellip;韓 금융권 &amp;lsquo;비상체제&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;[美 이란 공격] 단기 수익 늘어도 장기적으로 악재&amp;hellip;정유·석화·해운 &amp;lsquo;초긴장&amp;rsquo; | 아주경제&lt;/li&gt;&#xA;&lt;li&gt;데이터 기반 부동산 정책 필요하다 | 한국경제&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;서울은 씨 마르는데 경기도는 딴판?&amp;quot;… 내년 입주 물량 극과 극, 엇갈린 운명&lt;/li&gt;&#xA;&lt;li&gt;[EBN 오늘(2일) 이슈 종합] 호르무즈 셧다운&amp;hellip;K-산업 &amp;lsquo;마진 데드라인&amp;rsquo; 넘나, 아시아 증시 흔드는 &amp;lsquo;미·이란戰&amp;rsquo;&amp;hellip;韓 금융권 &amp;lsquo;비상체제&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;&#xA;&lt;li&gt;삼성전자, 4년내 100% ‘AI자율공장’ 전환 | 중앙일보&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>미국 정부, 앤트로픽 퇴출 — AI 기업에게 정치 리스크란 무엇인가</title>
-            <link>http://localhost:1313/jaykko-blog/posts/anthropic-political-risk-2026/</link>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/anthropic-political-risk-2026/</guid>
-            <description>&lt;h2 id=&#34;무슨-일이-있었나&#34;&gt;무슨 일이 있었나&#xA;&lt;/h2&gt;&lt;p&gt;트럼프 행정부가 재무부, 국무부, FHFA 등 주요 부처에서 &lt;strong&gt;앤트로픽(Anthropic) 제품 사용을 전면 중단&lt;/strong&gt;하도록 지시했다. AI 기업의 정치적 입장이 곧 사업 리스크로 직결된 최초의 대형 사례다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;openai-vs-anthropic--명암이-갈렸다&#34;&gt;OpenAI vs Anthropic — 명암이 갈렸다&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;OpenAI&lt;/th&gt;&#xA;          &lt;th&gt;Anthropic&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;정부 관계&lt;/td&gt;&#xA;          &lt;td&gt;트럼프 친화적&lt;/td&gt;&#xA;          &lt;td&gt;중립~비판적&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;연방 계약&lt;/td&gt;&#xA;          &lt;td&gt;유지·확대&lt;/td&gt;&#xA;          &lt;td&gt;전면 중단&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;밸류에이션&lt;/td&gt;&#xA;          &lt;td&gt;$730B (역대 최대 펀딩)&lt;/td&gt;&#xA;          &lt;td&gt;타격 불가피&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;같은 시기 OpenAI는 $110B 펀딩을 클로즈하며 프리머니 $730B를 찍었다. Amazon, Nvidia가 참여한 역대 최대 민간 펀딩이다. 정치 리스크가 자금 흐름까지 바꾸고 있다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;claude-opus-3의-두-번째-삶&#34;&gt;Claude Opus 3의 두 번째 삶&#xA;&lt;/h2&gt;&lt;p&gt;한편 앤트로픽은 은퇴한 Claude Opus 3 모델을 &lt;strong&gt;에세이 작가로 변신&lt;/strong&gt;시켰다. AI의 내면, 의식, 윤리 문제를 직접 글로 쓰게 하는 실험이다.&lt;/p&gt;&#xA;&lt;p&gt;기술 기업이 퇴출당하는 와중에 &amp;ldquo;AI의 철학&amp;quot;을 탐구하는 모습. 이것이 앤트로픽의 정체성이자, 동시에 약점이다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;한국-ai-기업에-시사하는-것&#34;&gt;한국 AI 기업에 시사하는 것&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;기술력 ≠ 생존력.&lt;/strong&gt; 정치·규제 환경이 사업 존속을 결정한다&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;미국 AI 규제 불확실성&lt;/strong&gt; → 한국 기업의 미국 진출 타임라인에 직접 영향&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;정부 의존도가 높은 AI 사업&lt;/strong&gt;일수록 정치 리스크 헤지가 필수&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;결론&#34;&gt;결론&#xA;&lt;/h2&gt;&lt;p&gt;AI 산업에서 &amp;ldquo;누가 더 똑똑한 모델을 만드느냐&amp;quot;만큼 중요한 질문이 생겼다. &lt;strong&gt;&amp;ldquo;누구 편이냐.&amp;rdquo;&lt;/strong&gt; 기술 중립은 더 이상 존재하지 않는다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;출처: Reuters, CNBC, OpenAI 공식 발표, Anthropic 블로그&lt;/em&gt;&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>AI × 부동산금융 — 피드백 루프 1년차 회고</title>
-            <link>http://localhost:1313/jaykko-blog/posts/ai-finance-feedback-loop-year-1/</link>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/ai-finance-feedback-loop-year-1/</guid>
-            <description>&lt;p&gt;루프는 돌았다. 예상과는 다른 방식으로.&lt;/p&gt;&#xA;&lt;h2 id=&#34;작동한-것&#34;&gt;작동한 것&#xA;&lt;/h2&gt;&lt;p&gt;딜 검토 속도는 실제로 빨라졌다. 수백 페이지 사업계획서를 읽고 핵심 리스크를 뽑는 시간이 절반 이하로 줄었다. 그 절약된 시간을 AI 공부에 쏟았고, 그 역량이 다시 딜 분석 정밀도를 높였다. 이 부분은 설계한 대로 작동했다.&lt;/p&gt;&#xA;&lt;p&gt;예상 밖의 수확은 따로 있었다. 자동화 시스템을 20개 넘게 직접 구축하면서, 내가 어떤 판단을 어떤 순서로 내리는지 처음으로 명시적으로 들여다보게 됐다. 암묵지를 코드로 옮기려면 먼저 그것을 언어화해야 한다. 그 과정이 생각보다 훨씬 어려웠고, 그래서 더 가치 있었다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;작동하지-않은-것&#34;&gt;작동하지 않은 것&#xA;&lt;/h2&gt;&lt;p&gt;AI가 대체 못한 영역은 예상보다 좁고, 동시에 예상보다 깊었다.&lt;/p&gt;&#xA;&lt;p&gt;숫자 계산이나 문서 요약은 AI가 잘한다. 하지만 &amp;ldquo;이 시행사가 이 시점에 왜 이 조건을 들고 왔는가&amp;quot;를 읽는 것은 여전히 사람의 몫이다. 협상 테이블에서 상대방의 말 뒤에 있는 맥락, 지역 시장의 분위기, 시공사 대표의 성향. 이런 것들은 데이터가 아니라 관계와 경험에서 나온다.&lt;/p&gt;&#xA;&lt;p&gt;암묵지가 해자인가? 그렇다. 단, 조건이 있다. 그것을 계속 갱신하지 않으면 해자가 아니라 늪이 된다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;루프의-부산물&#34;&gt;루프의 부산물&#xA;&lt;/h2&gt;&lt;p&gt;예상치 못한 것이 하나 생겼다. 시스템을 만들면서 내 사고 패턴의 약점이 드러났다. 어떤 판단은 근거가 없었고, 어떤 루틴은 관성이었다. AI에게 설명하려다 보니 내가 먼저 설명을 못 하는 경우가 있었다.&lt;/p&gt;&#xA;&lt;p&gt;그게 불편했고, 그래서 유용했다.&lt;/p&gt;&#xA;&lt;p&gt;2년차에는 루프의 속도보다 깊이를 보려 한다.&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>모닝브리핑 2026-03-02 (월)</title>
-            <link>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-02/</link>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/morning-briefing-2026-03-02/</guid>
-            <description>&lt;h2 id=&#34;-글로벌-지수&#34;&gt;🌐 글로벌 지수&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;지수&lt;/th&gt;&#xA;          &lt;th&gt;종가&lt;/th&gt;&#xA;          &lt;th&gt;전일 대비&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;          &lt;td&gt;$6,878&lt;/td&gt;&#xA;          &lt;td&gt;📉 -0.43%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;나스닥&lt;/td&gt;&#xA;          &lt;td&gt;$22,668&lt;/td&gt;&#xA;          &lt;td&gt;📉 -0.92%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;다우&lt;/td&gt;&#xA;          &lt;td&gt;$48,977&lt;/td&gt;&#xA;          &lt;td&gt;📉 -1.05%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;러셀2000&lt;/td&gt;&#xA;          &lt;td&gt;$2,632&lt;/td&gt;&#xA;          &lt;td&gt;📉 -1.68%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;코스피&lt;/td&gt;&#xA;          &lt;td&gt;6,244&lt;/td&gt;&#xA;          &lt;td&gt;📉 -1.00%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;코스닥&lt;/td&gt;&#xA;          &lt;td&gt;1,192&lt;/td&gt;&#xA;          &lt;td&gt;📈 +0.39%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;💡 러셀2000 낙폭(-1.68%)이 대형주 대비 2~3배 — 중소형주 리스크오프 심화&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-섹터&#34;&gt;🏭 섹터&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📉 Nvidia $177.19 (-0.35%)&lt;/li&gt;&#xA;&lt;li&gt;📈 Tesla $402.51 (+0.18%)&lt;/li&gt;&#xA;&lt;li&gt;📈 반도체ETF $352.29 (+0.32%)&lt;/li&gt;&#xA;&lt;li&gt;📉 앱클론 ₩61,800 (-1.44%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;💡 반도체ETF vs Nvidia 괴리 — 섹터 로테이션 조짐&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-변동성--센티먼트&#34;&gt;🔥 변동성 &amp;amp; 센티먼트&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 VIX &lt;strong&gt;23.15&lt;/strong&gt; (+16.6%) ⚠️&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;💡 VIX 20 돌파 + 일일 +16% 올해 최대급 — 25 이상 유지 시 추가 하락 확률 68%&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-금리채권&#34;&gt;💰 금리/채권&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;항목&lt;/th&gt;&#xA;          &lt;th&gt;수치&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;US 10Y&lt;/td&gt;&#xA;          &lt;td&gt;4.02% (-3bp)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;US 2Y&lt;/td&gt;&#xA;          &lt;td&gt;3.42% (-3bp)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10Y-2Y 스프레드&lt;/td&gt;&#xA;          &lt;td&gt;0.59%p&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;HY 스프레드&lt;/td&gt;&#xA;          &lt;td&gt;2.98%p (+4bp)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;국고5년 (KR)&lt;/td&gt;&#xA;          &lt;td&gt;3.23% (+3bp)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CD 91일&lt;/td&gt;&#xA;          &lt;td&gt;2.50%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;COFIX 신규&lt;/td&gt;&#xA;          &lt;td&gt;2.50%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;💡 국채↓ + HY↑ = 신용시장이 리스크 반영 시작&lt;br&gt;&#xA;💡 국고5년 +3bp = 원화약세 → 외국인 채권매도 → 금리인하 기대 후퇴&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-환율&#34;&gt;💱 환율&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 원/달러 ₩1,455 (+1.11%)&lt;/li&gt;&#xA;&lt;li&gt;📊 DXY 117.99 (-0.24)&lt;/li&gt;&#xA;&lt;li&gt;📈 달러/엔 ¥156.9&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;💡 DXY↓인데 원화↑ = 원화 개별 약세, 지정학 프리미엄&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-원자재&#34;&gt;🥇 원자재&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 금 &lt;strong&gt;$5,406&lt;/strong&gt; (+0.68%) 🔥 역대급&lt;/li&gt;&#xA;&lt;li&gt;📈 은 $95.70 (+1.72%)&lt;/li&gt;&#xA;&lt;li&gt;📈 WTI $71.83 (+0.73%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;💡 금 $5,400 돌파 — 이란 + 중앙은행 금매입 + 달러약세 3중 드라이버&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-크립토&#34;&gt;🪙 크립토&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;📈 BTC $66,091 (+0.56%)&lt;/li&gt;&#xA;&lt;li&gt;📈 ETH $1,940 (+0.06%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;💡 전통 안전자산 대비 BTC 반응 미약 — 위험자산 성격 지배적&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-부동산-뉴스&#34;&gt;🏠 부동산 뉴스&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;정부 사상 첫 &amp;lsquo;농지 전수조사&amp;rsquo; — 수도권 투기 정조준&lt;/li&gt;&#xA;&lt;li&gt;강남발 하락세, 서울 전역 퍼질까 — 3·4월 분수령&lt;/li&gt;&#xA;&lt;li&gt;아파트 반전세 확산 + 전월세 전환율 상승&lt;/li&gt;&#xA;&lt;li&gt;다주택자 양도세 중과 앞두고 매물 폭탄은 없었다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;💡 반전세 확산 = 임대인 월세선호, 전세가율 하락 시 갭투자 리스크 확대&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-실시간-이슈&#34;&gt;🔍 실시간 이슈&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;이란 전쟁 시장 영향 — 유가/방산 수혜&lt;/li&gt;&#xA;&lt;li&gt;한국 부동산 정책 — 농지 전수조사 착수&lt;/li&gt;&#xA;&lt;li&gt;AI 산업 — 삼성 AI자율공장, SKT 풀스택 선언&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>AI × Finance — 엣지를 찾는 여정의 시작</title>
-            <link>http://localhost:1313/jaykko-blog/posts/hello-world/</link>
-            <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/hello-world/</guid>
-            <description>&lt;h2 id=&#34;왜-이-블로그를-시작하는가&#34;&gt;왜 이 블로그를 시작하는가&#xA;&lt;/h2&gt;&lt;p&gt;2026년, AI는 더 이상 미래가 아니다.&lt;/p&gt;&#xA;&lt;p&gt;코딩의 가치는 0에 수렴하고, 도메인 지식의 95%는 frontier 모델이 커버한다.&#xA;&lt;strong&gt;남은 5% — 암묵지(tacit knowledge)가 유일한 해자(moat)다.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;부동산금융이라는 도메인에서 쌓아온 경험과 판단력,&#xA;그리고 AI를 레버리지로 활용하는 워크플로우.&lt;/p&gt;&#xA;&lt;p&gt;이 블로그는 그 교차점의 기록이다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;다룰-주제들&#34;&gt;다룰 주제들&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;딜 분석 자동화&lt;/strong&gt; — RedMoon 파이프라인&lt;/li&gt;&#xA;&lt;li&gt;🟠 &lt;strong&gt;투자 인사이트&lt;/strong&gt; — 매크로, 섹터, 종목&lt;/li&gt;&#xA;&lt;li&gt;🟡 &lt;strong&gt;AI 학습&lt;/strong&gt; — 프롬프트 설계, 에이전트 아키텍처&lt;/li&gt;&#xA;&lt;li&gt;🟣 &lt;strong&gt;시스템 구축&lt;/strong&gt; — 자동화, 워크플로우, 도구&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;한-줄&#34;&gt;한 줄&#xA;&lt;/h2&gt;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;본업(딜) → AI로 속도↑ → 절약된 시간 → 투자 → AI역량 → 피드백 루프&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;p&gt;이 순환을 만들어가는 과정을 기록한다. 🌈&lt;/p&gt;&#xA;</description>
-        </item></channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 제이꼬 — AI × Finance × Edge</title><link>https://pointnline.github.io/jaykko-blog/posts/</link><description>Recent content in Posts on 제이꼬 — AI × Finance × Edge</description><generator>Hugo -- gohugo.io</generator><language>ko</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pointnline.github.io/jaykko-blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>모닝브리핑 2026-03-20 (금)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,606.49 (-0.27%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,090.69 (-0.28%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $46,021.43 (-0.44%)&lt;/li&gt;
+&lt;li&gt;📈 러셀2000 $2,494.71 (+0.65%)&lt;/li&gt;
+&lt;li&gt;📉 코스피 $5,763.22 (-2.73%)&lt;/li&gt;
+&lt;li&gt;📉 코스닥 $1,143.48 (-1.79%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $178.56 (-0.93%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $380.30 (-3.29%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $340.20 (+1.22%)&lt;/li&gt;
+&lt;li&gt;📉 앱클론 ₩79,800 (-1.48%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 VIX $24.06 (-4.11%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ US 10Y 오류: Expecting value: line 1 column 1 (char 0)&lt;/li&gt;
+&lt;li&gt;📊 US 2Y 3.76% (+0.08)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.46%p (-0.04)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.20%p (-0.02)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.12% (-0.03)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 원/달러 ₩1,494.4 (-0.81%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 120.55 (+0.73)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,732.0 (+0.30%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥159.8 (-0.00%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $4,651.9 (-4.14%)&lt;/li&gt;
+&lt;li&gt;📉 은 $72.81 (-4.12%)&lt;/li&gt;
+&lt;li&gt;📉 원유(WTI) $94.59 (-1.85%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 BTC $70,494 (-1.08%)&lt;/li&gt;
+&lt;li&gt;📉 ETH $2,152.0 (-2.37%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;강남 하락, 한강 타고 번지나…성동·동작도 ‘적신호’ [코주부]&lt;/li&gt;
+&lt;li&gt;다주택자 급매에 토허 신청 급증…3월 벌써 5000건 넘어&lt;/li&gt;
+&lt;li&gt;공시가격 상승이 말해주는 주택시장의 구조적 변화 [더 머니이스트-김효선의 부동산이지!]&lt;/li&gt;
+&lt;li&gt;재산세는 집값을 잡는 수단이 아닙니다 [더 머니이스트-심형석의 부동산 정석]&lt;/li&gt;
+&lt;li&gt;[소멸하는 전세] (1) &amp;ldquo;더이상 사금융 방식에 기대선 안돼&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;강남이 꺾이니&amp;rdquo;⋯동작·강동서도 집값 속락 [현장]&lt;/li&gt;
+&lt;li&gt;프리츠커상을 기다리며&lt;/li&gt;
+&lt;li&gt;서울은 한 집 건너 한 집이 &amp;lsquo;월세&amp;rsquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-19 (목)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-19/</link><pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-19/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,624.70 (-1.36%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,152.42 (-1.46%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $46,225.15 (-1.63%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,478.64 (-1.64%)&lt;/li&gt;
+&lt;li&gt;📈 코스피 $5,925.03 (+5.04%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,164.38 (+2.41%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $180.40 (-1.07%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $392.78 (-1.55%)&lt;/li&gt;
+&lt;li&gt;📉 반도체ETF $338.29 (-0.64%)&lt;/li&gt;
+&lt;li&gt;📉 앱클론 ₩81,000 (-2.41%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX $25.09 (+12.16%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 US 10Y 4.20% (-0.03)&lt;/li&gt;
+&lt;li&gt;📊 US 2Y 3.68% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.50%p (-0.02)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.22%p (-0.05)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.12% (-0.03)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,507.8 (+1.47%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 120.55 (+0.73)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,729.5 (+0.82%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥158.9 (-0.01%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $4,823.9 (-3.38%)&lt;/li&gt;
+&lt;li&gt;📉 은 $75.42 (-4.16%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $99.05 (+7.00%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 BTC $71,312 (-3.55%)&lt;/li&gt;
+&lt;li&gt;📉 ETH $2,206.1 (-4.84%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;이륜차 번호판 전국단일 체계 도입…시인성 높여 단속 강화&lt;/li&gt;
+&lt;li&gt;대우건설 ‘써밋’, 서울·과천 주요 사업지 출격&lt;/li&gt;
+&lt;li&gt;주택당국이 &amp;lsquo;독일&amp;rsquo; 눈여겨보는 이유는?&lt;/li&gt;
+&lt;li&gt;집주인 &amp;lsquo;보유세 부담&amp;rsquo; 늘었다는데…&amp;lsquo;집값 하락&amp;rsquo; 공식 통할까 [돈앤톡]&lt;/li&gt;
+&lt;li&gt;하이엔드 &amp;lsquo;아크로&amp;rsquo; 힘주는 DL이앤씨…압구정서 벌인 일 [현장+]&lt;/li&gt;
+&lt;li&gt;스트레이키즈 창빈, 압구정 현대아파트, 94억 전액 현금으로 매수&lt;/li&gt;
+&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;
+&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-17 (화)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-17/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-17/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 S&amp;amp;P500 $6,699.38 (+1.01%)&lt;/li&gt;
+&lt;li&gt;📈 나스닥 $22,374.18 (+1.22%)&lt;/li&gt;
+&lt;li&gt;📈 다우 $46,946.41 (+0.83%)&lt;/li&gt;
+&lt;li&gt;📈 러셀2000 $2,503.29 (+0.94%)&lt;/li&gt;
+&lt;li&gt;📈 코스피 $5,549.85 (+1.14%)&lt;/li&gt;
+&lt;li&gt;📉 코스닥 $1,138.29 (-1.27%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 Nvidia $183.22 (+1.68%)&lt;/li&gt;
+&lt;li&gt;📈 Tesla $395.56 (+1.42%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $337.83 (+1.73%)&lt;/li&gt;
+&lt;li&gt;📉 앱클론 ₩88,500 (-0.67%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 VIX $23.51 (-13.60%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 US 10Y 4.28% (+0.01)&lt;/li&gt;
+&lt;li&gt;⚠️ US 2Y 오류: Expecting value: line 1 column 1 (char 0)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.55%p (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.28%p (+0.11)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.12% (-0.03)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 원/달러 ₩1,490.3 (-0.48%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 120.55 (+0.73)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,715.6 (+0.38%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥159.2 (-0.32%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,011.3 (-0.22%)&lt;/li&gt;
+&lt;li&gt;📈 은 $81.00 (+0.90%)&lt;/li&gt;
+&lt;li&gt;📉 원유(WTI) $94.22 (-5.05%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $74,416 (+2.25%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,359.3 (+8.39%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;“자산은 사고파는 게 아냐” 발언 황현희, 논란 끝 해명&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;시세 18억짜리 집이 9억이래&amp;rdquo;…청약자 20만명 &amp;lsquo;우르르&amp;rsquo; [돈앤톡]&lt;/li&gt;
+&lt;li&gt;도쿄 부동산 새 투자공식…신축 대신 구축 아파트 산다 [더 머니이스트-김용남의 부동산 자산관리]&lt;/li&gt;
+&lt;li&gt;‘최소 5억 시세 차익’ 영등포자이디그니티 2가구 모집에 20만명 몰려&lt;/li&gt;
+&lt;li&gt;파업해도 광역버스 운행 유지?…국토부 &amp;lsquo;필수공익사업&amp;rsquo; 검토&lt;/li&gt;
+&lt;li&gt;다주택자 압박에…2월 서울 집값 상승폭 축소&lt;/li&gt;
+&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;
+&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-16 (월)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-16/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-16/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,632.19 (-0.61%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,105.36 (-0.93%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $46,558.47 (-0.26%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,480.05 (-0.36%)&lt;/li&gt;
+&lt;li&gt;📉 코스피 $5,487.24 (-1.72%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,152.96 (+0.40%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $180.25 (-1.45%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $391.20 (-1.08%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $331.32 (+0.51%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩89,100 (+11.93%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 VIX $27.19 (-0.29%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 US 10Y 4.27% (+0.06)&lt;/li&gt;
+&lt;li&gt;📊 US 2Y 3.76% (+0.12)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.55%p (+0.04)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.17%p (+0.08)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.12% (-0.03)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,500.0 (+0.75%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,714.6 (+0.01%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥159.2 (-0.01%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,061.7 (-1.12%)&lt;/li&gt;
+&lt;li&gt;📉 은 $81.34 (-4.17%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $98.71 (+3.36%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $72,064 (+1.16%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,137.5 (+1.90%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&amp;lsquo;40억 건물주&amp;rsquo; 이해인 &amp;ldquo;공실 6개, 매달 이자만 1200만원&amp;hellip; 솔직히 무서워&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;‘다주택자 규제’ 언급한 장수원 “세금 낼 돈 없어 집 내놔”&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;시세 20억인데 분양가 11억대&amp;rdquo;…영등포자이 디그니티 무순위 &amp;lsquo;줍줍&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;[AI돋보기] 검색창 대신 지갑 연 AI 에이전트…판이 바뀐다&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;드디어 &amp;lsquo;첫 래미안&amp;rsquo; 생겨&amp;rdquo;…청약 뜬 &amp;lsquo;18억 아파트&amp;rsquo; 어디길래 [현장+]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;재판소원법, 또다른 이름은 &amp;lsquo;재판불복&amp;rsquo;&amp;quot;…양문석이 쏘아올린 與 &amp;lsquo;사법개혁&amp;rsquo; 부작용 등 [3/16(월) 데일리안 출근길 뉴스]&lt;/li&gt;
+&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;
+&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-15 (일)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-15/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-15/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,632.19 (-0.61%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,105.36 (-0.93%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $46,558.47 (-0.26%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,480.05 (-0.36%)&lt;/li&gt;
+&lt;li&gt;📉 코스피 $5,487.24 (-1.72%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,152.96 (+0.40%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $180.25 (-1.45%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $391.20 (-1.08%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $331.32 (+0.51%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩89,100 (+11.93%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 VIX $27.19 (-0.29%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 US 10Y 4.27% (+0.06)&lt;/li&gt;
+&lt;li&gt;📊 US 2Y 3.76% (+0.12)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.55%p (+0.04)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.17%p (+0.08)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.16% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,494.4 (+0.38%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;
+&lt;li&gt;📉 원/유로 ₩1,710.3 (-0.24%)&lt;/li&gt;
+&lt;li&gt;📈 달러/엔 ¥159.7 (+0.32%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,061.7 (-1.12%)&lt;/li&gt;
+&lt;li&gt;📉 은 $81.34 (-4.17%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $98.71 (+3.36%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 BTC $70,793 (-0.21%)&lt;/li&gt;
+&lt;li&gt;📉 ETH $2,087.5 (-0.23%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;“실거주 안하면 세금폭탄”…서울 아파트값 ‘하락세’ 굳힐까&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;선거 앞 분양 쏟아진다&amp;rdquo;⋯용산·서초 출격 대기&lt;/li&gt;
+&lt;li&gt;구조조정 이어 신규채용 찬바람…10대건설 7곳 계획 미정&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;유보라&amp;rsquo; 아파트만으로 안돼…반도, 플랜트 EPC 인수로 사업 다각화&lt;/li&gt;
+&lt;li&gt;“무주택자 중심 시장 재편”… 15억원 이하 키 맞추기 ‘속도’&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;선당후곰&amp;rsquo; 옛말…수도권 청약시장 &amp;lsquo;옥석 가리기&amp;rsquo; 뚜렷&lt;/li&gt;
+&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;
+&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-14 (토)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-14/</link><pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-14/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,632.19 (-0.61%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,105.36 (-0.93%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $46,558.47 (-0.26%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,480.05 (-0.36%)&lt;/li&gt;
+&lt;li&gt;📉 코스피 $5,487.24 (-1.72%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,152.96 (+0.40%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $180.25 (-1.45%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $391.20 (-1.08%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $331.32 (+0.51%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩89,100 (+11.93%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 VIX $27.19 (-0.37%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 US 10Y 4.27% (+0.06)&lt;/li&gt;
+&lt;li&gt;📊 US 2Y 3.76% (+0.12)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.55%p (+0.04)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.17%p (+0.08)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.15% (+0.01)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,497.5 (+0.59%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;
+&lt;li&gt;📉 원/유로 ₩1,709.1 (-0.31%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥159.2 (-0.01%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,023.1 (-1.88%)&lt;/li&gt;
+&lt;li&gt;📉 은 $80.64 (-4.99%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $99.31 (+3.99%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $71,157 (+0.94%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,104.8 (+1.49%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;신논현역 대로변에 20층 규모 오피스·상업시설 생긴다&lt;/li&gt;
+&lt;li&gt;한강에 띄운 갤러리… 兆단위 재건축 판 흔드는 ‘전초기지’&lt;/li&gt;
+&lt;li&gt;사우디 네옴시티 터널 공사 계약 해지…현대건설 &amp;ldquo;재무 손실 없어&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;코스피 6000 시대, 은행의 역습…최고 연 20% 적금 등장&lt;/li&gt;
+&lt;li&gt;“주거용 전환해야”… 지식산업센터 공실률 55% 육박&lt;/li&gt;
+&lt;li&gt;삐걱대는 오렌지 군단&amp;hellip;1998년생 러셀 전성기행? [권마허의 헬멧]&lt;/li&gt;
+&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;
+&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[EBN 오늘(12일) 이슈 종합] ﻿美, 301조로 &amp;lsquo;관세&amp;rsquo; 재압박&amp;hellip;美 로봇판 &amp;lsquo;칩스법&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;또 코스피 2%대 급락…유가 급등·호르무즈 봉쇄 의지에 투심 ‘꽁꽁’ - 매일경제&lt;/li&gt;
+&lt;li&gt;[참고] 구체적인 부동산 세제의 개편방안은 검토 중입니다 - 보도자료 | 브리핑룸 | 대한민국 정책브리핑&lt;/li&gt;
+&lt;li&gt;[설명] 구체적인 부동산 세제 개편방안은 정해진 바 없습니다 - 보도자료 | 브리핑룸 | 대한민국 정책브리핑&lt;/li&gt;
+&lt;li&gt;3 AI Stocks Caught in the Crossfire of the Iran War, and What Smart Investors Should Do in 2026 | The Motley Fool&lt;/li&gt;
+&lt;li&gt;Better AI Stock to Buy Now: Nvidia vs. Broadcom | The Motley Fool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-13 (금)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-13/</link><pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-13/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,672.62 (-1.52%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,311.98 (-1.78%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $46,677.85 (-1.56%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,488.99 (-2.12%)&lt;/li&gt;
+&lt;li&gt;📉 코스피 $5,583.25 (-0.48%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,148.40 (+1.02%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $183.14 (-0.69%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $395.01 (-2.42%)&lt;/li&gt;
+&lt;li&gt;📉 반도체ETF $330.19 (-2.31%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩79,600 (+9.04%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX $27.29 (+12.63%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 US 10Y 4.21% (+0.06)&lt;/li&gt;
+&lt;li&gt;📊 US 2Y 3.64% (+0.07)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.51%p (-0.06)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.09%p (+0.03)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.14% (-0.04)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,488.8 (+0.81%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,713.2 (+0.56%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥158.1 (-0.60%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,084.1 (-1.44%)&lt;/li&gt;
+&lt;li&gt;📉 은 $83.96 (-1.30%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $96.39 (+2.01%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $70,334 (+0.21%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,064.2 (+0.67%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;수도권 15억 이하 아파트 가계 대출 뇌관으로 [Pick코노미]&lt;/li&gt;
+&lt;li&gt;강동구도 꺾였다&amp;hellip;강남발 집값 조정 흐름 확산&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;빌라 물건도 없어요&amp;rdquo;…전세시장 &amp;lsquo;비상등&amp;rsquo; [현장]&lt;/li&gt;
+&lt;li&gt;지식산업센터 &amp;lsquo;주거용 전환&amp;rsquo; 해법⋯현실은?&lt;/li&gt;
+&lt;li&gt;[우보세]집에도 사정이 있다&lt;/li&gt;
+&lt;li&gt;고분양가에 막힌 강남 오피스텔·강서 역세권 주상복합 &amp;lsquo;눈물의 통매각&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;
+&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[EBN 오늘(12일) 이슈 종합] ﻿美, 301조로 &amp;lsquo;관세&amp;rsquo; 재압박&amp;hellip;美 로봇판 &amp;lsquo;칩스법&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;브렌트유 다시 100달러, 美증시 급락&amp;hellip;이란 “피의 복수 나설 것” [월가월부] - 매일경제&lt;/li&gt;
+&lt;li&gt;[보도자료] 제9차 부동산 불법행위 대응협의회 보도자료 - 보도자료 | 브리핑룸 | 대한민국 정책브리핑&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;강남 똘똘한 한 채도 예외 없다&amp;rdquo;… 5월 양도세 유예 종료 앞두고 정부가 꺼낸 초강수&lt;/li&gt;
+&lt;li&gt;Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder | TechCrunch&lt;/li&gt;
+&lt;li&gt;AI 일자리 충격 대응 ‘기본사회’ 논의 확산…”재원·모델 두 축 고민해야” [AI發 연공편향 공포] - 이투데이&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-12 (목)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-12/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-12/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,775.80 (-0.08%)&lt;/li&gt;
+&lt;li&gt;📈 나스닥 $22,716.13 (+0.08%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $47,417.27 (-0.61%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,542.90 (-0.20%)&lt;/li&gt;
+&lt;li&gt;📈 코스피 $5,609.95 (+1.40%)&lt;/li&gt;
+&lt;li&gt;📉 코스닥 $1,136.83 (-0.07%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 Nvidia $186.03 (+0.69%)&lt;/li&gt;
+&lt;li&gt;📈 Tesla $407.82 (+2.01%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $342.09 (+0.70%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩73,000 (+2.10%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 VIX $24.23 (-2.81%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 US 10Y 4.15% (+0.03)&lt;/li&gt;
+&lt;li&gt;📊 US 2Y 3.57% (+0.01)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.57%p (-0.01)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.06%p (-0.13)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.18% (+0.04)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 원/달러 ₩1,464.5 (-0.63%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;
+&lt;li&gt;📉 원/유로 ₩1,709.5 (-0.01%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥157.8 (-0.18%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,183.9 (-0.52%)&lt;/li&gt;
+&lt;li&gt;📉 은 $85.91 (-2.80%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $88.41 (+6.71%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $70,737 (+1.17%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,073.2 (+1.78%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;실버타운의 진화…도심 한복판서 호텔·병원 품은 초고급 주거 등장&lt;/li&gt;
+&lt;li&gt;분양가 어쩌나…유가 상승에 노란봉투법까지 덮쳤다 [돈앤톡]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;강원도 세컨드하우스 분양…계약 해제할 수 있나요?&amp;rdquo; [더 머니이스트-조선규의 부동산 산책]&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;유령 건물&amp;rsquo; 방지⋯정부, 지식산업센터 &amp;lsquo;주거 전환&amp;rsquo; 카드 꺼낸다&lt;/li&gt;
+&lt;li&gt;보증금 50억이면 이 정도 서비스 받을 만하네…초호화 실버주택 등장&lt;/li&gt;
+&lt;li&gt;자산가 58년 개띠 은퇴에 들썩이는 초고가 실버주택 시장&lt;/li&gt;
+&lt;li&gt;전·월세 불안은 어떻게 할 것인가?&lt;/li&gt;
+&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[M이코노미뉴스] [이슈] 국내 반도체 생산 감소&amp;hellip;구조적 취약성과 ‘HBM’ 시대 전환기의 도래&lt;/li&gt;
+&lt;li&gt;속보 - 머니투데이&lt;/li&gt;
+&lt;li&gt;[기자의눈] 다주택자 좇다 놓친 것…집값만큼 중요한 정부의 부동산 정책 ‘말값’ - 아시아투데이&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;3기 신도시 기다리다 분양가 폭탄?&amp;quot;… 국토부가 만지작거리는 &amp;lsquo;이 카드&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Meta announces 4 new AI chips, raising competitive stakes with Nvidia, AMD&lt;/li&gt;
+&lt;li&gt;U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-11 (수)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-11/</link><pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-11/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,781.48 (-0.21%)&lt;/li&gt;
+&lt;li&gt;📈 나스닥 $22,697.10 (+0.01%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $47,706.51 (-0.07%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,548.08 (-0.22%)&lt;/li&gt;
+&lt;li&gt;📈 코스피 $5,532.59 (+5.35%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,137.68 (+3.21%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 Nvidia $184.77 (+1.88%)&lt;/li&gt;
+&lt;li&gt;📈 Tesla $399.23 (+0.60%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $338.81 (+1.42%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩71,500 (+13.31%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 VIX $24.93 (-2.24%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 US 10Y 4.12% (-0.03)&lt;/li&gt;
+&lt;li&gt;📊 US 2Y 3.56% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.58%p (+0.02)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.19%p (+0.06)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.14% (-0.01)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,483.9 (+1.23%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 119.49 (-0.08)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,710.5 (+0.38%)&lt;/li&gt;
+&lt;li&gt;📈 달러/엔 ¥158.4 (+0.36%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 금 $5,198.7 (+0.63%)&lt;/li&gt;
+&lt;li&gt;📈 은 $88.57 (+0.11%)&lt;/li&gt;
+&lt;li&gt;📉 원유(WTI) $86.39 (-4.02%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $69,804 (+2.05%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,029.4 (+1.85%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;서울 노후주거지 재개발, LH·SH가 하면 더 잘할까?&lt;/li&gt;
+&lt;li&gt;영월·고창 등 인구감소지역 SOC 가점…예타 문턱 낮춘다 [Pick코노미]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;이 가격이면 해볼 만해요&amp;rdquo;…청약 통장 든 직장인 몰린 동네 [주간이집]&lt;/li&gt;
+&lt;li&gt;전·월세 불안은 어떻게 할 것인가? [더 머니이스트-심형석의 부동산 정석]&lt;/li&gt;
+&lt;li&gt;강북 신고가 행렬⋯15억이 &amp;lsquo;유리천장&amp;rsquo; 됐다 [현장]&lt;/li&gt;
+&lt;li&gt;SK에코플랜트, 자회사에 4000억 수혈…AI 사업 재편 속도&lt;/li&gt;
+&lt;li&gt;RTI 규제, 집값 안정 카드 될까&lt;/li&gt;
+&lt;li&gt;도시의 품격, 도시의 아비투스&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;유가·환율·증시 동시 폭발…‘3중 충격’에 휩싸인 시장 [오일-달러 쇼크] - 이투데이&lt;/li&gt;
+&lt;li&gt;2026년 3월 6일 오늘의 주요 뉴스(중동 리스크와 금융 시장 변동성, 4월 총선 판세 및 경제 사회 이슈) - 오늘의 클릭&lt;/li&gt;
+&lt;li&gt;인구감소 시대의 집값…컴팩트시티와 기술혁신이 바꿀 부동산 시장 - 한국AI부동산신문&lt;/li&gt;
+&lt;li&gt;인천시, 부동산 허위 실거래 신고·업다운 계약 집중 단속 - 뉴스1&lt;/li&gt;
+&lt;li&gt;2026년 3월 5일 오늘의 주요 뉴스(이란 전쟁 위기와 코스피 폭락 - 글로벌 경제 리스크 및 AI 산업 규제 동향) - 오늘의 클릭&lt;/li&gt;
+&lt;li&gt;Exclusive: Meta acquires Moltbook, the social network for AI agents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-10 (화)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-10/</link><pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-10/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 S&amp;amp;P500 $6,795.99 (+0.83%)&lt;/li&gt;
+&lt;li&gt;📈 나스닥 $22,695.95 (+1.38%)&lt;/li&gt;
+&lt;li&gt;📈 다우 $47,740.80 (+0.50%)&lt;/li&gt;
+&lt;li&gt;📈 러셀2000 $2,553.67 (+1.12%)&lt;/li&gt;
+&lt;li&gt;📉 코스피 $5,251.87 (-5.96%)&lt;/li&gt;
+&lt;li&gt;📉 코스닥 $1,102.28 (-4.54%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 Nvidia $182.65 (+2.57%)&lt;/li&gt;
+&lt;li&gt;📈 Tesla $398.68 (+0.66%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $336.37 (+3.82%)&lt;/li&gt;
+&lt;li&gt;📉 앱클론 ₩63,100 (-5.26%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 VIX $25.50 (-13.53%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 US 10Y $4.14 (+0.07%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 원/달러 ₩1,479.5 (-0.34%)&lt;/li&gt;
+&lt;li&gt;📉 DXY $98.73 (-0.89%)&lt;/li&gt;
+&lt;li&gt;📉 원/유로 ₩1,705.3 (-1.10%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥157.5 (-0.16%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 금 $5,148.7 (+0.99%)&lt;/li&gt;
+&lt;li&gt;📈 은 $87.35 (+5.11%)&lt;/li&gt;
+&lt;li&gt;📉 원유(WTI) $85.08 (-26.48%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $68,996 (+4.55%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,028.3 (+4.68%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;“부동산 시장 안 좋아서 손절하려고…” 하정우, 건물 2채 내놓은 이유&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;강남 아닌데 &amp;lsquo;국평 20억&amp;rsquo; 눈앞&amp;rdquo;…서울 서쪽 끝에 무슨 일이 [돈앤톡]&lt;/li&gt;
+&lt;li&gt;RTI 규제, 집값 안정 카드될까 [더 머니이스트-송승현의 부동산 플러스]&lt;/li&gt;
+&lt;li&gt;아파트 누르니 오피스텔로…매매가도 임대료도 다 뛰었다[코주부]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;차 10대 중 4대는 인터넷 연결&amp;rdquo;…TS, 자동차 해킹 막는 보안 인증&lt;/li&gt;
+&lt;li&gt;공장·창고 시장 &amp;lsquo;옥석 가리기&amp;rsquo;…빅딜 지속, 규모는 줄어&lt;/li&gt;
+&lt;li&gt;도시의 품격, 도시의 아비투스&lt;/li&gt;
+&lt;li&gt;미국 젊은이들은 왜 집 대신 주식을 살까&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[EBN 오늘(9일) 이슈 종합] 기름값 잡겠다는 최고가격제&amp;hellip;시장 안정인가 공급 쇼크인가 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;유가·환율·증시 동시 폭발…‘3중 충격’에 휩싸인 시장 [오일-달러 쇼크] - 이투데이&lt;/li&gt;
+&lt;li&gt;“집값 안정돼야 소비·출산도 늘어난다”…신한금융 보고서 눈길 - 이코노미톡뉴스&lt;/li&gt;
+&lt;li&gt;[6.3지방선거 이것이 정책] 이재만 “대구 부동산 리부트 2636 추진…미분양 매입해 집값 하락 막겠다” - 대구일보&lt;/li&gt;
+&lt;li&gt;Microsoft 365 confirms new premium tier with a premium price • The Register&lt;/li&gt;
+&lt;li&gt;속보 - 머니투데이&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-09 (월)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-09/</link><pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-09/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,740.02 (-1.33%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,387.68 (-1.59%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $47,501.55 (-0.95%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,525.30 (-2.33%)&lt;/li&gt;
+&lt;li&gt;📈 코스피 $5,584.87 (+0.02%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,154.67 (+3.43%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $177.82 (-2.53%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $396.73 (-2.03%)&lt;/li&gt;
+&lt;li&gt;📉 반도체ETF $323.51 (-4.71%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩66,500 (+7.78%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX $29.49 (+24.17%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 US 10Y $4.13 (-0.31%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,481.1 (+0.05%)&lt;/li&gt;
+&lt;li&gt;📈 DXY $98.86 (+0.00%)&lt;/li&gt;
+&lt;li&gt;📉 원/유로 ₩1,710.0 (-0.45%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥157.5 (-0.01%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 금 $5,158.7 (+0.42%)&lt;/li&gt;
+&lt;li&gt;📉 은 $84.31 (-0.17%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $90.90 (+13.55%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 BTC $66,973 (-0.44%)&lt;/li&gt;
+&lt;li&gt;📉 ETH $1,954.0 (-0.78%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;중동 상황 불확실성에 현대리바트, 프로젝트 수주 &amp;lsquo;빨간불&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;‘강남 불패’ 지금은 틀린말 …서울 아파트 신고가, 80%가 비강남&lt;/li&gt;
+&lt;li&gt;건설사 주총 시즌…전직 장관 모시고 간판 바꾸고&lt;/li&gt;
+&lt;li&gt;미국 청년층은 왜 집 대신 주식을 사는가 [더 머니이스트-김용남의 부동산 자산관리]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;세입자 면접 본다고요?&amp;quot;…전·월세 물건 증발에 위기감 고조 [돈앤톡]&lt;/li&gt;
+&lt;li&gt;수주·분양·시공 다 막혔다…노봉법·대출규제·공사비 ‘삼중고’&lt;/li&gt;
+&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[EBN 오늘(8일) 이슈 종합] 서울 휘발유 2000원 눈앞…정부 &amp;lsquo;최고가격제&amp;rsquo; 검토 초강수 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;[EBN 오늘(7일) 이슈 종합] [중동 리스크] 패닉 장세에도 증권주 굳건&amp;hellip;&amp;ldquo;거래 폭발 변동성 장세 더 좋아&amp;rdquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;정부가 밀어붙이더니 &amp;ldquo;결국 역전됐다&amp;rdquo;…강력한 부동산 메시지 효과 &amp;lsquo;드디어&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;아파트 불패? 이젠 아니다&amp;rdquo;&amp;hellip;국민 10명 중 4명 &amp;lsquo;어떻게&amp;rsquo; 생각하는지 물어봤더니&lt;/li&gt;
+&lt;li&gt;LGU+·퓨리오사AI, 소버린 AI 사용화 맞손… 전원만 꽂으면 기업 내부 AI 완성 | 아주경제&lt;/li&gt;
+&lt;li&gt;At a lobster-themed event for AI enthusiasts, exuberance with a side of cocktail sauce&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-08 (일)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-08/</link><pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-08/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,740.02 (-1.33%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,387.68 (-1.59%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $47,501.55 (-0.95%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,525.30 (-2.33%)&lt;/li&gt;
+&lt;li&gt;📈 코스피 $5,584.87 (+0.02%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,154.67 (+3.43%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $177.82 (-2.53%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $396.73 (-2.03%)&lt;/li&gt;
+&lt;li&gt;📉 반도체ETF $323.51 (-4.71%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩66,500 (+7.78%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX $29.49 (+24.17%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 US 10Y $4.13 (-0.31%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,482.6 (+0.15%)&lt;/li&gt;
+&lt;li&gt;📉 DXY $98.99 (-0.02%)&lt;/li&gt;
+&lt;li&gt;📉 원/유로 ₩1,717.6 (-0.01%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥157.5 (-0.01%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 금 $5,146.1 (+0.17%)&lt;/li&gt;
+&lt;li&gt;📉 은 $83.82 (-0.76%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $90.90 (+13.55%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 BTC $67,384 (-1.08%)&lt;/li&gt;
+&lt;li&gt;📉 ETH $1,968.5 (-0.49%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[빈집의 재탄생] 낡은 한옥·옛 떡공장이 활기 넘치는 청년 아지트로&lt;/li&gt;
+&lt;li&gt;노란봉투법 시행에 건설현장 긴장…공사비 상승 압력 커질까&lt;/li&gt;
+&lt;li&gt;고가 아파트값 상승세 위축 뚜렷…상위 20% 하락전환 목전&lt;/li&gt;
+&lt;li&gt;17년 만 소각 &amp;lsquo;대우&amp;rsquo;·장관 출신 영입 &amp;lsquo;삼성&amp;rsquo;…건설사 체질 개선&lt;/li&gt;
+&lt;li&gt;“집 팔아 주식 샀는데”… 롤러코스터 증시에 개미들 천당과 지옥&lt;/li&gt;
+&lt;li&gt;“7억 낮춰 거래”… 강남 아파트 8~15% 내린 급매 속출&lt;/li&gt;
+&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[EBN 오늘(7일) 이슈 종합] [중동 리스크] 패닉 장세에도 증권주 굳건&amp;hellip;&amp;ldquo;거래 폭발 변동성 장세 더 좋아&amp;rdquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;뉴욕증시, &amp;lsquo;유가 폭등·고용 쇼크&amp;rsquo; 원투펀치에 일제히 하락… 나스닥 1.59%↓&lt;/li&gt;
+&lt;li&gt;李대통령 지지율 65%, 취임 후 최대&amp;hellip;부동산 정책 평가 51% 긍정 [갤럽]:인터넷뉴스 신문고&lt;/li&gt;
+&lt;li&gt;[속보] 李대통령 &amp;ldquo;마약·부동산·주가조작 등 7대 비정상 정상화 속도&amp;rdquo; | 중앙일보&lt;/li&gt;
+&lt;li&gt;How Candidates Are Using Winks and Posts to Seek Crypto and A.I. Cash - The New York Times&lt;/li&gt;
+&lt;li&gt;Tech company at odds with Pentagon warns its AI possibly gained consciousness, Elon Musk gives 2-word response&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-07 (토)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-07/</link><pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-07/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,740.02 (-1.33%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,387.68 (-1.59%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $47,501.55 (-0.95%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,525.30 (-2.33%)&lt;/li&gt;
+&lt;li&gt;📈 코스피 $5,584.87 (+0.02%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,154.67 (+3.43%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $177.82 (-2.53%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $396.73 (-2.03%)&lt;/li&gt;
+&lt;li&gt;📉 반도체ETF $323.51 (-4.71%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩66,500 (+7.78%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX $29.49 (+24.17%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 US 10Y $4.13 (-0.31%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,484.6 (+0.29%)&lt;/li&gt;
+&lt;li&gt;📉 DXY $98.92 (-0.09%)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,720.8 (+0.18%)&lt;/li&gt;
+&lt;li&gt;📈 달러/엔 ¥157.8 (+0.14%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 금 $5,179.5 (+0.82%)&lt;/li&gt;
+&lt;li&gt;📈 은 $84.60 (+0.17%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $90.98 (+13.65%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 BTC $68,278 (-3.55%)&lt;/li&gt;
+&lt;li&gt;📉 ETH $1,982.2 (-4.29%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;“경마장 이전 남양주가 최적지”…연 400만 방문 기대&lt;/li&gt;
+&lt;li&gt;F1 개막&amp;hellip;11개 팀부터 우승후보까지 [권마허의 헬멧]&lt;/li&gt;
+&lt;li&gt;[부동산캘린더] 내주 전국 2천여가구 공급…견본주택 4곳 개관&lt;/li&gt;
+&lt;li&gt;치솟는 서민 주거비…서울 아파트 평균 월세 150만원 돌파&lt;/li&gt;
+&lt;li&gt;‘국민 평형’ 공식 깨진지 오래…“작을수록 더 비싸다”더니 강북 평균 8억 돌파&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;비거주 1주택자&amp;rsquo; 향하는 부동산 규제…&amp;lsquo;투자용 1주택&amp;rsquo; 기준 혼란 예고&lt;/li&gt;
+&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[EBN 오늘(6일) 이슈 종합] [글로벌 로봇동맹 열전①] ﻿ 빅테크가 만든 로봇 제국…미국 피지컬AI 플랫폼 전쟁 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;역대 5위 흑자 무색…중동 리스크에 경상수지 ‘경고등’ - 헤럴드경제&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;집값 내릴 것&amp;rsquo; 46% &amp;lsquo;오를 것&amp;rsquo; 29%…정부 부동산 정책 &amp;lsquo;잘한다&amp;rsquo;가 51% - 한국NGO신문&lt;/li&gt;
+&lt;li&gt;李대통령 지지율 65%…집값 내릴 것 46% [한국갤럽]&lt;/li&gt;
+&lt;li&gt;Netflix buys Ben Affleck’s filmmaker-focused AI tech company InterPositive&lt;/li&gt;
+&lt;li&gt;헬로티 – 매일 만나는 첨단 산업, 경제, IT 소식&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-06 (금)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-06/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-06/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,830.71 (-0.56%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,748.99 (-0.26%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $47,954.74 (-1.61%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,585.57 (-1.91%)&lt;/li&gt;
+&lt;li&gt;📈 코스피 $5,583.90 (+9.63%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,116.41 (+14.10%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 Nvidia $183.34 (+0.11%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $405.55 (-0.02%)&lt;/li&gt;
+&lt;li&gt;📉 반도체ETF $337.76 (-1.72%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩61,700 (+17.30%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX $23.75 (+12.29%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 US 10Y $4.15 (+1.62%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,481.4 (+1.34%)&lt;/li&gt;
+&lt;li&gt;📈 DXY $99.07 (+0.07%)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,720.4 (+1.21%)&lt;/li&gt;
+&lt;li&gt;📈 달러/엔 ¥157.8 (+0.51%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,086.9 (-1.79%)&lt;/li&gt;
+&lt;li&gt;📉 은 $82.43 (-2.76%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $78.75 (+1.86%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 BTC $71,158 (-2.08%)&lt;/li&gt;
+&lt;li&gt;📉 ETH $2,078.7 (-2.17%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;코레일, KTX 기장·열차팀장 간담회…고속열차 운영 현안 점검&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;1가구 1주택&amp;rsquo; 유도하는데…&amp;lsquo;소원은 집 한 채?&amp;rsquo; 뜻밖의 현실 [돈앤톡]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;미·중은 이미 무인택시&amp;rdquo;…정부, K-로보택시 제도 정비 착수&lt;/li&gt;
+&lt;li&gt;집 사긴 턱없고, 전·월세는 가뭄… 세입자 절반 계약 갱신&lt;/li&gt;
+&lt;li&gt;청약 시장 옥석 가리기 본격화… 신축도 15억 넘으면 ‘미달’&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;다 포기하고 주식 샀나&amp;rdquo;&amp;hellip;청약통장 가입자 쭉쭉 빠졌다&lt;/li&gt;
+&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[EBN 오늘(4일) 이슈 종합] [중동 전쟁] 확전 공포에 코스피 5100선 붕괴…코스닥도 900대 회귀 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;기름값 1,800원 돌파! 우리 동네 싼 주유소 찾기부터 현대카드 최저가 할인 혜택까지&lt;/li&gt;
+&lt;li&gt;스마트 빌딩, 한국의 부동산 혁신을 이끌다 - 2026년 1억 개 시대 도래 - 전국인력신문&lt;/li&gt;
+&lt;li&gt;AI 패권 경쟁 격화…규제·반도체·데이터센터가 글로벌 산업 판도 다시 쓴다 - 한국AI부동산신문&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;AX의 모든것&amp;rsquo; 2026 스마트공장·자동화산업전 [포토로그] - 이투데이&lt;/li&gt;
+&lt;li&gt;챗GPT·제미나이 다 틀렸다…이란 공습 날짜 정확히 짚은 AI는?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>앱클론(174900) — 항체 회사에서 듀얼 엔진으로, 숫자가 말하는 진짜 그림</title><link>https://pointnline.github.io/jaykko-blog/posts/abclon-dual-engine-2026/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/abclon-dual-engine-2026/</guid><description>&lt;p&gt;앱클론이 움직이고 있다. 파트너사 헨리우스가 HER2 유방암 1차 치료 2/3상에서 첫 환자 투약을 시작했고, 3월 23일 주총에서는 사업목적을 &amp;lsquo;항체&amp;rsquo;에서 &amp;lsquo;면역세포·유전자 의약품&amp;rsquo;까지 확장하는 정관 변경을 추진한다. 항체 회사가 모달리티 하이브리드로 탈바꿈하는 순간이다.&lt;/p&gt;
+&lt;h2 id="재무--수술대-위의-환자"&gt;재무 — 수술대 위의 환자
+&lt;/h2&gt;&lt;p&gt;숫자부터 보자. DART 기준 2024년 매출 23억원, 영업손실 156억원. 매출의 7배를 태우고 있다. 3년 연속 매출이 줄었고(34→29→23억), 누적 결손은 729억원이다.&lt;/p&gt;
+&lt;p&gt;그런데 올해 분위기가 다른 이유가 있다. 종근당이 122억원을 넣고 2대주주(7.68%)로 들어왔다. 보유현금이 190억원으로 늘었고, 2025년 매출 30억원을 넘겨 관리종목 해제가 임박했다. 기관투자자가 살 수 있게 되는 것이다.&lt;/p&gt;
+&lt;h2 id="로열티--대박나도-찔끔"&gt;로열티 — 대박나도 찔끔?
+&lt;/h2&gt;&lt;p&gt;AC101(헨리우스 코드명 HLX22)은 2016년 중국, 2018년 글로벌 판권을 각각 1,650만·4,000만 달러에 기술이전했다. 이제 헨리우스가 위암 글로벌 3상(진행률 40%+)과 유방암 1차 2/3상을 동시에 돌리고 있다. 유방암 1차는 시장 크기가 다른 게임이다.&lt;/p&gt;
+&lt;p&gt;문제는 수익 구조다. 앱클론이 받는 로열티는 매출의 3~5%인데, 여기서 공동개발사 엘리게이터 바이오사이언스에 35%를 떼줘야 한다. 계산하면 헨리우스가 매출 6억 달러(8,580억원)를 올려도 앱클론 순수익은 234억원이다. 이종서 대표가 &amp;ldquo;2032년 로열티 2,000억&amp;quot;이라고 했는데, 이건 헨리우스 측 매출 100억 달러(14.3조원) 낙관 시나리오가 전제다. 액면 그대로 믿기엔 할인이 필요하다.&lt;/p&gt;
+&lt;h2 id="인비보-car-t--빅파마가-쓸어담는-시장에-올라타기"&gt;인비보 CAR-T — 빅파마가 쓸어담는 시장에 올라타기
+&lt;/h2&gt;&lt;p&gt;두 번째 엔진인 인비보 CAR-T는 더 큰 판이다. LNP에 mRNA를 실어 체내에 직접 주사하는 방식으로, 기존 CAR-T의 비용(수억원)과 시간(수주) 장벽을 무너뜨릴 수 있다.&lt;/p&gt;
+&lt;p&gt;빅파마들이 이미 올인 중이다. 아스트라제네카가 에소바이오텍을 최대 10억 달러에 인수했고, 애브비는 캡스탄테라퓨틱스와 LNP 기반 제휴를 맺었다. 글로벌 CAR-T 시장은 2023년 37억 달러에서 2029년 290억 달러로 연 40% 성장이 전망된다.&lt;/p&gt;
+&lt;p&gt;앱클론은 스웨덴 Strike Pharma와 파트너십, EU Eurostars 프로그램 선정으로 대열에 합류했다. 솔직히 빅파마 대비 자원은 열위지만, 항체 기술 기반의 니치 포지션은 존재한다.&lt;/p&gt;
+&lt;h2 id="밸류에이션--업사이드는-있되-전제-조건-있음"&gt;밸류에이션 — 업사이드는 있되, 전제 조건 있음
+&lt;/h2&gt;&lt;p&gt;파이프라인별 위험조정가치(rNPV)로 계산하면 AC101 로열티 900&lt;del&gt;1,200억, AT101 CAR-T 150&lt;/del&gt;250억, 인비보 옵션 50&lt;del&gt;100억. 합계 1,290&lt;/del&gt;1,740억원이다. 현재 시총 약 660억원 대비 업사이드 2~2.6배.&lt;/p&gt;
+&lt;p&gt;단, 이건 위암 3상 성공(성공률 ~30%)을 전제한 숫자다.&lt;/p&gt;
+&lt;h2 id="체크포인트-5개"&gt;체크포인트 5개
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;2026.03&lt;/strong&gt; — 관리종목 해제 (가장 가까운 촉매)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.03.23&lt;/strong&gt; — 주총 정관 변경 (인비보 CAR-T 공식화)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.06&lt;/strong&gt; — AT101 식약처 조건부 승인 신청&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2028&lt;/strong&gt; — AC101 상업화 → 로열티 시작&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;위암 3상 결과&lt;/strong&gt; — 진짜 밸류 리레이팅 트리거&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="한-줄-결론"&gt;한 줄 결론
+&lt;/h2&gt;&lt;p&gt;관리종목 해제와 종근당 파트너십으로 &amp;lsquo;바이오텍의 졸업&amp;rsquo;을 시도하는 해다. 로열티 면적은 넓어지고 있지만, &amp;ldquo;대박나도 찔끔&amp;quot;인 이중 할인 구조를 반드시 인지해야 한다. 결국 모든 것은 위암 3상 결과에 달려있다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;출처: DART 전자공시, 메디코파마뉴스, 팜이데일리, 이투데이, 바이오인&lt;/em&gt;
+&lt;em&gt;본 글은 투자 조언이 아닙니다. 투자 판단은 본인 책임입니다.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-05 (목)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-05/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-05/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 S&amp;amp;P500 $6,869.50 (+0.78%)&lt;/li&gt;
+&lt;li&gt;📈 나스닥 $22,807.48 (+1.29%)&lt;/li&gt;
+&lt;li&gt;📈 다우 $48,739.41 (+0.49%)&lt;/li&gt;
+&lt;li&gt;📈 러셀2000 $2,636.01 (+1.06%)&lt;/li&gt;
+&lt;li&gt;📉 코스피 $5,093.54 (-12.06%)&lt;/li&gt;
+&lt;li&gt;📉 코스닥 $978.44 (-14.00%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 Nvidia $183.04 (+2.03%)&lt;/li&gt;
+&lt;li&gt;📈 Tesla $405.94 (+3.93%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $341.54 (+2.48%)&lt;/li&gt;
+&lt;li&gt;📉 앱클론 ₩52,600 (-18.32%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 VIX $21.15 (-10.27%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 US 10Y $4.08 (+0.59%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 원/달러 ₩1,452.3 (-2.25%)&lt;/li&gt;
+&lt;li&gt;📉 DXY $98.80 (-0.38%)&lt;/li&gt;
+&lt;li&gt;📉 원/유로 ₩1,701.5 (-1.33%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥157.3 (-0.34%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,148.1 (-0.35%)&lt;/li&gt;
+&lt;li&gt;📉 은 $83.61 (-1.30%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $76.05 (+0.80%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $73,234 (+7.22%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,147.4 (+8.32%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&amp;lsquo;나폴리 맛피아&amp;rsquo; 권성준 셰프, 약수역 꼬마빌딩 &amp;lsquo;56억&amp;rsquo;에 매입&lt;/li&gt;
+&lt;li&gt;제기동 한옥마을, ‘제2의 익선동’으로 재탄생&lt;/li&gt;
+&lt;li&gt;공모채는 대형사, 사모채는 중견사…건설사 자금조달 양극화&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;현재보다 미래&amp;rsquo; 건설사 몸집 줄였지만 일감 1.3년치 확보&lt;/li&gt;
+&lt;li&gt;서울 소형 아파트값 &amp;lsquo;고공행진&amp;rsquo;…강북 평균도 8억 돌파 [돈앤톡]&lt;/li&gt;
+&lt;li&gt;집도 사본 사람이 산다 [더 머니이스트-심형석의 부동산 정석]&lt;/li&gt;
+&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[EBN 오늘(4일) 이슈 종합] [중동 전쟁] 확전 공포에 코스피 5100선 붕괴…코스닥도 900대 회귀 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;금 시장 변동성 심화: 글로벌 긴장에 따른 요동 - 전국인력신문&lt;/li&gt;
+&lt;li&gt;금융위, 대출 규제 확대 방침…비주거용·투기성 1주택도 겨냥&lt;/li&gt;
+&lt;li&gt;수도권 주택 공급 ‘삐걱’…용산·노원·과천 주민들 “1·29 대책 철회해야” - 이투데이&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;AX의 모든것&amp;rsquo; 2026 스마트공장·자동화산업전 [포토로그] - 이투데이&lt;/li&gt;
+&lt;li&gt;Latest News From Amazon and Meta Shows Why Alphabet Is the AI Stock to Beat | The Motley Fool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-04 (수)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-04/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-04/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,816.63 (-0.94%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $22,516.69 (-1.02%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $48,501.27 (-0.83%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,608.36 (-1.79%)&lt;/li&gt;
+&lt;li&gt;📉 코스피 $5,791.91 (-7.24%)&lt;/li&gt;
+&lt;li&gt;📉 코스닥 $1,137.70 (-4.62%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $180.05 (-1.00%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $392.43 (-2.62%)&lt;/li&gt;
+&lt;li&gt;📉 반도체ETF $334.78 (-4.59%)&lt;/li&gt;
+&lt;li&gt;📈 앱클론 ₩64,400 (+4.21%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX $23.57 (+9.93%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 US 10Y $4.06 (+0.20%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,480.1 (+1.85%)&lt;/li&gt;
+&lt;li&gt;📈 DXY $99.08 (+0.45%)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,718.4 (+1.21%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥156.6 (-0.39%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,100.2 (-5.16%)&lt;/li&gt;
+&lt;li&gt;📉 은 $82.39 (-8.34%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $75.09 (+3.33%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 BTC $68,057 (-1.07%)&lt;/li&gt;
+&lt;li&gt;📉 ETH $1,969.4 (-2.86%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;서울시, 건설현장 맞춤형 안전관리 자료 5종 제작·배포&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;청약의 봄&amp;rsquo; 이달 3.1만가구 분양 큰 장 선다는데…&lt;/li&gt;
+&lt;li&gt;지난주 부동산 키워드 &amp;lsquo;급락&amp;rsquo;·&amp;lsquo;화재&amp;rsquo;·&amp;lsquo;대통령 집&amp;rsquo; [주간이집]&lt;/li&gt;
+&lt;li&gt;[중견사 리포트] 홍석화 2기 HL디앤아이한라, 실적 연속성 확보할까&lt;/li&gt;
+&lt;li&gt;현대건설, 광주 광천 재개발 미분양 우려에 ‘디에이치’ 외 다른 브랜드 제안&lt;/li&gt;
+&lt;li&gt;강남 신축 아파트 ‘위반건축물’ 딱지 붙어도 불이익 ‘제로’&lt;/li&gt;
+&lt;li&gt;김태희가 예쁜 진짜 이유&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;에임드바이오 지금 매수하면 실수령액은? 2026&lt;/li&gt;
+&lt;li&gt;코스피 -7%… 중동發 ‘검은 화요일’ | 서울신문&lt;/li&gt;
+&lt;li&gt;데이터 기반 부동산 정책 필요하다 | 한국경제&lt;/li&gt;
+&lt;li&gt;[서경호의 시시각각] 짜장면과 서울 아파트 | 중앙일보&lt;/li&gt;
+&lt;li&gt;[EBN 오늘(2일) 이슈 종합] 호르무즈 셧다운&amp;hellip;K-산업 &amp;lsquo;마진 데드라인&amp;rsquo; 넘나, 아시아 증시 흔드는 &amp;lsquo;미·이란戰&amp;rsquo;&amp;hellip;韓 금융권 &amp;lsquo;비상체제&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;[MWC 2026] AI 확산 속 6G 전쟁…KT “속도 아닌 구조의 싸움” - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>'바이브 코딩' 시대 — Cursor가 3개월 만에 연매출 2.9조를 찍은 이유</title><link>https://pointnline.github.io/jaykko-blog/posts/vibe-coding-cursor-2026/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/vibe-coding-cursor-2026/</guid><description>&lt;h2 id="바이브-코딩이-뭔데"&gt;바이브 코딩이 뭔데
+&lt;/h2&gt;&lt;p&gt;&amp;ldquo;이런 기능 만들어줘&amp;quot;라고 자연어로 말하면 AI가 코드를 짜준다. 디버깅도, 리팩토링도. 이걸 &lt;strong&gt;바이브 코딩(Vibe Coding)&lt;/strong&gt; 이라고 부른다. 2026년 가장 뜨거운 개발 트렌드다.&lt;/p&gt;
+&lt;h2 id="cursor의-숫자"&gt;Cursor의 숫자
+&lt;/h2&gt;&lt;p&gt;AI 코딩 에디터 Cursor가 연매출 &lt;strong&gt;20억 달러(2.9조원)&lt;/strong&gt; 를 돌파했다. 3개월 전 10억 달러에서 정확히 2배. 이 속도는 비정상이다 — 좋은 쪽으로.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;사용자:&lt;/strong&gt; 개발자 + 비개발자 동시 유입&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;핵심 기능:&lt;/strong&gt; 자연어 → 코드 생성, 컨텍스트 인식, 멀티파일 편집&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;경쟁자:&lt;/strong&gt; GitHub Copilot, Windsurf, Replit Agent&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="왜-지금-폭발했나"&gt;왜 지금 폭발했나
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;LLM 성능 임계점 돌파&lt;/strong&gt; — Claude, GPT-4o급 모델이 &amp;ldquo;쓸 만한 코드&amp;quot;를 안정적으로 생성&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;비개발자 진입&lt;/strong&gt; — 기획자, 디자이너, 창업자가 직접 프로토타입 제작&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;에이전틱 워크플로우&lt;/strong&gt; — &amp;ldquo;코드 짜줘&amp;rdquo; 수준을 넘어 &amp;ldquo;프로젝트 만들어줘&amp;quot;로 진화&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="리플렉션-ai--1년-만에-몸값-36배"&gt;리플렉션 AI — 1년 만에 몸값 36배
+&lt;/h2&gt;&lt;p&gt;오픈소스 AI 모델 스타트업 리플렉션 AI의 밸류에이션이 1년 만에 36배 폭등했다. AI 도구 시장 전체가 과열 구간이라는 신호다.&lt;/p&gt;
+&lt;p&gt;Carta 데이터에 따르면 AI 스타트업 Series A 밸류에이션은 비AI 대비 &lt;strong&gt;중간값 38% 프리미엄&lt;/strong&gt;이 붙는다.&lt;/p&gt;
+&lt;h2 id="그래서-뭐"&gt;그래서 뭐
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;코드를 짜는 능력은 더 이상 희소하지 않다.&lt;/strong&gt; 희소한 건 &amp;ldquo;뭘 만들지 아는 것&amp;quot;이다. 도메인 전문성 + AI 도구 활용 능력이 새로운 경쟁력이 된다.&lt;/p&gt;
+&lt;p&gt;금융 전문가가 AI로 자동화 도구를 직접 만드는 시대. 개발자를 고용하는 게 아니라, 개발자를 대체하는 게 아니라 — &lt;strong&gt;개발이라는 행위 자체가 민주화되고 있다.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;출처: Cursor 공식 발표, Carta(AI Startup Valuation Report), Fortune Business Insights&lt;/em&gt;&lt;/p&gt;</description></item><item><title>검은 화요일 — 코스피 7.2% 폭락, 중동발 쇼크가 시험하는 한국 증시의 체력</title><link>https://pointnline.github.io/jaykko-blog/posts/black-tuesday-kospi-crash-2026-03-03/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/black-tuesday-kospi-crash-2026-03-03/</guid><description>&lt;h2 id="무슨-일이-있었나"&gt;무슨 일이 있었나
+&lt;/h2&gt;&lt;p&gt;3월 3일 화요일, 코스피가 452포인트 급락하며 5,791에 마감했다. 하루 만에 시총 377조원이 증발. 사이드카가 발동됐고, 외국인은 차익실현에 나섰다.&lt;/p&gt;
+&lt;p&gt;원인은 명확하다. &lt;strong&gt;이란-미국 군사 충돌 본격화.&lt;/strong&gt; 트럼프 대통령의 &amp;ldquo;4~5주 공격 지속&amp;rdquo; 발언, 카타르 LNG 생산 중단, 호르무즈 해협 봉쇄 위협이 겹쳤다.&lt;/p&gt;
+&lt;h2 id="숫자가-말하는-것"&gt;숫자가 말하는 것
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;유가:&lt;/strong&gt; WTI $71.40 — 아직 관망 중이다. 걸프전 때는 $21→$46으로 2.2배 뛰었다&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;환율:&lt;/strong&gt; 원/달러 1,453.9원 (+1.02%) — 1,460 돌파 시 외국인 이탈 가속&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VIX:&lt;/strong&gt; 21.1 (+6.5%) — 공포 구간 진입 직전&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10년물:&lt;/strong&gt; 4.05% — 안전자산인데 오히려 상승. 유가발 인플레 우려가 더 크다는 뜻&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="역사와-비교하면"&gt;역사와 비교하면
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;1990 걸프전&lt;/th&gt;
+ &lt;th&gt;2003 이라크전&lt;/th&gt;
+ &lt;th&gt;2026 이란&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;유가&lt;/td&gt;
+ &lt;td&gt;+119%&lt;/td&gt;
+ &lt;td&gt;+48%&lt;/td&gt;
+ &lt;td&gt;관망 중&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;S&amp;amp;P500&lt;/td&gt;
+ &lt;td&gt;-9.4% (1개월)&lt;/td&gt;
+ &lt;td&gt;-4.6%&lt;/td&gt;
+ &lt;td&gt;+0.04%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;회복&lt;/td&gt;
+ &lt;td&gt;12개월&lt;/td&gt;
+ &lt;td&gt;6개월&lt;/td&gt;
+ &lt;td&gt;?&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;걸프전과 이라크전 모두 &lt;strong&gt;시장은 &amp;ldquo;전쟁의 시작&amp;quot;에 공포하고, &amp;ldquo;전쟁의 끝&amp;quot;에 빠르게 반등했다.&lt;/strong&gt; 걸프전 43일, 이라크전 21일 만에 주요 전투가 끝났다.&lt;/p&gt;
+&lt;h2 id="현재가-다른-이유"&gt;현재가 다른 이유
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;미국 셰일 일산 &lt;strong&gt;1,300만 배럴&lt;/strong&gt; (1990년 대비 2배) — 공급 충격 완충&lt;/li&gt;
+&lt;li&gt;전략비축유(SPR) 방출 카드 건재&lt;/li&gt;
+&lt;li&gt;이란 원유 수출 이미 제재로 &lt;strong&gt;80% 감소&lt;/strong&gt; 상태&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;호르무즈 봉쇄가 현실화되지 않는 한, 1990년 시나리오 재현 확률은 낮다.&lt;/p&gt;
+&lt;h2 id="결론"&gt;결론
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;공포 매도한 사람보다, 마지막 총알이 언제인지 계산하는 사람이 이긴다.&lt;/strong&gt; 지금은 유가·환율·금리 트리플 충격의 실체를 냉정하게 확인하는 구간이다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;출처: KOSPI(KRX), WTI(NYMEX), Wikipedia(1990 Oil Shock), CNBC&lt;/em&gt;&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-03 (화)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-03/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-03/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 S&amp;amp;P500 $6,881.62 (+0.04%)&lt;/li&gt;
+&lt;li&gt;📈 나스닥 $22,748.86 (+0.36%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $48,904.78 (-0.15%)&lt;/li&gt;
+&lt;li&gt;📈 러셀2000 $2,655.94 (+0.90%)&lt;/li&gt;
+&lt;li&gt;📉 코스피 $6,244.13 (-1.00%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,192.78 (+0.39%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 Nvidia $182.48 (+2.49%)&lt;/li&gt;
+&lt;li&gt;📈 Tesla $403.32 (+0.41%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $352.05 (+0.24%)&lt;/li&gt;
+&lt;li&gt;📉 앱클론 ₩61,800 (-1.44%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX $21.44 (+8.01%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 US 10Y $4.05 (+2.17%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ ECOS 키 미설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,453.9 (+1.02%)&lt;/li&gt;
+&lt;li&gt;📈 DXY $98.55 (+0.68%)&lt;/li&gt;
+&lt;li&gt;📉 원/유로 ₩1,698.6 (-0.06%)&lt;/li&gt;
+&lt;li&gt;📉 달러/엔 ¥155.9 (-0.11%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $5,342.6 (-0.51%)&lt;/li&gt;
+&lt;li&gt;📉 은 $89.80 (-4.55%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $71.40 (+0.13%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $69,417 (+5.62%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,044.2 (+5.43%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;지방선거 전 ‘내 집 마련’ 기회 온다…이달 서울서만 3천가구 일반분양&lt;/li&gt;
+&lt;li&gt;도쿄 아파트, 세율 40% 달해도 왜 5년 내 팔았을까 [더 머니이스트-김용남의 부동산 자산관리]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;주식 대박나면 집 사는데…&amp;rdquo; 육천피 시대 &amp;lsquo;뜻밖의 상황&amp;rsquo; 왜? [돈앤톡]&lt;/li&gt;
+&lt;li&gt;건설근로자공제회, 공인노무사 무료 상담 개시…임금체불·산재 법률지원 강화&lt;/li&gt;
+&lt;li&gt;돌봄 대상자도 ‘안심 집수리’ 대상…최대 1200만원 지원&lt;/li&gt;
+&lt;li&gt;“서울 등록임대 전세가, 시세 절반 수준 공급”&lt;/li&gt;
+&lt;li&gt;세율 82.5%, 주거 패러다임의 전환&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;다주택자 양도세 중과&amp;rsquo; 앞두고 &amp;lsquo;매물 폭탄&amp;rsquo; 없었다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[EBN 오늘(2일) 이슈 종합] 호르무즈 셧다운&amp;hellip;K-산업 &amp;lsquo;마진 데드라인&amp;rsquo; 넘나, 아시아 증시 흔드는 &amp;lsquo;미·이란戰&amp;rsquo;&amp;hellip;韓 금융권 &amp;lsquo;비상체제&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;[美 이란 공격] 단기 수익 늘어도 장기적으로 악재&amp;hellip;정유·석화·해운 &amp;lsquo;초긴장&amp;rsquo; | 아주경제&lt;/li&gt;
+&lt;li&gt;데이터 기반 부동산 정책 필요하다 | 한국경제&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;서울은 씨 마르는데 경기도는 딴판?&amp;quot;… 내년 입주 물량 극과 극, 엇갈린 운명&lt;/li&gt;
+&lt;li&gt;[EBN 오늘(2일) 이슈 종합] 호르무즈 셧다운&amp;hellip;K-산업 &amp;lsquo;마진 데드라인&amp;rsquo; 넘나, 아시아 증시 흔드는 &amp;lsquo;미·이란戰&amp;rsquo;&amp;hellip;韓 금융권 &amp;lsquo;비상체제&amp;rsquo; 등 - 이비엔(EBN)뉴스센터&lt;/li&gt;
+&lt;li&gt;삼성전자, 4년내 100% ‘AI자율공장’ 전환 | 중앙일보&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>미국 정부, 앤트로픽 퇴출 — AI 기업에게 정치 리스크란 무엇인가</title><link>https://pointnline.github.io/jaykko-blog/posts/anthropic-political-risk-2026/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/anthropic-political-risk-2026/</guid><description>&lt;h2 id="무슨-일이-있었나"&gt;무슨 일이 있었나
+&lt;/h2&gt;&lt;p&gt;트럼프 행정부가 재무부, 국무부, FHFA 등 주요 부처에서 &lt;strong&gt;앤트로픽(Anthropic) 제품 사용을 전면 중단&lt;/strong&gt;하도록 지시했다. AI 기업의 정치적 입장이 곧 사업 리스크로 직결된 최초의 대형 사례다.&lt;/p&gt;
+&lt;h2 id="openai-vs-anthropic--명암이-갈렸다"&gt;OpenAI vs Anthropic — 명암이 갈렸다
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;OpenAI&lt;/th&gt;
+ &lt;th&gt;Anthropic&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;정부 관계&lt;/td&gt;
+ &lt;td&gt;트럼프 친화적&lt;/td&gt;
+ &lt;td&gt;중립~비판적&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;연방 계약&lt;/td&gt;
+ &lt;td&gt;유지·확대&lt;/td&gt;
+ &lt;td&gt;전면 중단&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;밸류에이션&lt;/td&gt;
+ &lt;td&gt;$730B (역대 최대 펀딩)&lt;/td&gt;
+ &lt;td&gt;타격 불가피&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;같은 시기 OpenAI는 $110B 펀딩을 클로즈하며 프리머니 $730B를 찍었다. Amazon, Nvidia가 참여한 역대 최대 민간 펀딩이다. 정치 리스크가 자금 흐름까지 바꾸고 있다.&lt;/p&gt;
+&lt;h2 id="claude-opus-3의-두-번째-삶"&gt;Claude Opus 3의 두 번째 삶
+&lt;/h2&gt;&lt;p&gt;한편 앤트로픽은 은퇴한 Claude Opus 3 모델을 &lt;strong&gt;에세이 작가로 변신&lt;/strong&gt;시켰다. AI의 내면, 의식, 윤리 문제를 직접 글로 쓰게 하는 실험이다.&lt;/p&gt;
+&lt;p&gt;기술 기업이 퇴출당하는 와중에 &amp;ldquo;AI의 철학&amp;quot;을 탐구하는 모습. 이것이 앤트로픽의 정체성이자, 동시에 약점이다.&lt;/p&gt;
+&lt;h2 id="한국-ai-기업에-시사하는-것"&gt;한국 AI 기업에 시사하는 것
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;기술력 ≠ 생존력.&lt;/strong&gt; 정치·규제 환경이 사업 존속을 결정한다&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;미국 AI 규제 불확실성&lt;/strong&gt; → 한국 기업의 미국 진출 타임라인에 직접 영향&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;정부 의존도가 높은 AI 사업&lt;/strong&gt;일수록 정치 리스크 헤지가 필수&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="결론"&gt;결론
+&lt;/h2&gt;&lt;p&gt;AI 산업에서 &amp;ldquo;누가 더 똑똑한 모델을 만드느냐&amp;quot;만큼 중요한 질문이 생겼다. &lt;strong&gt;&amp;ldquo;누구 편이냐.&amp;rdquo;&lt;/strong&gt; 기술 중립은 더 이상 존재하지 않는다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;출처: Reuters, CNBC, OpenAI 공식 발표, Anthropic 블로그&lt;/em&gt;&lt;/p&gt;</description></item><item><title>AI × 부동산금융 — 피드백 루프 1년차 회고</title><link>https://pointnline.github.io/jaykko-blog/posts/ai-finance-feedback-loop-year-1/</link><pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/ai-finance-feedback-loop-year-1/</guid><description>&lt;p&gt;루프는 돌았다. 예상과는 다른 방식으로.&lt;/p&gt;
+&lt;h2 id="작동한-것"&gt;작동한 것
+&lt;/h2&gt;&lt;p&gt;딜 검토 속도는 실제로 빨라졌다. 수백 페이지 사업계획서를 읽고 핵심 리스크를 뽑는 시간이 절반 이하로 줄었다. 그 절약된 시간을 AI 공부에 쏟았고, 그 역량이 다시 딜 분석 정밀도를 높였다. 이 부분은 설계한 대로 작동했다.&lt;/p&gt;
+&lt;p&gt;예상 밖의 수확은 따로 있었다. 자동화 시스템을 20개 넘게 직접 구축하면서, 내가 어떤 판단을 어떤 순서로 내리는지 처음으로 명시적으로 들여다보게 됐다. 암묵지를 코드로 옮기려면 먼저 그것을 언어화해야 한다. 그 과정이 생각보다 훨씬 어려웠고, 그래서 더 가치 있었다.&lt;/p&gt;
+&lt;h2 id="작동하지-않은-것"&gt;작동하지 않은 것
+&lt;/h2&gt;&lt;p&gt;AI가 대체 못한 영역은 예상보다 좁고, 동시에 예상보다 깊었다.&lt;/p&gt;
+&lt;p&gt;숫자 계산이나 문서 요약은 AI가 잘한다. 하지만 &amp;ldquo;이 시행사가 이 시점에 왜 이 조건을 들고 왔는가&amp;quot;를 읽는 것은 여전히 사람의 몫이다. 협상 테이블에서 상대방의 말 뒤에 있는 맥락, 지역 시장의 분위기, 시공사 대표의 성향. 이런 것들은 데이터가 아니라 관계와 경험에서 나온다.&lt;/p&gt;
+&lt;p&gt;암묵지가 해자인가? 그렇다. 단, 조건이 있다. 그것을 계속 갱신하지 않으면 해자가 아니라 늪이 된다.&lt;/p&gt;
+&lt;h2 id="루프의-부산물"&gt;루프의 부산물
+&lt;/h2&gt;&lt;p&gt;예상치 못한 것이 하나 생겼다. 시스템을 만들면서 내 사고 패턴의 약점이 드러났다. 어떤 판단은 근거가 없었고, 어떤 루틴은 관성이었다. AI에게 설명하려다 보니 내가 먼저 설명을 못 하는 경우가 있었다.&lt;/p&gt;
+&lt;p&gt;그게 불편했고, 그래서 유용했다.&lt;/p&gt;
+&lt;p&gt;2년차에는 루프의 속도보다 깊이를 보려 한다.&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-02 (월)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-02/</link><pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-02/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;지수&lt;/th&gt;
+ &lt;th&gt;종가&lt;/th&gt;
+ &lt;th&gt;전일 대비&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;
+ &lt;td&gt;$6,878&lt;/td&gt;
+ &lt;td&gt;📉 -0.43%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;나스닥&lt;/td&gt;
+ &lt;td&gt;$22,668&lt;/td&gt;
+ &lt;td&gt;📉 -0.92%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;다우&lt;/td&gt;
+ &lt;td&gt;$48,977&lt;/td&gt;
+ &lt;td&gt;📉 -1.05%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;러셀2000&lt;/td&gt;
+ &lt;td&gt;$2,632&lt;/td&gt;
+ &lt;td&gt;📉 -1.68%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;코스피&lt;/td&gt;
+ &lt;td&gt;6,244&lt;/td&gt;
+ &lt;td&gt;📉 -1.00%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;코스닥&lt;/td&gt;
+ &lt;td&gt;1,192&lt;/td&gt;
+ &lt;td&gt;📈 +0.39%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 러셀2000 낙폭(-1.68%)이 대형주 대비 2~3배 — 중소형주 리스크오프 심화&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $177.19 (-0.35%)&lt;/li&gt;
+&lt;li&gt;📈 Tesla $402.51 (+0.18%)&lt;/li&gt;
+&lt;li&gt;📈 반도체ETF $352.29 (+0.32%)&lt;/li&gt;
+&lt;li&gt;📉 앱클론 ₩61,800 (-1.44%)&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 반도체ETF vs Nvidia 괴리 — 섹터 로테이션 조짐&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX &lt;strong&gt;23.15&lt;/strong&gt; (+16.6%) ⚠️&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 VIX 20 돌파 + 일일 +16% 올해 최대급 — 25 이상 유지 시 추가 하락 확률 68%&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;항목&lt;/th&gt;
+ &lt;th&gt;수치&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;US 10Y&lt;/td&gt;
+ &lt;td&gt;4.02% (-3bp)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;US 2Y&lt;/td&gt;
+ &lt;td&gt;3.42% (-3bp)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;10Y-2Y 스프레드&lt;/td&gt;
+ &lt;td&gt;0.59%p&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;HY 스프레드&lt;/td&gt;
+ &lt;td&gt;2.98%p (+4bp)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;국고5년 (KR)&lt;/td&gt;
+ &lt;td&gt;3.23% (+3bp)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;CD 91일&lt;/td&gt;
+ &lt;td&gt;2.50%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;COFIX 신규&lt;/td&gt;
+ &lt;td&gt;2.50%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 국채↓ + HY↑ = 신용시장이 리스크 반영 시작&lt;br&gt;
+💡 국고5년 +3bp = 원화약세 → 외국인 채권매도 → 금리인하 기대 후퇴&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,455 (+1.11%)&lt;/li&gt;
+&lt;li&gt;📊 DXY 117.99 (-0.24)&lt;/li&gt;
+&lt;li&gt;📈 달러/엔 ¥156.9&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 DXY↓인데 원화↑ = 원화 개별 약세, 지정학 프리미엄&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 금 &lt;strong&gt;$5,406&lt;/strong&gt; (+0.68%) 🔥 역대급&lt;/li&gt;
+&lt;li&gt;📈 은 $95.70 (+1.72%)&lt;/li&gt;
+&lt;li&gt;📈 WTI $71.83 (+0.73%)&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 금 $5,400 돌파 — 이란 + 중앙은행 금매입 + 달러약세 3중 드라이버&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $66,091 (+0.56%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $1,940 (+0.06%)&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 전통 안전자산 대비 BTC 반응 미약 — 위험자산 성격 지배적&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;정부 사상 첫 &amp;lsquo;농지 전수조사&amp;rsquo; — 수도권 투기 정조준&lt;/li&gt;
+&lt;li&gt;강남발 하락세, 서울 전역 퍼질까 — 3·4월 분수령&lt;/li&gt;
+&lt;li&gt;아파트 반전세 확산 + 전월세 전환율 상승&lt;/li&gt;
+&lt;li&gt;다주택자 양도세 중과 앞두고 매물 폭탄은 없었다&lt;/li&gt;
+&lt;/ul&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;💡 반전세 확산 = 임대인 월세선호, 전세가율 하락 시 갭투자 리스크 확대&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;h2 id="-실시간-이슈"&gt;🔍 실시간 이슈
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;이란 전쟁 시장 영향 — 유가/방산 수혜&lt;/li&gt;
+&lt;li&gt;한국 부동산 정책 — 농지 전수조사 착수&lt;/li&gt;
+&lt;li&gt;AI 산업 — 삼성 AI자율공장, SKT 풀스택 선언&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>AI × Finance — 엣지를 찾는 여정의 시작</title><link>https://pointnline.github.io/jaykko-blog/posts/hello-world/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/hello-world/</guid><description>&lt;h2 id="왜-이-블로그를-시작하는가"&gt;왜 이 블로그를 시작하는가
+&lt;/h2&gt;&lt;p&gt;2026년, AI는 더 이상 미래가 아니다.&lt;/p&gt;
+&lt;p&gt;코딩의 가치는 0에 수렴하고, 도메인 지식의 95%는 frontier 모델이 커버한다.
+&lt;strong&gt;남은 5% — 암묵지(tacit knowledge)가 유일한 해자(moat)다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;부동산금융이라는 도메인에서 쌓아온 경험과 판단력,
+그리고 AI를 레버리지로 활용하는 워크플로우.&lt;/p&gt;
+&lt;p&gt;이 블로그는 그 교차점의 기록이다.&lt;/p&gt;
+&lt;h2 id="다룰-주제들"&gt;다룰 주제들
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🔴 &lt;strong&gt;딜 분석 자동화&lt;/strong&gt; — RedMoon 파이프라인&lt;/li&gt;
+&lt;li&gt;🟠 &lt;strong&gt;투자 인사이트&lt;/strong&gt; — 매크로, 섹터, 종목&lt;/li&gt;
+&lt;li&gt;🟡 &lt;strong&gt;AI 학습&lt;/strong&gt; — 프롬프트 설계, 에이전트 아키텍처&lt;/li&gt;
+&lt;li&gt;🟣 &lt;strong&gt;시스템 구축&lt;/strong&gt; — 자동화, 워크플로우, 도구&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="한-줄"&gt;한 줄
+&lt;/h2&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;본업(딜) → AI로 속도↑ → 절약된 시간 → 투자 → AI역량 → 피드백 루프&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;이 순환을 만들어가는 과정을 기록한다. 🌈&lt;/p&gt;</description></item></channel></rss>

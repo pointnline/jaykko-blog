@@ -4,6 +4,14 @@ title = '제이꼬 — AI × Finance × Edge'
 theme = 'hugo-theme-stack'
 paginate = 10
 
+# Google Analytics 4
+[services.googleAnalytics]
+  ID = 'G-YDZGVF8SF0'
+
+[privacy.googleAnalytics]
+  disable = false
+  respectDoNotTrack = false
+
 [params]
   mainSections = ['posts']
   description = 'AI와 금융의 교차점에서 엣지를 찾는 기록'

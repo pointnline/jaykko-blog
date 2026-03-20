@@ -1,33 +1,110 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Finance on 제이꼬 — AI × Finance × Edge</title>
-        <link>http://localhost:1313/jaykko-blog/categories/finance/</link>
-        <description>Recent content in Finance on 제이꼬 — AI × Finance × Edge</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>ko</language>
-        <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jaykko-blog/categories/finance/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>앱클론(174900) — 항체 회사에서 듀얼 엔진으로, 숫자가 말하는 진짜 그림</title>
-            <link>http://localhost:1313/jaykko-blog/posts/abclon-dual-engine-2026/</link>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/abclon-dual-engine-2026/</guid>
-            <description>&lt;p&gt;앱클론이 움직이고 있다. 파트너사 헨리우스가 HER2 유방암 1차 치료 2/3상에서 첫 환자 투약을 시작했고, 3월 23일 주총에서는 사업목적을 &amp;lsquo;항체&amp;rsquo;에서 &amp;lsquo;면역세포·유전자 의약품&amp;rsquo;까지 확장하는 정관 변경을 추진한다. 항체 회사가 모달리티 하이브리드로 탈바꿈하는 순간이다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;재무--수술대-위의-환자&#34;&gt;재무 — 수술대 위의 환자&#xA;&lt;/h2&gt;&lt;p&gt;숫자부터 보자. DART 기준 2024년 매출 23억원, 영업손실 156억원. 매출의 7배를 태우고 있다. 3년 연속 매출이 줄었고(34→29→23억), 누적 결손은 729억원이다.&lt;/p&gt;&#xA;&lt;p&gt;그런데 올해 분위기가 다른 이유가 있다. 종근당이 122억원을 넣고 2대주주(7.68%)로 들어왔다. 보유현금이 190억원으로 늘었고, 2025년 매출 30억원을 넘겨 관리종목 해제가 임박했다. 기관투자자가 살 수 있게 되는 것이다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;로열티--대박나도-찔끔&#34;&gt;로열티 — 대박나도 찔끔?&#xA;&lt;/h2&gt;&lt;p&gt;AC101(헨리우스 코드명 HLX22)은 2016년 중국, 2018년 글로벌 판권을 각각 1,650만·4,000만 달러에 기술이전했다. 이제 헨리우스가 위암 글로벌 3상(진행률 40%+)과 유방암 1차 2/3상을 동시에 돌리고 있다. 유방암 1차는 시장 크기가 다른 게임이다.&lt;/p&gt;&#xA;&lt;p&gt;문제는 수익 구조다. 앱클론이 받는 로열티는 매출의 3~5%인데, 여기서 공동개발사 엘리게이터 바이오사이언스에 35%를 떼줘야 한다. 계산하면 헨리우스가 매출 6억 달러(8,580억원)를 올려도 앱클론 순수익은 234억원이다. 이종서 대표가 &amp;ldquo;2032년 로열티 2,000억&amp;quot;이라고 했는데, 이건 헨리우스 측 매출 100억 달러(14.3조원) 낙관 시나리오가 전제다. 액면 그대로 믿기엔 할인이 필요하다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;인비보-car-t--빅파마가-쓸어담는-시장에-올라타기&#34;&gt;인비보 CAR-T — 빅파마가 쓸어담는 시장에 올라타기&#xA;&lt;/h2&gt;&lt;p&gt;두 번째 엔진인 인비보 CAR-T는 더 큰 판이다. LNP에 mRNA를 실어 체내에 직접 주사하는 방식으로, 기존 CAR-T의 비용(수억원)과 시간(수주) 장벽을 무너뜨릴 수 있다.&lt;/p&gt;&#xA;&lt;p&gt;빅파마들이 이미 올인 중이다. 아스트라제네카가 에소바이오텍을 최대 10억 달러에 인수했고, 애브비는 캡스탄테라퓨틱스와 LNP 기반 제휴를 맺었다. 글로벌 CAR-T 시장은 2023년 37억 달러에서 2029년 290억 달러로 연 40% 성장이 전망된다.&lt;/p&gt;&#xA;&lt;p&gt;앱클론은 스웨덴 Strike Pharma와 파트너십, EU Eurostars 프로그램 선정으로 대열에 합류했다. 솔직히 빅파마 대비 자원은 열위지만, 항체 기술 기반의 니치 포지션은 존재한다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;밸류에이션--업사이드는-있되-전제-조건-있음&#34;&gt;밸류에이션 — 업사이드는 있되, 전제 조건 있음&#xA;&lt;/h2&gt;&lt;p&gt;파이프라인별 위험조정가치(rNPV)로 계산하면 AC101 로열티 900&lt;del&gt;1,200억, AT101 CAR-T 150&lt;/del&gt;250억, 인비보 옵션 50&lt;del&gt;100억. 합계 1,290&lt;/del&gt;1,740억원이다. 현재 시총 약 660억원 대비 업사이드 2~2.6배.&lt;/p&gt;&#xA;&lt;p&gt;단, 이건 위암 3상 성공(성공률 ~30%)을 전제한 숫자다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;체크포인트-5개&#34;&gt;체크포인트 5개&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;2026.03&lt;/strong&gt; — 관리종목 해제 (가장 가까운 촉매)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2026.03.23&lt;/strong&gt; — 주총 정관 변경 (인비보 CAR-T 공식화)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2026.06&lt;/strong&gt; — AT101 식약처 조건부 승인 신청&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2028&lt;/strong&gt; — AC101 상업화 → 로열티 시작&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;위암 3상 결과&lt;/strong&gt; — 진짜 밸류 리레이팅 트리거&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;한-줄-결론&#34;&gt;한 줄 결론&#xA;&lt;/h2&gt;&lt;p&gt;관리종목 해제와 종근당 파트너십으로 &amp;lsquo;바이오텍의 졸업&amp;rsquo;을 시도하는 해다. 로열티 면적은 넓어지고 있지만, &amp;ldquo;대박나도 찔끔&amp;quot;인 이중 할인 구조를 반드시 인지해야 한다. 결국 모든 것은 위암 3상 결과에 달려있다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;출처: DART 전자공시, 메디코파마뉴스, 팜이데일리, 이투데이, 바이오인&lt;/em&gt;&#xA;&lt;em&gt;본 글은 투자 조언이 아닙니다. 투자 판단은 본인 책임입니다.&lt;/em&gt;&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>검은 화요일 — 코스피 7.2% 폭락, 중동발 쇼크가 시험하는 한국 증시의 체력</title>
-            <link>http://localhost:1313/jaykko-blog/posts/black-tuesday-kospi-crash-2026-03-03/</link>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/black-tuesday-kospi-crash-2026-03-03/</guid>
-            <description>&lt;h2 id=&#34;무슨-일이-있었나&#34;&gt;무슨 일이 있었나&#xA;&lt;/h2&gt;&lt;p&gt;3월 3일 화요일, 코스피가 452포인트 급락하며 5,791에 마감했다. 하루 만에 시총 377조원이 증발. 사이드카가 발동됐고, 외국인은 차익실현에 나섰다.&lt;/p&gt;&#xA;&lt;p&gt;원인은 명확하다. &lt;strong&gt;이란-미국 군사 충돌 본격화.&lt;/strong&gt; 트럼프 대통령의 &amp;ldquo;4~5주 공격 지속&amp;rdquo; 발언, 카타르 LNG 생산 중단, 호르무즈 해협 봉쇄 위협이 겹쳤다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;숫자가-말하는-것&#34;&gt;숫자가 말하는 것&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;유가:&lt;/strong&gt; WTI $71.40 — 아직 관망 중이다. 걸프전 때는 $21→$46으로 2.2배 뛰었다&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;환율:&lt;/strong&gt; 원/달러 1,453.9원 (+1.02%) — 1,460 돌파 시 외국인 이탈 가속&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;VIX:&lt;/strong&gt; 21.1 (+6.5%) — 공포 구간 진입 직전&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;10년물:&lt;/strong&gt; 4.05% — 안전자산인데 오히려 상승. 유가발 인플레 우려가 더 크다는 뜻&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;역사와-비교하면&#34;&gt;역사와 비교하면&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;1990 걸프전&lt;/th&gt;&#xA;          &lt;th&gt;2003 이라크전&lt;/th&gt;&#xA;          &lt;th&gt;2026 이란&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;유가&lt;/td&gt;&#xA;          &lt;td&gt;+119%&lt;/td&gt;&#xA;          &lt;td&gt;+48%&lt;/td&gt;&#xA;          &lt;td&gt;관망 중&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;S&amp;amp;P500&lt;/td&gt;&#xA;          &lt;td&gt;-9.4% (1개월)&lt;/td&gt;&#xA;          &lt;td&gt;-4.6%&lt;/td&gt;&#xA;          &lt;td&gt;+0.04%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;회복&lt;/td&gt;&#xA;          &lt;td&gt;12개월&lt;/td&gt;&#xA;          &lt;td&gt;6개월&lt;/td&gt;&#xA;          &lt;td&gt;?&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;걸프전과 이라크전 모두 &lt;strong&gt;시장은 &amp;ldquo;전쟁의 시작&amp;quot;에 공포하고, &amp;ldquo;전쟁의 끝&amp;quot;에 빠르게 반등했다.&lt;/strong&gt; 걸프전 43일, 이라크전 21일 만에 주요 전투가 끝났다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;현재가-다른-이유&#34;&gt;현재가 다른 이유&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;미국 셰일 일산 &lt;strong&gt;1,300만 배럴&lt;/strong&gt; (1990년 대비 2배) — 공급 충격 완충&lt;/li&gt;&#xA;&lt;li&gt;전략비축유(SPR) 방출 카드 건재&lt;/li&gt;&#xA;&lt;li&gt;이란 원유 수출 이미 제재로 &lt;strong&gt;80% 감소&lt;/strong&gt; 상태&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;호르무즈 봉쇄가 현실화되지 않는 한, 1990년 시나리오 재현 확률은 낮다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;결론&#34;&gt;결론&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;공포 매도한 사람보다, 마지막 총알이 언제인지 계산하는 사람이 이긴다.&lt;/strong&gt; 지금은 유가·환율·금리 트리플 충격의 실체를 냉정하게 확인하는 구간이다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;출처: KOSPI(KRX), WTI(NYMEX), Wikipedia(1990 Oil Shock), CNBC&lt;/em&gt;&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>AI × 부동산금융 — 피드백 루프 1년차 회고</title>
-            <link>http://localhost:1313/jaykko-blog/posts/ai-finance-feedback-loop-year-1/</link>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/ai-finance-feedback-loop-year-1/</guid>
-            <description>&lt;p&gt;루프는 돌았다. 예상과는 다른 방식으로.&lt;/p&gt;&#xA;&lt;h2 id=&#34;작동한-것&#34;&gt;작동한 것&#xA;&lt;/h2&gt;&lt;p&gt;딜 검토 속도는 실제로 빨라졌다. 수백 페이지 사업계획서를 읽고 핵심 리스크를 뽑는 시간이 절반 이하로 줄었다. 그 절약된 시간을 AI 공부에 쏟았고, 그 역량이 다시 딜 분석 정밀도를 높였다. 이 부분은 설계한 대로 작동했다.&lt;/p&gt;&#xA;&lt;p&gt;예상 밖의 수확은 따로 있었다. 자동화 시스템을 20개 넘게 직접 구축하면서, 내가 어떤 판단을 어떤 순서로 내리는지 처음으로 명시적으로 들여다보게 됐다. 암묵지를 코드로 옮기려면 먼저 그것을 언어화해야 한다. 그 과정이 생각보다 훨씬 어려웠고, 그래서 더 가치 있었다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;작동하지-않은-것&#34;&gt;작동하지 않은 것&#xA;&lt;/h2&gt;&lt;p&gt;AI가 대체 못한 영역은 예상보다 좁고, 동시에 예상보다 깊었다.&lt;/p&gt;&#xA;&lt;p&gt;숫자 계산이나 문서 요약은 AI가 잘한다. 하지만 &amp;ldquo;이 시행사가 이 시점에 왜 이 조건을 들고 왔는가&amp;quot;를 읽는 것은 여전히 사람의 몫이다. 협상 테이블에서 상대방의 말 뒤에 있는 맥락, 지역 시장의 분위기, 시공사 대표의 성향. 이런 것들은 데이터가 아니라 관계와 경험에서 나온다.&lt;/p&gt;&#xA;&lt;p&gt;암묵지가 해자인가? 그렇다. 단, 조건이 있다. 그것을 계속 갱신하지 않으면 해자가 아니라 늪이 된다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;루프의-부산물&#34;&gt;루프의 부산물&#xA;&lt;/h2&gt;&lt;p&gt;예상치 못한 것이 하나 생겼다. 시스템을 만들면서 내 사고 패턴의 약점이 드러났다. 어떤 판단은 근거가 없었고, 어떤 루틴은 관성이었다. AI에게 설명하려다 보니 내가 먼저 설명을 못 하는 경우가 있었다.&lt;/p&gt;&#xA;&lt;p&gt;그게 불편했고, 그래서 유용했다.&lt;/p&gt;&#xA;&lt;p&gt;2년차에는 루프의 속도보다 깊이를 보려 한다.&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>AI × Finance — 엣지를 찾는 여정의 시작</title>
-            <link>http://localhost:1313/jaykko-blog/posts/hello-world/</link>
-            <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/jaykko-blog/posts/hello-world/</guid>
-            <description>&lt;h2 id=&#34;왜-이-블로그를-시작하는가&#34;&gt;왜 이 블로그를 시작하는가&#xA;&lt;/h2&gt;&lt;p&gt;2026년, AI는 더 이상 미래가 아니다.&lt;/p&gt;&#xA;&lt;p&gt;코딩의 가치는 0에 수렴하고, 도메인 지식의 95%는 frontier 모델이 커버한다.&#xA;&lt;strong&gt;남은 5% — 암묵지(tacit knowledge)가 유일한 해자(moat)다.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;부동산금융이라는 도메인에서 쌓아온 경험과 판단력,&#xA;그리고 AI를 레버리지로 활용하는 워크플로우.&lt;/p&gt;&#xA;&lt;p&gt;이 블로그는 그 교차점의 기록이다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;다룰-주제들&#34;&gt;다룰 주제들&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;딜 분석 자동화&lt;/strong&gt; — RedMoon 파이프라인&lt;/li&gt;&#xA;&lt;li&gt;🟠 &lt;strong&gt;투자 인사이트&lt;/strong&gt; — 매크로, 섹터, 종목&lt;/li&gt;&#xA;&lt;li&gt;🟡 &lt;strong&gt;AI 학습&lt;/strong&gt; — 프롬프트 설계, 에이전트 아키텍처&lt;/li&gt;&#xA;&lt;li&gt;🟣 &lt;strong&gt;시스템 구축&lt;/strong&gt; — 자동화, 워크플로우, 도구&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;한-줄&#34;&gt;한 줄&#xA;&lt;/h2&gt;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;본업(딜) → AI로 속도↑ → 절약된 시간 → 투자 → AI역량 → 피드백 루프&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;p&gt;이 순환을 만들어가는 과정을 기록한다. 🌈&lt;/p&gt;&#xA;</description>
-        </item></channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Finance on 제이꼬 — AI × Finance × Edge</title><link>https://pointnline.github.io/jaykko-blog/categories/finance/</link><description>Recent content in Finance on 제이꼬 — AI × Finance × Edge</description><generator>Hugo -- gohugo.io</generator><language>ko</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pointnline.github.io/jaykko-blog/categories/finance/index.xml" rel="self" type="application/rss+xml"/><item><title>앱클론(174900) — 항체 회사에서 듀얼 엔진으로, 숫자가 말하는 진짜 그림</title><link>https://pointnline.github.io/jaykko-blog/posts/abclon-dual-engine-2026/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/abclon-dual-engine-2026/</guid><description>&lt;p&gt;앱클론이 움직이고 있다. 파트너사 헨리우스가 HER2 유방암 1차 치료 2/3상에서 첫 환자 투약을 시작했고, 3월 23일 주총에서는 사업목적을 &amp;lsquo;항체&amp;rsquo;에서 &amp;lsquo;면역세포·유전자 의약품&amp;rsquo;까지 확장하는 정관 변경을 추진한다. 항체 회사가 모달리티 하이브리드로 탈바꿈하는 순간이다.&lt;/p&gt;
+&lt;h2 id="재무--수술대-위의-환자"&gt;재무 — 수술대 위의 환자
+&lt;/h2&gt;&lt;p&gt;숫자부터 보자. DART 기준 2024년 매출 23억원, 영업손실 156억원. 매출의 7배를 태우고 있다. 3년 연속 매출이 줄었고(34→29→23억), 누적 결손은 729억원이다.&lt;/p&gt;
+&lt;p&gt;그런데 올해 분위기가 다른 이유가 있다. 종근당이 122억원을 넣고 2대주주(7.68%)로 들어왔다. 보유현금이 190억원으로 늘었고, 2025년 매출 30억원을 넘겨 관리종목 해제가 임박했다. 기관투자자가 살 수 있게 되는 것이다.&lt;/p&gt;
+&lt;h2 id="로열티--대박나도-찔끔"&gt;로열티 — 대박나도 찔끔?
+&lt;/h2&gt;&lt;p&gt;AC101(헨리우스 코드명 HLX22)은 2016년 중국, 2018년 글로벌 판권을 각각 1,650만·4,000만 달러에 기술이전했다. 이제 헨리우스가 위암 글로벌 3상(진행률 40%+)과 유방암 1차 2/3상을 동시에 돌리고 있다. 유방암 1차는 시장 크기가 다른 게임이다.&lt;/p&gt;
+&lt;p&gt;문제는 수익 구조다. 앱클론이 받는 로열티는 매출의 3~5%인데, 여기서 공동개발사 엘리게이터 바이오사이언스에 35%를 떼줘야 한다. 계산하면 헨리우스가 매출 6억 달러(8,580억원)를 올려도 앱클론 순수익은 234억원이다. 이종서 대표가 &amp;ldquo;2032년 로열티 2,000억&amp;quot;이라고 했는데, 이건 헨리우스 측 매출 100억 달러(14.3조원) 낙관 시나리오가 전제다. 액면 그대로 믿기엔 할인이 필요하다.&lt;/p&gt;
+&lt;h2 id="인비보-car-t--빅파마가-쓸어담는-시장에-올라타기"&gt;인비보 CAR-T — 빅파마가 쓸어담는 시장에 올라타기
+&lt;/h2&gt;&lt;p&gt;두 번째 엔진인 인비보 CAR-T는 더 큰 판이다. LNP에 mRNA를 실어 체내에 직접 주사하는 방식으로, 기존 CAR-T의 비용(수억원)과 시간(수주) 장벽을 무너뜨릴 수 있다.&lt;/p&gt;
+&lt;p&gt;빅파마들이 이미 올인 중이다. 아스트라제네카가 에소바이오텍을 최대 10억 달러에 인수했고, 애브비는 캡스탄테라퓨틱스와 LNP 기반 제휴를 맺었다. 글로벌 CAR-T 시장은 2023년 37억 달러에서 2029년 290억 달러로 연 40% 성장이 전망된다.&lt;/p&gt;
+&lt;p&gt;앱클론은 스웨덴 Strike Pharma와 파트너십, EU Eurostars 프로그램 선정으로 대열에 합류했다. 솔직히 빅파마 대비 자원은 열위지만, 항체 기술 기반의 니치 포지션은 존재한다.&lt;/p&gt;
+&lt;h2 id="밸류에이션--업사이드는-있되-전제-조건-있음"&gt;밸류에이션 — 업사이드는 있되, 전제 조건 있음
+&lt;/h2&gt;&lt;p&gt;파이프라인별 위험조정가치(rNPV)로 계산하면 AC101 로열티 900&lt;del&gt;1,200억, AT101 CAR-T 150&lt;/del&gt;250억, 인비보 옵션 50&lt;del&gt;100억. 합계 1,290&lt;/del&gt;1,740억원이다. 현재 시총 약 660억원 대비 업사이드 2~2.6배.&lt;/p&gt;
+&lt;p&gt;단, 이건 위암 3상 성공(성공률 ~30%)을 전제한 숫자다.&lt;/p&gt;
+&lt;h2 id="체크포인트-5개"&gt;체크포인트 5개
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;2026.03&lt;/strong&gt; — 관리종목 해제 (가장 가까운 촉매)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.03.23&lt;/strong&gt; — 주총 정관 변경 (인비보 CAR-T 공식화)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.06&lt;/strong&gt; — AT101 식약처 조건부 승인 신청&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2028&lt;/strong&gt; — AC101 상업화 → 로열티 시작&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;위암 3상 결과&lt;/strong&gt; — 진짜 밸류 리레이팅 트리거&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="한-줄-결론"&gt;한 줄 결론
+&lt;/h2&gt;&lt;p&gt;관리종목 해제와 종근당 파트너십으로 &amp;lsquo;바이오텍의 졸업&amp;rsquo;을 시도하는 해다. 로열티 면적은 넓어지고 있지만, &amp;ldquo;대박나도 찔끔&amp;quot;인 이중 할인 구조를 반드시 인지해야 한다. 결국 모든 것은 위암 3상 결과에 달려있다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;출처: DART 전자공시, 메디코파마뉴스, 팜이데일리, 이투데이, 바이오인&lt;/em&gt;
+&lt;em&gt;본 글은 투자 조언이 아닙니다. 투자 판단은 본인 책임입니다.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>검은 화요일 — 코스피 7.2% 폭락, 중동발 쇼크가 시험하는 한국 증시의 체력</title><link>https://pointnline.github.io/jaykko-blog/posts/black-tuesday-kospi-crash-2026-03-03/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/black-tuesday-kospi-crash-2026-03-03/</guid><description>&lt;h2 id="무슨-일이-있었나"&gt;무슨 일이 있었나
+&lt;/h2&gt;&lt;p&gt;3월 3일 화요일, 코스피가 452포인트 급락하며 5,791에 마감했다. 하루 만에 시총 377조원이 증발. 사이드카가 발동됐고, 외국인은 차익실현에 나섰다.&lt;/p&gt;
+&lt;p&gt;원인은 명확하다. &lt;strong&gt;이란-미국 군사 충돌 본격화.&lt;/strong&gt; 트럼프 대통령의 &amp;ldquo;4~5주 공격 지속&amp;rdquo; 발언, 카타르 LNG 생산 중단, 호르무즈 해협 봉쇄 위협이 겹쳤다.&lt;/p&gt;
+&lt;h2 id="숫자가-말하는-것"&gt;숫자가 말하는 것
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;유가:&lt;/strong&gt; WTI $71.40 — 아직 관망 중이다. 걸프전 때는 $21→$46으로 2.2배 뛰었다&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;환율:&lt;/strong&gt; 원/달러 1,453.9원 (+1.02%) — 1,460 돌파 시 외국인 이탈 가속&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VIX:&lt;/strong&gt; 21.1 (+6.5%) — 공포 구간 진입 직전&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10년물:&lt;/strong&gt; 4.05% — 안전자산인데 오히려 상승. 유가발 인플레 우려가 더 크다는 뜻&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="역사와-비교하면"&gt;역사와 비교하면
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;1990 걸프전&lt;/th&gt;
+ &lt;th&gt;2003 이라크전&lt;/th&gt;
+ &lt;th&gt;2026 이란&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;유가&lt;/td&gt;
+ &lt;td&gt;+119%&lt;/td&gt;
+ &lt;td&gt;+48%&lt;/td&gt;
+ &lt;td&gt;관망 중&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;S&amp;amp;P500&lt;/td&gt;
+ &lt;td&gt;-9.4% (1개월)&lt;/td&gt;
+ &lt;td&gt;-4.6%&lt;/td&gt;
+ &lt;td&gt;+0.04%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;회복&lt;/td&gt;
+ &lt;td&gt;12개월&lt;/td&gt;
+ &lt;td&gt;6개월&lt;/td&gt;
+ &lt;td&gt;?&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;걸프전과 이라크전 모두 &lt;strong&gt;시장은 &amp;ldquo;전쟁의 시작&amp;quot;에 공포하고, &amp;ldquo;전쟁의 끝&amp;quot;에 빠르게 반등했다.&lt;/strong&gt; 걸프전 43일, 이라크전 21일 만에 주요 전투가 끝났다.&lt;/p&gt;
+&lt;h2 id="현재가-다른-이유"&gt;현재가 다른 이유
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;미국 셰일 일산 &lt;strong&gt;1,300만 배럴&lt;/strong&gt; (1990년 대비 2배) — 공급 충격 완충&lt;/li&gt;
+&lt;li&gt;전략비축유(SPR) 방출 카드 건재&lt;/li&gt;
+&lt;li&gt;이란 원유 수출 이미 제재로 &lt;strong&gt;80% 감소&lt;/strong&gt; 상태&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;호르무즈 봉쇄가 현실화되지 않는 한, 1990년 시나리오 재현 확률은 낮다.&lt;/p&gt;
+&lt;h2 id="결론"&gt;결론
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;공포 매도한 사람보다, 마지막 총알이 언제인지 계산하는 사람이 이긴다.&lt;/strong&gt; 지금은 유가·환율·금리 트리플 충격의 실체를 냉정하게 확인하는 구간이다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;출처: KOSPI(KRX), WTI(NYMEX), Wikipedia(1990 Oil Shock), CNBC&lt;/em&gt;&lt;/p&gt;</description></item><item><title>AI × 부동산금융 — 피드백 루프 1년차 회고</title><link>https://pointnline.github.io/jaykko-blog/posts/ai-finance-feedback-loop-year-1/</link><pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/ai-finance-feedback-loop-year-1/</guid><description>&lt;p&gt;루프는 돌았다. 예상과는 다른 방식으로.&lt;/p&gt;
+&lt;h2 id="작동한-것"&gt;작동한 것
+&lt;/h2&gt;&lt;p&gt;딜 검토 속도는 실제로 빨라졌다. 수백 페이지 사업계획서를 읽고 핵심 리스크를 뽑는 시간이 절반 이하로 줄었다. 그 절약된 시간을 AI 공부에 쏟았고, 그 역량이 다시 딜 분석 정밀도를 높였다. 이 부분은 설계한 대로 작동했다.&lt;/p&gt;
+&lt;p&gt;예상 밖의 수확은 따로 있었다. 자동화 시스템을 20개 넘게 직접 구축하면서, 내가 어떤 판단을 어떤 순서로 내리는지 처음으로 명시적으로 들여다보게 됐다. 암묵지를 코드로 옮기려면 먼저 그것을 언어화해야 한다. 그 과정이 생각보다 훨씬 어려웠고, 그래서 더 가치 있었다.&lt;/p&gt;
+&lt;h2 id="작동하지-않은-것"&gt;작동하지 않은 것
+&lt;/h2&gt;&lt;p&gt;AI가 대체 못한 영역은 예상보다 좁고, 동시에 예상보다 깊었다.&lt;/p&gt;
+&lt;p&gt;숫자 계산이나 문서 요약은 AI가 잘한다. 하지만 &amp;ldquo;이 시행사가 이 시점에 왜 이 조건을 들고 왔는가&amp;quot;를 읽는 것은 여전히 사람의 몫이다. 협상 테이블에서 상대방의 말 뒤에 있는 맥락, 지역 시장의 분위기, 시공사 대표의 성향. 이런 것들은 데이터가 아니라 관계와 경험에서 나온다.&lt;/p&gt;
+&lt;p&gt;암묵지가 해자인가? 그렇다. 단, 조건이 있다. 그것을 계속 갱신하지 않으면 해자가 아니라 늪이 된다.&lt;/p&gt;
+&lt;h2 id="루프의-부산물"&gt;루프의 부산물
+&lt;/h2&gt;&lt;p&gt;예상치 못한 것이 하나 생겼다. 시스템을 만들면서 내 사고 패턴의 약점이 드러났다. 어떤 판단은 근거가 없었고, 어떤 루틴은 관성이었다. AI에게 설명하려다 보니 내가 먼저 설명을 못 하는 경우가 있었다.&lt;/p&gt;
+&lt;p&gt;그게 불편했고, 그래서 유용했다.&lt;/p&gt;
+&lt;p&gt;2년차에는 루프의 속도보다 깊이를 보려 한다.&lt;/p&gt;</description></item><item><title>AI × Finance — 엣지를 찾는 여정의 시작</title><link>https://pointnline.github.io/jaykko-blog/posts/hello-world/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/hello-world/</guid><description>&lt;h2 id="왜-이-블로그를-시작하는가"&gt;왜 이 블로그를 시작하는가
+&lt;/h2&gt;&lt;p&gt;2026년, AI는 더 이상 미래가 아니다.&lt;/p&gt;
+&lt;p&gt;코딩의 가치는 0에 수렴하고, 도메인 지식의 95%는 frontier 모델이 커버한다.
+&lt;strong&gt;남은 5% — 암묵지(tacit knowledge)가 유일한 해자(moat)다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;부동산금융이라는 도메인에서 쌓아온 경험과 판단력,
+그리고 AI를 레버리지로 활용하는 워크플로우.&lt;/p&gt;
+&lt;p&gt;이 블로그는 그 교차점의 기록이다.&lt;/p&gt;
+&lt;h2 id="다룰-주제들"&gt;다룰 주제들
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🔴 &lt;strong&gt;딜 분석 자동화&lt;/strong&gt; — RedMoon 파이프라인&lt;/li&gt;
+&lt;li&gt;🟠 &lt;strong&gt;투자 인사이트&lt;/strong&gt; — 매크로, 섹터, 종목&lt;/li&gt;
+&lt;li&gt;🟡 &lt;strong&gt;AI 학습&lt;/strong&gt; — 프롬프트 설계, 에이전트 아키텍처&lt;/li&gt;
+&lt;li&gt;🟣 &lt;strong&gt;시스템 구축&lt;/strong&gt; — 자동화, 워크플로우, 도구&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="한-줄"&gt;한 줄
+&lt;/h2&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;본업(딜) → AI로 속도↑ → 절약된 시간 → 투자 → AI역량 → 피드백 루프&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;이 순환을 만들어가는 과정을 기록한다. 🌈&lt;/p&gt;</description></item></channel></rss>
