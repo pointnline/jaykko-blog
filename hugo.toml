@@ -55,3 +55,9 @@ paginate = 10
     style = 'dracula'
   [markup.goldmark.renderer]
     unsafe = true
+
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepEndTags = true
+      keepWhitespace = true
