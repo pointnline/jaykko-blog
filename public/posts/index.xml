@@ -82,8 +82,9 @@
 &lt;p&gt;이 시리즈는 각 위기를 해부하고, &lt;strong&gt;그때 어디에 투자했어야 했는지&lt;/strong&gt; 복기한다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="50년의-기록-에너지-쇼크-연대기"&gt;50년의 기록: 에너지 쇼크 연대기
-&lt;/h2&gt;&lt;div id="chart-timeline" style="width:100%; height:450px; margin:24px 0;"&gt;&amp;#8203;&lt;/div&gt;
-&lt;p&gt;아래 차트는 1970년부터 현재까지 유가(WTI) 추이와 주요 에너지 쇼크를 표시한 것이다. 모든 위기에는 공통점이 있다: &lt;strong&gt;공급이 끊기면 가격은 폭등하고, 수요가 무너지면 가격은 폭락한다.&lt;/strong&gt; 그 사이에서 투자 기회가 만들어진다.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;1970년부터 현재까지, 에너지 쇼크의 타임라인이다.&lt;/p&gt;
+&lt;div id="chart-timeline" style="width:100%; height:200px; margin:24px 0;"&gt;&amp;#8203;&lt;/div&gt;
+&lt;p&gt;아래 차트는 유가(WTI) 추이와 주요 에너지 쇼크를 표시한 것이다. 모든 위기에는 공통점이 있다: &lt;strong&gt;공급이 끊기면 가격은 폭등하고, 수요가 무너지면 가격은 폭락한다.&lt;/strong&gt; 그 사이에서 투자 기회가 만들어진다.&lt;/p&gt;
 &lt;div id="chart-price-wrap" style="width:100%; max-width:800px; height:400px; margin:24px auto;"&gt;&amp;#8203;&lt;/div&gt;
 &lt;hr&gt;
 &lt;h2 id="시리즈-로드맵"&gt;시리즈 로드맵
@@ -161,7 +162,8 @@
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;h2 id="에너지-쇼크와-자산시장-숫자로-보는-패턴"&gt;에너지 쇼크와 자산시장: 숫자로 보는 패턴
-&lt;/h2&gt;&lt;div id="chart-impact-wrap" style="width:100%; max-width:800px; height:400px; margin:24px auto;"&gt;&amp;#8203;&lt;/div&gt;
+&lt;/h2&gt;&lt;p&gt;각 위기마다 유가, 주식, 금은 어떻게 움직였는가?&lt;/p&gt;
+&lt;div id="chart-impact-wrap" style="width:100%; max-width:800px; height:400px; margin:24px auto;"&gt;&amp;#8203;&lt;/div&gt;
 &lt;p&gt;각 에너지 쇼크가 &lt;strong&gt;유가, S&amp;amp;P 500, 금, 미국 10년 국채 금리&lt;/strong&gt;에 미친 영향을 비교하면 명확한 패턴이 보인다:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;유가 쇼크 → 금(Gold) 강세&lt;/strong&gt;: 5번의 위기 중 4번에서 금이 상승&lt;/li&gt;

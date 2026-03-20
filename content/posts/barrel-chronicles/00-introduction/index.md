@@ -44,9 +44,11 @@ toc: true
 
 ## 50년의 기록: 에너지 쇼크 연대기
 
-<div id="chart-timeline" style="width:100%; height:450px; margin:24px 0;">&#8203;</div>
+1970년부터 현재까지, 에너지 쇼크의 타임라인이다.
 
-아래 차트는 1970년부터 현재까지 유가(WTI) 추이와 주요 에너지 쇼크를 표시한 것이다. 모든 위기에는 공통점이 있다: **공급이 끊기면 가격은 폭등하고, 수요가 무너지면 가격은 폭락한다.** 그 사이에서 투자 기회가 만들어진다.
+<div id="chart-timeline" style="width:100%; height:200px; margin:24px 0;">&#8203;</div>
+
+아래 차트는 유가(WTI) 추이와 주요 에너지 쇼크를 표시한 것이다. 모든 위기에는 공통점이 있다: **공급이 끊기면 가격은 폭등하고, 수요가 무너지면 가격은 폭락한다.** 그 사이에서 투자 기회가 만들어진다.
 
 <div id="chart-price-wrap" style="width:100%; max-width:800px; height:400px; margin:24px auto;">&#8203;</div>
 
@@ -70,6 +72,8 @@ toc: true
 ---
 
 ## 에너지 쇼크와 자산시장: 숫자로 보는 패턴
+
+각 위기마다 유가, 주식, 금은 어떻게 움직였는가?
 
 <div id="chart-impact-wrap" style="width:100%; max-width:800px; height:400px; margin:24px auto;">&#8203;</div>
 
