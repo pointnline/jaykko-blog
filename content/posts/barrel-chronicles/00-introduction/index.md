@@ -48,7 +48,7 @@ toc: true
 
 아래 차트는 1970년부터 현재까지 유가(WTI) 추이와 주요 에너지 쇼크를 표시한 것이다. 모든 위기에는 공통점이 있다: **공급이 끊기면 가격은 폭등하고, 수요가 무너지면 가격은 폭락한다.** 그 사이에서 투자 기회가 만들어진다.
 
-<div id="chart-price" style="width:100%; max-width:800px; height:400px; margin:24px auto;"></div>
+<div style="width:100%; max-width:800px; height:400px; margin:24px auto;"><canvas id="chart-price"></canvas></div>
 
 ---
 
@@ -71,7 +71,7 @@ toc: true
 
 ## 에너지 쇼크와 자산시장: 숫자로 보는 패턴
 
-<div id="chart-impact" style="width:100%; max-width:800px; height:400px; margin:24px auto;"></div>
+<div style="width:100%; max-width:800px; height:400px; margin:24px auto;"><canvas id="chart-impact"></canvas></div>
 
 각 에너지 쇼크가 **유가, S&P 500, 금, 미국 10년 국채 금리**에 미친 영향을 비교하면 명확한 패턴이 보인다:
 
@@ -103,8 +103,6 @@ toc: true
 
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.0.1/dist/chartjs-plugin-annotation.min.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const COLORS = {
