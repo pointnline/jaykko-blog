@@ -48,7 +48,7 @@ toc: true
 
 아래 차트는 1970년부터 현재까지 유가(WTI) 추이와 주요 에너지 쇼크를 표시한 것이다. 모든 위기에는 공통점이 있다: **공급이 끊기면 가격은 폭등하고, 수요가 무너지면 가격은 폭락한다.** 그 사이에서 투자 기회가 만들어진다.
 
-<div style="width:100%; max-width:800px; height:400px; margin:24px auto;"><canvas id="chart-price"></canvas></div>
+<div id="chart-price-wrap" style="width:100%; max-width:800px; height:400px; margin:24px auto;"></div>
 
 ---
 
@@ -71,7 +71,7 @@ toc: true
 
 ## 에너지 쇼크와 자산시장: 숫자로 보는 패턴
 
-<div style="width:100%; max-width:800px; height:400px; margin:24px auto;"><canvas id="chart-impact"></canvas></div>
+<div id="chart-impact-wrap" style="width:100%; max-width:800px; height:400px; margin:24px auto;"></div>
 
 각 에너지 쇼크가 **유가, S&P 500, 금, 미국 10년 국채 금리**에 미친 영향을 비교하면 명확한 패턴이 보인다:
 
@@ -156,9 +156,11 @@ document.addEventListener('DOMContentLoaded', function() {
       label:{ display:true, content:'2026 카타르', position:'start', color:COLORS.gold, font:{size:10} }}
   };
 
-  const ctx1 = document.getElementById('chart-price');
-  if (ctx1) {
-    new Chart(ctx1, {
+  var wrap1 = document.getElementById('chart-price-wrap');
+  if (wrap1) {
+    var cvs1 = document.createElement('canvas');
+    wrap1.appendChild(cvs1);
+    new Chart(cvs1, {
       type: 'line',
       data: {
         labels: years,
@@ -196,9 +198,11 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   // ═══ 차트 2: 에너지 쇼크별 자산 영향 비교 ═══
-  const ctx2 = document.getElementById('chart-impact');
-  if (ctx2) {
-    new Chart(ctx2, {
+  var wrap2 = document.getElementById('chart-impact-wrap');
+  if (wrap2) {
+    var cvs2 = document.createElement('canvas');
+    wrap2.appendChild(cvs2);
+    new Chart(cvs2, {
       type: 'bar',
       data: {
         labels: ['1973\nOPEC', '1979\n이란', '1990\n걸프', '2008\n리먼', '2014\n셰일', '2020\n코로나', '2022\n러-우', '2026\n카타르'],
