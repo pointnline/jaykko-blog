@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // WTI 유가 차트
   var wrap1 = document.getElementById('chart-price-wrap');
   if (wrap1 && typeof Chart !== 'undefined') {
+    wrap1.innerHTML = '';
     var cvs1 = document.createElement('canvas');
     wrap1.appendChild(cvs1);
 
@@ -88,6 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // 에너지 쇼크별 자산 영향 비교 차트
   var wrap2 = document.getElementById('chart-impact-wrap');
   if (wrap2 && typeof Chart !== 'undefined') {
+    wrap2.innerHTML = '';
     var cvs2 = document.createElement('canvas');
     wrap2.appendChild(cvs2);
 
