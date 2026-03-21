@@ -1,4 +1,780 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>제이꼬 — AI × Finance × Edge</title><link>https://pointnline.github.io/jaykko-blog/</link><description>Recent content on 제이꼬 — AI × Finance × Edge</description><generator>Hugo -- gohugo.io</generator><language>ko</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pointnline.github.io/jaykko-blog/index.xml" rel="self" type="application/rss+xml"/><item><title>모닝브리핑 2026-03-21 (토)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-21/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-21/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>제이꼬 — AI × Finance × Edge</title><link>https://pointnline.github.io/jaykko-blog/</link><description>Recent content on 제이꼬 — AI × Finance × Edge</description><generator>Hugo -- gohugo.io</generator><language>ko</language><lastBuildDate>Sat, 21 Mar 2026 13:00:00 +0900</lastBuildDate><atom:link href="https://pointnline.github.io/jaykko-blog/index.xml" rel="self" type="application/rss+xml"/><item><title>2026 이란 — 지금, 역사는 어디를 반복하고 있는가</title><link>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/04-iran-2026-pattern-matching/</link><pubDate>Sat, 21 Mar 2026 13:00:00 +0900</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/04-iran-2026-pattern-matching/</guid><description>
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;&amp;ldquo;I&amp;rsquo;ve seen this before.&amp;rdquo;&lt;/em&gt; — 그리고 이번에는, 네 개의 역사가 동시에 겹친다.&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="현재-상황-2026년-3월"&gt;현재 상황 (2026년 3월)
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;3월 3일&lt;/strong&gt;: 코스피 7.2% 폭락 (검은 화요일)
+&lt;strong&gt;3월 18일&lt;/strong&gt;: 트럼프 &amp;ldquo;이란 군사력 무력화, 중동 작전 종료 수순&amp;rdquo; 발언
+&lt;strong&gt;3월 21일&lt;/strong&gt;: 사우디 &amp;ldquo;4월까지 전쟁 지속 시 유가 $180&amp;rdquo;
+&lt;strong&gt;현재&lt;/strong&gt;: WTI $71, 금 $3,040, 원/달러 1,454원&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="history-match-네-개의-전쟁이-말하는-것"&gt;History Match: 네 개의 전쟁이 말하는 것
+&lt;/h2&gt;&lt;p&gt;Ancient One 프레임워크로 현재 상황을 과거 네 번의 전쟁에 대입한다.&lt;/p&gt;
+&lt;h3 id="매칭-1-걸프전-1990--유가-시나리오"&gt;매칭 1: 걸프전 (1990) — 유가 시나리오
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;유사도: ★★★★☆&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;항목&lt;/th&gt;
+ &lt;th&gt;걸프전 (1990)&lt;/th&gt;
+ &lt;th&gt;이란 (2026)&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;트리거&lt;/td&gt;
+ &lt;td&gt;이라크의 쿠웨이트 침공&lt;/td&gt;
+ &lt;td&gt;이란 핵 + 프록시 위협&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;공급 리스크&lt;/td&gt;
+ &lt;td&gt;쿠웨이트+이라크 9%&lt;/td&gt;
+ &lt;td&gt;이란 3.2% + 호르무즈 21%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;유가 출발점&lt;/td&gt;
+ &lt;td&gt;$21&lt;/td&gt;
+ &lt;td&gt;$71&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;예상 피크&lt;/td&gt;
+ &lt;td&gt;$41 (실현)&lt;/td&gt;
+ &lt;td&gt;$100~$180 (시나리오)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;미국 행동&lt;/td&gt;
+ &lt;td&gt;다국적군 결성 → 공습 → 지상전&lt;/td&gt;
+ &lt;td&gt;공습? 해상봉쇄? 미확정&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;걸프전이 가리키는 방향&lt;/strong&gt;: 유가는 개전 전에 가장 크게 오르고, 개전 후 하락한다. &lt;strong&gt;지금이 Phase 0~1 전환기&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id="매칭-2-아프간이라크-2001-03--방산-사이클"&gt;매칭 2: 아프간·이라크 (2001-03) — 방산 사이클
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;유사도: ★★★☆☆&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;항목&lt;/th&gt;
+ &lt;th&gt;아프간/이라크&lt;/th&gt;
+ &lt;th&gt;이란 (2026)&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;배경&lt;/td&gt;
+ &lt;td&gt;9/11 충격&lt;/td&gt;
+ &lt;td&gt;중동 불안정 축적&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;방위비 증가&lt;/td&gt;
+ &lt;td&gt;$316B → $691B (2.2x)&lt;/td&gt;
+ &lt;td&gt;$886B → ?&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;방산주 사이클&lt;/td&gt;
+ &lt;td&gt;20년 슈퍼사이클 시작&lt;/td&gt;
+ &lt;td&gt;K-방산 수출 사이클 진행 중&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;차이점&lt;/td&gt;
+ &lt;td&gt;미국 자국 전쟁&lt;/td&gt;
+ &lt;td&gt;동맹 무장화 → 한국 수출 수혜&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;아프간이 가리키는 방향&lt;/strong&gt;: 방산주는 전쟁 시작이 아니라 &lt;strong&gt;방위비 증액 사이클의 초기&lt;/strong&gt;가 매수 시점. 한국 방산은 아직 초기~중기.&lt;/p&gt;
+&lt;h3 id="매칭-3-베트남-1964-75--재정-리스크"&gt;매칭 3: 베트남 (1964-75) — 재정 리스크
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;유사도: ★★★★★ (가장 위험한 매칭)&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;항목&lt;/th&gt;
+ &lt;th&gt;베트남전&lt;/th&gt;
+ &lt;th&gt;이란 (2026)&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;재정 상태&lt;/td&gt;
+ &lt;td&gt;부채/GDP 38%&lt;/td&gt;
+ &lt;td&gt;부채/GDP 124%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;재정적자&lt;/td&gt;
+ &lt;td&gt;GDP 2.8%&lt;/td&gt;
+ &lt;td&gt;GDP 6.4%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;인플레이션&lt;/td&gt;
+ &lt;td&gt;1.6% → 11%&lt;/td&gt;
+ &lt;td&gt;3.2% → ?&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;금리 환경&lt;/td&gt;
+ &lt;td&gt;상승기&lt;/td&gt;
+ &lt;td&gt;고금리 (5.25-5.50%)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;통화 리스크&lt;/td&gt;
+ &lt;td&gt;금본위 포기&lt;/td&gt;
+ &lt;td&gt;기축통화 지위 약화&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;베트남이 가리키는 방향&lt;/strong&gt;: 전쟁 장기화 시 &lt;strong&gt;재정적자 폭발 → 달러 약세 → 인플레 재점화&lt;/strong&gt;. 현재 미국 재정은 베트남전 당시보다 3배 나쁘다. 전쟁 비용이 추가되면 &amp;ldquo;국채 금리 5%&amp;rdquo; 시나리오가 현실화.&lt;/p&gt;
+&lt;h3 id="매칭-4-이라크전-2003--유가-슈퍼스파이크"&gt;매칭 4: 이라크전 (2003) — 유가 슈퍼스파이크
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;유사도: ★★★☆☆&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;항목&lt;/th&gt;
+ &lt;th&gt;이라크전&lt;/th&gt;
+ &lt;th&gt;이란 (2026)&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;유가 시작&lt;/td&gt;
+ &lt;td&gt;$25&lt;/td&gt;
+ &lt;td&gt;$71&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;유가 피크&lt;/td&gt;
+ &lt;td&gt;$147 (2008)&lt;/td&gt;
+ &lt;td&gt;?&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;기간&lt;/td&gt;
+ &lt;td&gt;5년간 상승&lt;/td&gt;
+ &lt;td&gt;?&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;동시 요인&lt;/td&gt;
+ &lt;td&gt;중국 수요 폭발&lt;/td&gt;
+ &lt;td&gt;AI 데이터센터 전력 수요&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;이라크전이 가리키는 방향&lt;/strong&gt;: 전쟁 + 구조적 수요 증가가 겹치면 &lt;strong&gt;유가 슈퍼스파이크&lt;/strong&gt; 가능. 2003년에는 중국이었다면, 2026년에는 &lt;strong&gt;AI 데이터센터 전력 수요&lt;/strong&gt;가 새 변수.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="종합-패턴-네-개의-교차점"&gt;종합 패턴: 네 개의 교차점
+&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt; 걸프전 아프간 베트남 이라크전
+유가 ★★★★ ★★ ★★★ ★★★★★
+방산 ★★ ★★★★★ ★★★ ★★★★
+달러/재정 ★★ ★★ ★★★★★ ★★★
+금 ★★★ ★★★ ★★★★★ ★★★★
+인플레 ★★★ ★★ ★★★★★ ★★★★
+
+2026 종합: 유가 ★★★★ 방산 ★★★★ 달러 ★★★★★ 금 ★★★★★
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;역사가 가장 강하게 경고하는 것&lt;/strong&gt;: 유가보다 &lt;strong&gt;달러 리스크와 인플레이션 재점화&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="포지션-전략-ancient-one이-제시하는-방향"&gt;포지션 전략: Ancient One이 제시하는 방향
+&lt;/h2&gt;&lt;h3 id="핵심-원칙"&gt;핵심 원칙
+&lt;/h3&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;역사는 &amp;ldquo;무엇이 올라갈까&amp;quot;가 아니라 **&amp;ldquo;무엇이 무너질까&amp;rdquo;**를 먼저 알려준다.&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;네 번의 전쟁 모두에서 가장 확실하게 &lt;strong&gt;손해 본 자산&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;현금 (인플레이션에 잠식)&lt;/li&gt;
+&lt;li&gt;장기 국채 (금리 상승에 가격 하락)&lt;/li&gt;
+&lt;li&gt;달러 표시 예금 (달러 약세)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;네 번 모두에서 &lt;strong&gt;수혜를 본 자산&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;금 (4/4 전승)&lt;/li&gt;
+&lt;li&gt;원자재/에너지 (3.5/4)&lt;/li&gt;
+&lt;li&gt;방산주 (3/4)&lt;/li&gt;
+&lt;li&gt;실물자산 (부동산 — 인플레 헤지)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="시나리오별-포트폴리오"&gt;시나리오별 포트폴리오
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;시나리오 A: 제한적 충돌 후 외교 (40%)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;유가 $80~90 → 에너지주 소폭 수혜&lt;/li&gt;
+&lt;li&gt;시장 반등 → 성장주 회복&lt;/li&gt;
+&lt;li&gt;금 횡보&lt;/li&gt;
+&lt;li&gt;전략: 코스피 대형 우량주 매수, 현금 비중 축소&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;시나리오 B: 확전 없는 장기 긴장 (35%)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;유가 $90~120 → 정유/가스 수혜&lt;/li&gt;
+&lt;li&gt;방산 지속 상승&lt;/li&gt;
+&lt;li&gt;원/달러 1,450~1,500&lt;/li&gt;
+&lt;li&gt;전략: 에너지+방산 오버웨이트, 금 10%, 항공·화학 언더&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;시나리오 C: 호르무즈 위기 (20%)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;유가 $140~180&lt;/li&gt;
+&lt;li&gt;코스피 20%+ 하락&lt;/li&gt;
+&lt;li&gt;원/달러 1,500~1,600&lt;/li&gt;
+&lt;li&gt;금 $3,500+&lt;/li&gt;
+&lt;li&gt;전략: 현금 30%+, 금 15%, 에너지 20%, 방산 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;시나리오 D: 전면전 (5%)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;유가 $200+&lt;/li&gt;
+&lt;li&gt;글로벌 리세션&lt;/li&gt;
+&lt;li&gt;금 $4,000+&lt;/li&gt;
+&lt;li&gt;전략: 현금+금+곡물(인플레 헤지), 주식 최소&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="공통-행동-모든-시나리오"&gt;공통 행동 (모든 시나리오)
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;금 비중 5~15%&lt;/strong&gt;: 네 번의 전쟁 모두에서 수혜&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;달러 자산 분산&lt;/strong&gt;: 원화-달러-금 삼각 분산&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;장기 국채 비중 축소&lt;/strong&gt;: 10년물 4.5% 이상이면 위험&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;에너지 하락 시 분할 매수&lt;/strong&gt;: Phase 3(개전 하락) 준비&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;한국 방산 유지&lt;/strong&gt;: 구조적 성장 + 전쟁 프리미엄&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="결론-역사가-말하는-한-줄"&gt;결론: 역사가 말하는 한 줄
+&lt;/h2&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;모든 전쟁은 달러의 무덤 위에 금의 꽃을 피웠다.&lt;/em&gt;&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;걸프전은 유가를, 아프간은 방산을, 베트남은 달러를, 이라크는 모든 것을 움직였다.&lt;/p&gt;
+&lt;p&gt;2026년 이란은 이 네 개의 패턴을 동시에 작동시키고 있다. 유가, 방산, 금이 동시에 오르는 것은 이례적이지 않다 — &lt;strong&gt;역사에서는 당연한 일&lt;/strong&gt;이다.&lt;/p&gt;
+&lt;p&gt;차이가 있다면 하나. &lt;strong&gt;미국의 재정 상태가 역대 최악&lt;/strong&gt;이라는 것. 이것이 베트남전 패턴을 가장 위험하게 만드는 변수이고, 장기적으로 금과 실물자산이 달러를 이길 수밖에 없는 구조적 이유다.&lt;/p&gt;
+&lt;p&gt;역사의 점을 연결했다. 이제 선을 그릴 차례다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;I&amp;rsquo;ve seen this before. And I know how it ends.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;이 시리즈는 PointnLine의 Ancient One 프레임워크를 기반으로 합니다.&lt;/em&gt;
+&lt;em&gt;과거 수익률은 미래 수익을 보장하지 않습니다. 투자 판단은 본인의 책임입니다.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>전비가 달러를 죽인 날 — 베트남전과 재정적자의 교훈</title><link>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/03-vietnam-dollar-crisis/</link><pubDate>Sat, 21 Mar 2026 12:00:00 +0900</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/03-vietnam-dollar-crisis/</guid><description>
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;&amp;ldquo;달러는 우리의 화폐지만, 당신들의 문제다.&amp;rdquo;&lt;/em&gt; — 존 코널리 (닉슨 재무장관)&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="닉슨-쇼크-1971년-8월-15일"&gt;닉슨 쇼크: 1971년 8월 15일
+&lt;/h2&gt;&lt;p&gt;일요일 저녁 9시, 닉슨 대통령이 TV 연설을 했다.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;달러의 금 태환을 일시 정지한다.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lsquo;일시&amp;rsquo;는 영원이 됐다.&lt;/strong&gt; 브레턴우즈 체제 — 1944년부터 세계 경제를 지탱하던 금본위 달러 시스템이 종말을 맞았다.&lt;/p&gt;
+&lt;p&gt;원인은 하나. &lt;strong&gt;베트남전 전비&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="전쟁이-재정을-먹는-과정"&gt;전쟁이 재정을 먹는 과정
+&lt;/h2&gt;&lt;h3 id="베트남전-비용-타임라인"&gt;베트남전 비용 타임라인
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;연도&lt;/th&gt;
+ &lt;th&gt;병력(만)&lt;/th&gt;
+ &lt;th&gt;연간 전비&lt;/th&gt;
+ &lt;th&gt;GDP 대비&lt;/th&gt;
+ &lt;th&gt;재정적자&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1964&lt;/td&gt;
+ &lt;td&gt;2.3&lt;/td&gt;
+ &lt;td&gt;$10B&lt;/td&gt;
+ &lt;td&gt;0.5%&lt;/td&gt;
+ &lt;td&gt;흑자&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1966&lt;/td&gt;
+ &lt;td&gt;38.5&lt;/td&gt;
+ &lt;td&gt;$120B&lt;/td&gt;
+ &lt;td&gt;3.2%&lt;/td&gt;
+ &lt;td&gt;-$25B&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1968&lt;/td&gt;
+ &lt;td&gt;53.6&lt;/td&gt;
+ &lt;td&gt;$170B&lt;/td&gt;
+ &lt;td&gt;4.0%&lt;/td&gt;
+ &lt;td&gt;-$25B&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1970&lt;/td&gt;
+ &lt;td&gt;33.4&lt;/td&gt;
+ &lt;td&gt;$135B&lt;/td&gt;
+ &lt;td&gt;2.8%&lt;/td&gt;
+ &lt;td&gt;-$23B&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1972&lt;/td&gt;
+ &lt;td&gt;2.4&lt;/td&gt;
+ &lt;td&gt;$50B&lt;/td&gt;
+ &lt;td&gt;1.0%&lt;/td&gt;
+ &lt;td&gt;-$23B&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;인플레이션 조정, 2025년 달러 기준 (추정)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;존슨 대통령은 &amp;ldquo;대포와 버터(Guns and Butter)&amp;rdquo; — 전쟁과 복지를 동시에 추구했다. 위대한 사회(Great Society) 프로그램 + 베트남전 = &lt;strong&gt;재정 이중 부담&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;세금을 올려야 했지만 정치적으로 불가능했다. 남은 선택: &lt;strong&gt;달러를 찍는다&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id="인플레이션의-폭주"&gt;인플레이션의 폭주
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;전비 지출 ↑ → 통화량 ↑ → 인플레이션 ↑
+ ├─ CPI: 1965년 1.6% → 1970년 5.7% → 1974년 11.0%
+ ├─ 금 가격 압력: $35/oz 고정 vs 실질 가치 하락
+ ├─ 달러 신뢰 하락 → 각국 금 태환 요구 증가
+ └─ 프랑스 드골: 군함에 금 실어서 미국에 보내 달러를 금으로 교환
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;미국의 금 보유량: 1950년 20,000톤 → 1971년 8,100톤. &lt;strong&gt;12년간 60% 유출&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;더 이상 $35에 금을 내줄 수 없었다. 닉슨은 금본위를 포기했다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="닉슨-쇼크-이후-모든-것이-바뀌었다"&gt;닉슨 쇼크 이후: 모든 것이 바뀌었다
+&lt;/h2&gt;&lt;h3 id="달러-가치-변동"&gt;달러 가치 변동
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;1971-1978: 달러 인덱스 &lt;strong&gt;40% 하락&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;금 가격: $35 → $195 (1974) → &lt;strong&gt;$850 (1980)&lt;/strong&gt; — 24배&lt;/li&gt;
+&lt;li&gt;유가: $3.56 → $39.50 (1980) — 11배 (OPEC 쇼크 겹침)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="자산별-영향"&gt;자산별 영향
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;승자:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;금: 24배 (통화 불신의 최대 수혜)&lt;/li&gt;
+&lt;li&gt;원자재: 슈퍼사이클 시작&lt;/li&gt;
+&lt;li&gt;부동산: 인플레이션 헤지&lt;/li&gt;
+&lt;li&gt;수출 기업: 달러 약세 수혜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;패자:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;채권: 금리 급등으로 가격 폭락 (10년물 6% → 15%)&lt;/li&gt;
+&lt;li&gt;달러 예금: 실질 구매력 반토막&lt;/li&gt;
+&lt;li&gt;수입 의존 경제 (일본, 한국): 원자재 비용 폭등&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="2026년-대입--닉슨-쇼크-20의-가능성"&gt;2026년 대입 — &amp;ldquo;닉슨 쇼크 2.0&amp;quot;의 가능성
+&lt;/h2&gt;&lt;h3 id="현재-미국-재정-상태"&gt;현재 미국 재정 상태
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;국가 부채&lt;/strong&gt;: $36.2T (GDP 대비 124%)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;연간 재정적자&lt;/strong&gt;: $1.9T (GDP 대비 6.4%)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;이자 비용&lt;/strong&gt;: $1.1T/년 — 국방비($886B)보다 많다&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CBO 전망&lt;/strong&gt;: 2035년까지 부채 GDP 대비 156% 예상&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;베트남전 당시: 부채 GDP 대비 38%, 적자 GDP 대비 2.8%.
+&lt;strong&gt;지금은 수치가 모두 3~5배 나쁘다.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id="전쟁이-추가하는-부담"&gt;전쟁이 추가하는 부담
+&lt;/h3&gt;&lt;p&gt;이란 전쟁 시나리오별 추가 비용:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;제한적 공습&lt;/strong&gt; (2&lt;del&gt;4주): $5&lt;/del&gt;15B&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;지속적 공습 + 해군작전&lt;/strong&gt; (6개월): $50~100B&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;지상작전 포함&lt;/strong&gt; (비현실적이지만): $300B+/년&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;베트남전 패턴 대입: 제한적 개입 → 확전 → 비용 3~5배 초과는 미국 전쟁의 클리셰.&lt;/p&gt;
+&lt;h3 id="닉슨-쇼크-20-시나리오"&gt;&amp;ldquo;닉슨 쇼크 2.0&amp;rdquo; 시나리오
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;베트남전 패턴이 반복되려면:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;전쟁 장기화 (6개월+) ← 이란 지형상 가능성 높음&lt;/li&gt;
+&lt;li&gt;재정적자 추가 확대 ($2T → $2.5T+)&lt;/li&gt;
+&lt;li&gt;연준 정치적 압박 (금리 인하 요구)&lt;/li&gt;
+&lt;li&gt;달러 신뢰 하락 (대안 결제 시스템 확산)&lt;/li&gt;
+&lt;li&gt;트리거: 국채 금리 급등 → 이자 비용 감당 불가&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;차이점:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1971년: 금본위 → 포기할 &amp;ldquo;앵커&amp;quot;가 있었다&lt;/li&gt;
+&lt;li&gt;2026년: 이미 법정화폐 → 포기할 앵커가 없다&lt;/li&gt;
+&lt;li&gt;대신: &lt;strong&gt;달러 기축통화 지위 약화&lt;/strong&gt;가 점진적으로 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;현재 진행 중인 시그널:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BRICS 결제 시스템 논의&lt;/li&gt;
+&lt;li&gt;중국-사우디 위안화 석유 결제&lt;/li&gt;
+&lt;li&gt;각국 중앙은행 금 매수 (2022-2025 역대 최대)&lt;/li&gt;
+&lt;li&gt;비트코인의 &amp;ldquo;디지털 금&amp;rdquo; 내러티브 강화&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="투자-시사점"&gt;투자 시사점
+&lt;/h2&gt;&lt;h3 id="베트남전-교훈의-현대적-적용"&gt;베트남전 교훈의 현대적 적용
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. 전쟁 = 인플레이션&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;모든 대규모 전쟁은 인플레이션으로 귀결&lt;/li&gt;
+&lt;li&gt;현재 이미 고물가 환경 → 전쟁은 &amp;ldquo;인플레 재점화&amp;rdquo; 리스크&lt;/li&gt;
+&lt;li&gt;인플레 수혜 자산: 금, 원자재, TIPS, 부동산&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. 달러 약세는 느리게 온다&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;닉슨 쇼크도 하루아침에 온 게 아님 (7년간 축적)&lt;/li&gt;
+&lt;li&gt;현재 DXY 103 — 단기 강세이나 구조적 약세 압력 누적 중&lt;/li&gt;
+&lt;li&gt;조 전무님 메모: &amp;ldquo;달러 환전 기준 1,420원 이하&amp;quot;는 이 맥락에서 유효&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. 장기 국채는 위험 구간&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;베트남전 이후 채권은 10년간 최악의 자산&lt;/li&gt;
+&lt;li&gt;현재 미국 10년물 4.3% — 전쟁 비용 추가 시 5%+ 가능&lt;/li&gt;
+&lt;li&gt;조 전무님 메모: &amp;ldquo;10년 국채 4%경계/4.5%대피/5%위기&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. 금의 슈퍼사이클은 전쟁에서 시작된다&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1971-1980: 금 24배&lt;/li&gt;
+&lt;li&gt;2001-2011: 금 7배&lt;/li&gt;
+&lt;li&gt;2022-?: 금 $1,800 → $3,040 (진행 중)&lt;/li&gt;
+&lt;li&gt;각국 중앙은행 금 매입 = 기관이 먼저 움직이고 있다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="핵심-메시지"&gt;핵심 메시지
+&lt;/h2&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;&amp;ldquo;베트남전의 진짜 전장은 정글이 아니라 미국 재무부였다.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;전쟁이 무서운 것은 폭탄 때문만이 아니다. &lt;strong&gt;재정적자 → 통화 가치 하락 → 인플레이션 → 자산 재편&lt;/strong&gt; — 이 연쇄 반응이 당신의 포트폴리오를 결정한다.&lt;/p&gt;
+&lt;p&gt;2026년의 미국은 베트남전 당시보다 재정 상태가 나쁘고, 금리는 높고, 부채는 크다. 전쟁이 추가되면 달러는 더 빨리 달릴 수밖에 없다. &lt;strong&gt;어디로? 아래로.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;다음 글&lt;/strong&gt;: [2026 이란] 지금, 역사는 어디를 반복하고 있는가&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;이 시리즈는 PointnLine의 Ancient One 프레임워크를 기반으로 합니다.&lt;/em&gt;
+&lt;em&gt;과거 수익률은 미래 수익을 보장하지 않습니다. 투자 판단은 본인의 책임입니다.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>방산주 20년 슈퍼사이클의 해부 — 아프가니스탄에서 이란까지</title><link>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/02-defense-supercycle/</link><pubDate>Sat, 21 Mar 2026 11:00:00 +0900</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/02-defense-supercycle/</guid><description>
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;&amp;ldquo;전쟁은 끝나도 방산 예산은 줄지 않는다.&amp;rdquo;&lt;/em&gt; — 아이젠하워가 경고한 군산복합체&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="2800--록히드마틴이-보여준-길"&gt;2,800% — 록히드마틴이 보여준 길
+&lt;/h2&gt;&lt;p&gt;2001년 9월 10일, 록히드마틴 주가는 $38.34였다.
+2021년 아프간 철수 시점, $382.78.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;20년간 2,800% 상승. 연평균 복리 12.2%.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;S&amp;amp;P500 같은 기간 수익률의 3배. 그리고 이 상승의 대부분은 실제 전쟁 기간이 아니라 &lt;strong&gt;평시 방위비 증액 기간에 발생했다&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="미국-방위비-흐름--전쟁이-만든-톱니바퀴"&gt;미국 방위비 흐름 — 전쟁이 만든 톱니바퀴
+&lt;/h2&gt;&lt;p&gt;미국 국방비의 핵심 특성: &lt;strong&gt;올라가면 내려오지 않는다.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id="주요-전환점"&gt;주요 전환점
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;한국전쟁 (1950)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GDP 대비 국방비: 5% → 14.2% (1953)&lt;/li&gt;
+&lt;li&gt;전후에도 9%대 유지 → 냉전 정당화&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;베트남전 (1964)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;연간 국방비 2배 증가 ($500B → $1T+ 인플레 조정)&lt;/li&gt;
+&lt;li&gt;전후 감소했으나 레이건 군비 확장으로 재상승&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;9/11 이후 (2001)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FY2001: $316B → FY2010: $691B → &lt;strong&gt;2.2배&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;아프간 철수(2021) 후에도 $800B+ 유지&lt;/li&gt;
+&lt;li&gt;FY2025: $886B — 역대 최고&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;핵심 패턴&lt;/strong&gt;: 전쟁 → 예산 급증 → 전후 감소 → 그러나 이전보다 높은 수준에서 안착 → 다음 전쟁에서 재급증&lt;/p&gt;
+&lt;p&gt;이것이 아이젠하워가 말한 &lt;strong&gt;&amp;ldquo;군산복합체(Military-Industrial Complex)&amp;rdquo;&lt;/strong&gt; — 한번 커진 방위 산업은 자체 관성으로 예산을 유지한다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="방산주-수익률-해부-2001-2021"&gt;방산주 수익률 해부 (2001-2021)
+&lt;/h2&gt;&lt;h3 id="미국-빅5-방산주-성과"&gt;미국 빅5 방산주 성과
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;기업&lt;/th&gt;
+ &lt;th&gt;2001/9&lt;/th&gt;
+ &lt;th&gt;2021/8&lt;/th&gt;
+ &lt;th&gt;수익률&lt;/th&gt;
+ &lt;th&gt;주요 무기체계&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;록히드마틴&lt;/td&gt;
+ &lt;td&gt;$38&lt;/td&gt;
+ &lt;td&gt;$382&lt;/td&gt;
+ &lt;td&gt;+905%&lt;/td&gt;
+ &lt;td&gt;F-35, 미사일방어&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;노스롭그러먼&lt;/td&gt;
+ &lt;td&gt;$20&lt;/td&gt;
+ &lt;td&gt;$365&lt;/td&gt;
+ &lt;td&gt;+1,725%&lt;/td&gt;
+ &lt;td&gt;B-21, 글로벌호크&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;레이시온&lt;/td&gt;
+ &lt;td&gt;$25&lt;/td&gt;
+ &lt;td&gt;$86*&lt;/td&gt;
+ &lt;td&gt;+244%&lt;/td&gt;
+ &lt;td&gt;패트리어트, 토마호크&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;제너럴다이나믹스&lt;/td&gt;
+ &lt;td&gt;$22&lt;/td&gt;
+ &lt;td&gt;$206&lt;/td&gt;
+ &lt;td&gt;+836%&lt;/td&gt;
+ &lt;td&gt;에이브람스, 잠수함&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;L3Harris&lt;/td&gt;
+ &lt;td&gt;$19&lt;/td&gt;
+ &lt;td&gt;$229&lt;/td&gt;
+ &lt;td&gt;+1,105%&lt;/td&gt;
+ &lt;td&gt;전자전, C4ISR&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;레이시온은 2020년 UTX 합병 후 조정&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;공통점&lt;/strong&gt;: 매출 성장보다 &lt;strong&gt;마진 개선 + 자사주 매입&lt;/strong&gt;이 주가 상승의 핵심 드라이버&lt;/p&gt;
+&lt;h3 id="수익률의-비밀-매출이-아니라-마진"&gt;수익률의 비밀: 매출이 아니라 마진
+&lt;/h3&gt;&lt;p&gt;방산주가 일반 제조업과 다른 점:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;고객이 하나&lt;/strong&gt; (미국 정부) → 가격 협상력 = 안정적 마진&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;장기 계약&lt;/strong&gt; (5~15년) → 실적 가시성 극히 높음&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;진입장벽 사실상 무한&lt;/strong&gt; → 경쟁 제한적&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;전환비용 천문학적&lt;/strong&gt; → 한번 채택되면 수십 년 유지&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;록히드마틴의 영업이익률: 2001년 6.8% → 2021년 13.5% — 마진이 2배 된 것이 주가 10배의 핵심.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="한국-방산--같은-사이클에-진입했는가"&gt;한국 방산 — 같은 사이클에 진입했는가?
+&lt;/h2&gt;&lt;h3 id="k-방산의-구조적-전환"&gt;K-방산의 구조적 전환
+&lt;/h3&gt;&lt;p&gt;2022년 폴란드 수출 계약($14.7B)을 기점으로 한국 방산은 &lt;strong&gt;내수 의존 → 글로벌 수출&lt;/strong&gt; 패러다임이 전환됐다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;핵심 기업 현황:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;한화에어로스페이스&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2024년 매출 11.6조 → 2025년 예상 16조+&lt;/li&gt;
+&lt;li&gt;K9 자주포, 천무, 항공엔진&lt;/li&gt;
+&lt;li&gt;폴란드·루마니아·호주·사우디 수출 파이프라인&lt;/li&gt;
+&lt;li&gt;주가: 3년간 600%+ 상승&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;한국항공우주 (KAI)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FA-50, KF-21 보라매&lt;/li&gt;
+&lt;li&gt;KF-21 양산 시작 (2026~) → 수출 본격화 예정&lt;/li&gt;
+&lt;li&gt;폴란드·이라크·말레이시아 관심&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;LIG넥스원&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;천궁II (사우디 $3.2B 계약)&lt;/li&gt;
+&lt;li&gt;해성, 비궁 등 유도무기&lt;/li&gt;
+&lt;li&gt;중동 수출 급증&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="미국-방산-vs-한국-방산--사이클-비교"&gt;미국 방산 vs 한국 방산 — 사이클 비교
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;미국 (2001-2021):
+ 9/11 → 예산 급증 → 해외작전 → 동맹 무장화 → 20년 슈퍼사이클
+
+한국 (2022-):
+ 우크라전 → 유럽 재무장 → K-방산 수출 급증 → 이란 긴장 → ?
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;차이점:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;미국: 자국 전쟁 → 자국 방산 수혜&lt;/li&gt;
+&lt;li&gt;한국: &lt;strong&gt;남의 전쟁 → 한국 수출 수혜&lt;/strong&gt; (더 안전한 구조)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;유사점:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;장기 계약 기반 실적 가시성&lt;/li&gt;
+&lt;li&gt;정부 주도 → 마진 안정&lt;/li&gt;
+&lt;li&gt;한번 시작되면 10년+ 지속&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="방산주-매매-타이밍"&gt;방산주 매매 타이밍
+&lt;/h2&gt;&lt;h3 id="걸프전--이란까지--방산주-타이밍-법칙"&gt;걸프전 ~ 이란까지 — 방산주 타이밍 법칙
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;매수 시점: 긴장 고조 초기&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;위기 발생 → 방위비 증액 논의 → 방산주 상승 시작&lt;/li&gt;
+&lt;li&gt;이미 오른 후가 아니라 &lt;strong&gt;&amp;ldquo;방위비를 올려야 한다&amp;quot;는 여론이 형성될 때&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;한국: 2022년 2월 (우크라전) = 최적 매수 시점이었다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;보유 기간: 최소 3~5년&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;방산 계약은 체결 → 생산 → 납품까지 2~5년&lt;/li&gt;
+&lt;li&gt;주문 잔고가 실적으로 전환되는 데 시간이 필요&lt;/li&gt;
+&lt;li&gt;단기 트레이딩 종목이 아니다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;매도 시점: 평화 정착 + 예산 감축 시그널&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;미국: 아프간 철수(2021) 후에도 예산은 줄지 않았다&lt;/li&gt;
+&lt;li&gt;현재 사이클에서 매도 시그널: 아직 없음&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="2026년-현재-한국-방산--late인가-early인가"&gt;2026년 현재 한국 방산 — Late인가 Early인가?
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Early 근거:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;유럽 재무장 10년+ 사이클 (NATO GDP 2%→3% 논의)&lt;/li&gt;
+&lt;li&gt;중동 긴장 → 추가 수출 계약 가능&lt;/li&gt;
+&lt;li&gt;KF-21 양산 본격화 아직 시작 안 함&lt;/li&gt;
+&lt;li&gt;수주잔고 역대 최고&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Late 근거:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;한화에어로 3년 600% → 단기 밸류에이션 부담&lt;/li&gt;
+&lt;li&gt;폴란드 계약 피크 지나면 갭&lt;/li&gt;
+&lt;li&gt;금리·환율 리스크&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;결론&lt;/strong&gt;: &lt;strong&gt;사이클은 Early, 밸류에이션은 Mid&lt;/strong&gt; — 분할 매수 + 장기 보유 전략이 합리적&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="방산-투자-체크리스트"&gt;방산 투자 체크리스트
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;✅ 확인 사항:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 수주잔고 추이 (3년 연속 증가?)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 수출 비중 변화 (30% 이상이면 구조적 전환)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 영업이익률 추세 (상승 중이면 마진 레버리지)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 정부 방위비 중기계획 (국방중기계획 2027-2031)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 동맹국 방산 수입 계획 (폴란드, 사우디, 호주)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;⚠️ 리스크:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;환율 급등 시 수출 계약 수익성 영향&lt;/li&gt;
+&lt;li&gt;정권 교체 → 방위비 삭감 가능성&lt;/li&gt;
+&lt;li&gt;기술 이전 요구 → 장기 경쟁력 훼손&lt;/li&gt;
+&lt;li&gt;개별 종목 이벤트 (수주 취소, 납품 지연)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="핵심-메시지"&gt;핵심 메시지
+&lt;/h2&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;&amp;ldquo;방산주는 전쟁 때 사는 게 아니다. 평화가 끝날 때 사는 것이다.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;걸프전 이후 30년, 9/11 이후 25년 — 방산 슈퍼사이클은 실제 전투보다 &lt;strong&gt;방위비 증액 사이클&lt;/strong&gt;에 연동된다.&lt;/p&gt;
+&lt;p&gt;지금 한국 방산이 서 있는 곳: 미국 2003~2005년에 해당. 가장 큰 상승은 아직 남았을 수 있다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;다음 글&lt;/strong&gt;: [베트남] 전비가 달러를 죽인 날 — 재정적자와 통화 위기&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;이 시리즈는 PointnLine의 Ancient One 프레임워크를 기반으로 합니다.&lt;/em&gt;
+&lt;em&gt;과거 수익률은 미래 수익을 보장하지 않습니다. 투자 판단은 본인의 책임입니다.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>걸프전이 가르쳐준 것 — 호르무즈 해협과 $180 시나리오</title><link>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/01-gulf-war-oil/</link><pubDate>Sat, 21 Mar 2026 10:00:00 +0900</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/01-gulf-war-oil/</guid><description>
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;&amp;ldquo;I&amp;rsquo;ve seen this before.&amp;rdquo;&lt;/em&gt; — 1990년 8월 2일, 이라크가 쿠웨이트를 침공했다.&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="1990년-8월-2일-그-날"&gt;1990년 8월 2일, 그 날
+&lt;/h2&gt;&lt;p&gt;새벽 2시, 이라크 공화국 수비대 10만 명이 쿠웨이트 국경을 넘었다. 사담 후세인의 도박이 시작됐다.&lt;/p&gt;
+&lt;p&gt;시장은 즉각 반응했다.&lt;/p&gt;
+&lt;h3 id="유가-움직임-wti-기준"&gt;유가 움직임 (WTI 기준)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;침공 전&lt;/strong&gt;: $21.54/배럴 (1990년 7월)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;침공 직후&lt;/strong&gt;: $28.05 (8월 초) → &lt;strong&gt;30% 급등&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;최고점&lt;/strong&gt;: $41.15 (10월 11일) → &lt;strong&gt;91% 상승&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;사막의 폭풍 개시&lt;/strong&gt; (1991/1/17): $32.00&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;전쟁 종결&lt;/strong&gt; (2/28): $19.90 → &lt;strong&gt;침공 전보다 하락&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;소요 기간&lt;/strong&gt;: 상승 2.5개월, 하락 4.5개월&lt;/p&gt;
+&lt;p&gt;이것이 &amp;ldquo;전쟁 유가 사이클&amp;quot;의 교과서적 사례다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="유가-4단계-사이클"&gt;유가 4단계 사이클
+&lt;/h2&gt;&lt;p&gt;걸프전의 유가 움직임은 이후 모든 중동 분쟁에서 반복되는 4단계 패턴을 만들었다.&lt;/p&gt;
+&lt;h3 id="phase-1-공포-급등-shock-spike"&gt;Phase 1: 공포 급등 (Shock Spike)
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;기간&lt;/strong&gt;: 침공 직후 1~3개월&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;불확실성 프리미엄 폭발&lt;/li&gt;
+&lt;li&gt;투기 매수 쇄도&lt;/li&gt;
+&lt;li&gt;실제 공급 차질보다 &lt;strong&gt;공급 차질 가능성&lt;/strong&gt;이 가격을 밀어올림&lt;/li&gt;
+&lt;li&gt;걸프전: 쿠웨이트+이라크 원유(전 세계 9%) 차단 우려&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="phase-2-고점-형성-fear-premium-peak"&gt;Phase 2: 고점 형성 (Fear Premium Peak)
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;기간&lt;/strong&gt;: 1~2개월 유지&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SPR(전략비축유) 방출 논의&lt;/li&gt;
+&lt;li&gt;OPEC 증산 결정&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;최악의 시나리오&amp;quot;가 가격에 완전 반영&lt;/li&gt;
+&lt;li&gt;걸프전: $41 고점에서 호르무즈 봉쇄 프리미엄 포함&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="phase-3-개전-하락-war-discount"&gt;Phase 3: 개전 하락 (War Discount)
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;기간&lt;/strong&gt;: 개전 후 1~2주&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;불확실성 해소 → 위험 프리미엄 축소&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;전쟁이 시작됐으니 끝도 보인다&amp;quot;는 심리&lt;/li&gt;
+&lt;li&gt;걸프전: 다국적군 압도적 공군력 확인 → 신속 종결 기대&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="phase-4-정상화-normalization"&gt;Phase 4: 정상화 (Normalization)
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;기간&lt;/strong&gt;: 종전 후 3~6개월&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;공급 복구&lt;/li&gt;
+&lt;li&gt;투기 포지션 청산&lt;/li&gt;
+&lt;li&gt;종종 &lt;strong&gt;침공 전 수준 이하로 하락&lt;/strong&gt; (오버슈팅 되돌림)&lt;/li&gt;
+&lt;li&gt;걸프전: $19.90까지 하락 — 시작점보다 8% 낮아&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="2026년에-대입하면"&gt;2026년에 대입하면
+&lt;/h2&gt;&lt;h3 id="걸프전-vs-이란-긴장--핵심-비교"&gt;걸프전 vs 이란 긴장 — 핵심 비교
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;공급 차질 규모&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;걸프전: 쿠웨이트+이라크 = 460만 배럴/일 (세계 9%)&lt;/li&gt;
+&lt;li&gt;이란 단독: 320만 배럴/일 (세계 3.2%)&lt;/li&gt;
+&lt;li&gt;이란 + 호르무즈 봉쇄: &lt;strong&gt;2,100만 배럴/일 (세계 21%)&lt;/strong&gt; ← 게임체인저&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;현재 유가 위치&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WTI 기준 $71.40 (2026/3/3)&lt;/li&gt;
+&lt;li&gt;걸프전 패턴 대입 시 Phase 1 Shock Spike: &lt;strong&gt;$71 × 1.9 = ~$135&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;사우디 경고 $180 = 호르무즈 완전 봉쇄 + 3개월 이상 지속 시나리오&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="180-시나리오의-현실성"&gt;$180 시나리오의 현실성
+&lt;/h3&gt;&lt;p&gt;사우디의 &amp;ldquo;$180&amp;rdquo; 경고를 걸프전 데이터로 검증한다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;필요 조건:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;호르무즈 해협 실제 봉쇄 (기뢰 또는 해군 차단)&lt;/li&gt;
+&lt;li&gt;미국 5함대 대응 지연 (2주 이상)&lt;/li&gt;
+&lt;li&gt;SPR 방출 규모 부족&lt;/li&gt;
+&lt;li&gt;OPEC+ 여유 생산량 소진&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;확률 평가:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;호르무즈 완전 봉쇄: &lt;strong&gt;10~15%&lt;/strong&gt; (이란도 자국 원유 수출이 차단됨)&lt;/li&gt;
+&lt;li&gt;부분 차단 (보험료 급등): &lt;strong&gt;30~40%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;이란 직접 공급만 차단: &lt;strong&gt;50~60%&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;유가 시나리오별 추정:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;시나리오 A (제재 강화만): $80&lt;del&gt;90 — 현재 대비 +15&lt;/del&gt;25%&lt;/li&gt;
+&lt;li&gt;시나리오 B (이란 공급 차단): $100~120 — 걸프전 Phase 1 수준&lt;/li&gt;
+&lt;li&gt;시나리오 C (호르무즈 부분 차단): $140~160 — 이라크전 슈퍼스파이크 재현&lt;/li&gt;
+&lt;li&gt;시나리오 D (호르무즈 완전 봉쇄): $170~200+ — 역사적 전례 없음&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="한국에-미치는-영향"&gt;한국에 미치는 영향
+&lt;/h2&gt;&lt;p&gt;한국은 원유 수입의 &lt;strong&gt;70% 이상을 중동에 의존&lt;/strong&gt;한다. 걸프전 때도 한국 경제는 직격탄을 맞았다.&lt;/p&gt;
+&lt;h3 id="전이-경로"&gt;전이 경로
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;호르무즈 긴장 → 유가 상승
+ ├─ 원/달러 상승 (에너지 수입 비용↑)
+ ├─ 물가 상승 (CPI +0.3~0.5%p per $10 상승)
+ ├─ 교역조건 악화 → 경상수지 적자
+ ├─ 한은 금리 인하 지연
+ └─ 코스피 외국인 매도 → 에너지주 제외 전면 하락
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="수혜피해-섹터"&gt;수혜/피해 섹터
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;수혜:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;정유 (S-Oil, SK이노): 재고 평가이익 + 정제마진 확대&lt;/li&gt;
+&lt;li&gt;조선 (HD한국조선, 삼성중공업): LNG 운반선 + 군함 수주&lt;/li&gt;
+&lt;li&gt;방산 (한화에어로, KAI): 방위비 증가&lt;/li&gt;
+&lt;li&gt;신재생 (한화솔루션): 탈중동 에너지 정책 가속&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;피해:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;항공 (대한항공, 아시아나): 유류비 30%+ 차지&lt;/li&gt;
+&lt;li&gt;화학 (LG화학, 롯데케미칼): 나프타 원가 급등&lt;/li&gt;
+&lt;li&gt;운송 (CJ대한통운, 한진): 물류비 상승&lt;/li&gt;
+&lt;li&gt;소비재: 인플레이션 → 소비 위축&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="투자자-행동-가이드"&gt;투자자 행동 가이드
+&lt;/h2&gt;&lt;p&gt;걸프전 패턴이 반복된다면:&lt;/p&gt;
+&lt;h3 id="지금-phase-01-전환기"&gt;지금 (Phase 0~1 전환기)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;✅ 에너지 비중 확대 (정유, 가스)&lt;/li&gt;
+&lt;li&gt;✅ 방산주 분할 매수 (이미 올랐어도 사이클 초기)&lt;/li&gt;
+&lt;li&gt;✅ 금 ETF 5~10% 편입&lt;/li&gt;
+&lt;li&gt;⚠️ 항공·화학 비중 축소&lt;/li&gt;
+&lt;li&gt;❌ 단기 유가 선물 레버리지 (변동성 살인적)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="phase-1-spike-시"&gt;Phase 1 Spike 시
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ 에너지주 일부 차익실현 (고점 예측 불가)&lt;/li&gt;
+&lt;li&gt;✅ 현금 확보 → Phase 3 매수 준비&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="phase-3-개전-시"&gt;Phase 3 개전 시
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;✅ 코스피 대형주 공격적 매수 (걸프전: 개전 후 6개월 +30%)&lt;/li&gt;
+&lt;li&gt;✅ 에너지 하락 시 2차 매수 기회&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="걸프전이-남긴-교훈"&gt;걸프전이 남긴 교훈
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;전쟁 공포가 전쟁보다 비싸다&lt;/strong&gt; — 유가 상승의 80%는 개전 전에 발생&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;호르무즈는 양날의 검&lt;/strong&gt; — 봉쇄하는 쪽도 수출이 막힌다&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;전쟁은 끝난다&lt;/strong&gt; — 모든 전쟁 프리미엄은 결국 소멸한다&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;한국은 에너지 약점을 안고 산다&lt;/strong&gt; — 중동 의존도 관리가 국가 리스크&lt;/li&gt;
+&lt;/ol&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;&amp;ldquo;걸프전은 5개월 만에 끝났다. 하지만 유가는 2.5개월 만에 바닥을 예언했다. 시장은 항상 전쟁보다 빠르다.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;다음 글&lt;/strong&gt;: [아프간·이라크] 방산주 20년 슈퍼사이클의 해부&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;이 시리즈는 PointnLine의 Ancient One 프레임워크를 기반으로 합니다.&lt;/em&gt;
+&lt;em&gt;과거 수익률은 미래 수익을 보장하지 않습니다. 투자 판단은 본인의 책임입니다.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-21 (토)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-21/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-21/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;📉 S&amp;amp;P500 $6,506.48 (-1.51%)&lt;/li&gt;
 &lt;li&gt;📉 나스닥 $21,647.61 (-2.01%)&lt;/li&gt;
@@ -63,7 +839,136 @@
 &lt;/ul&gt;
 &lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
 &lt;/h2&gt;&lt;hr&gt;
-&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-20 (금)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>미국이 벌인 전쟁, 시장이 반응한 방법 — 시리즈 서문</title><link>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/00-series-intro/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/us-wars-and-markets/00-series-intro/</guid><description>
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;&amp;ldquo;I&amp;rsquo;ve seen this before.&amp;rdquo;&lt;/em&gt; — Ancient One, PointnLine&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="왜-이-시리즈를-쓰는가"&gt;왜 이 시리즈를 쓰는가
+&lt;/h2&gt;&lt;p&gt;2026년 3월, 트럼프는 이란에 대해 &amp;ldquo;군사력 무력화&amp;quot;를 선언했다. 사우디는 &amp;ldquo;전쟁 지속 시 유가 180달러&amp;quot;를 경고한다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이 장면은 처음이 아니다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1950년 한국전쟁, 1964년 베트남전, 1990년 걸프전, 2001년 아프가니스탄, 2003년 이라크 — 미국은 대략 10~15년 주기로 대규모 군사 행동을 벌여왔다. 그리고 &lt;strong&gt;매번, 시장은 놀랍도록 비슷한 패턴&lt;/strong&gt;으로 반응했다.&lt;/p&gt;
+&lt;p&gt;이 시리즈는 그 패턴을 추적한다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="미국-주요-전쟁-타임라인"&gt;미국 주요 전쟁 타임라인
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;전쟁&lt;/th&gt;
+ &lt;th&gt;기간&lt;/th&gt;
+ &lt;th&gt;직접 비용(추정)&lt;/th&gt;
+ &lt;th&gt;핵심 자산 영향&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;한국전쟁&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1950–53&lt;/td&gt;
+ &lt;td&gt;$300B+&lt;/td&gt;
+ &lt;td&gt;군수주 폭등, 인플레이션&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;베트남전쟁&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1964–75&lt;/td&gt;
+ &lt;td&gt;$1T+&lt;/td&gt;
+ &lt;td&gt;달러 약세→금본위 폐지, 스태그플레이션&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;걸프전&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1990–91&lt;/td&gt;
+ &lt;td&gt;$61B&lt;/td&gt;
+ &lt;td&gt;유가 2.2배→전쟁 종결 시 급락&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;아프가니스탄&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;2001–21&lt;/td&gt;
+ &lt;td&gt;$2.3T&lt;/td&gt;
+ &lt;td&gt;방산주 20년 슈퍼사이클&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;이라크전쟁&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;2003–11&lt;/td&gt;
+ &lt;td&gt;$2T+&lt;/td&gt;
+ &lt;td&gt;유가 $25→$147 슈퍼스파이크&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;🔴 이란 긴장&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;2026–&lt;/td&gt;
+ &lt;td&gt;?&lt;/td&gt;
+ &lt;td&gt;유가·금·방산 동시 급등 중&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;비용은 인플레이션 조정 추정치 (Brown University Costs of War Project 등)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="시장이-보여주는-5가지-반복-패턴"&gt;시장이 보여주는 5가지 반복 패턴
+&lt;/h2&gt;&lt;h3 id="패턴-1-소문에-사고-뉴스에-팔아라의-변형"&gt;패턴 1: &amp;ldquo;소문에 사고 뉴스에 팔아라&amp;quot;의 변형
+&lt;/h3&gt;&lt;p&gt;전쟁은 &lt;strong&gt;선언 전에 시장을 흔들고, 시작되면 오히려 반등&lt;/strong&gt;한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;걸프전: 이라크 쿠웨이트 침공(8/2) → S&amp;amp;P 20% 하락 → 사막의 폭풍 시작(1/17) → 바닥 찍고 반등&lt;/li&gt;
+&lt;li&gt;이라크전: 개전(3/20) → 2주 내 S&amp;amp;P 8% 상승&lt;/li&gt;
+&lt;li&gt;아프간: 9/11 직후 15% 급락 → 10월 공습 시작 후 3개월 랠리&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;교훈&lt;/strong&gt;: 가장 큰 하락은 &amp;ldquo;전쟁이 올 수도 있다&amp;quot;는 공포 구간에서 발생한다. 실제 개전은 불확실성 해소 이벤트.&lt;/p&gt;
+&lt;h3 id="패턴-2-유가의-비대칭-반응"&gt;패턴 2: 유가의 비대칭 반응
+&lt;/h3&gt;&lt;p&gt;전쟁과 유가의 관계는 &lt;strong&gt;중동 개입 여부&lt;/strong&gt;에 따라 갈린다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;중동 직접 개입 (걸프·이라크): 유가 100%+ 상승&lt;/li&gt;
+&lt;li&gt;비중동 (한국·베트남·아프간): 유가 영향 제한적&lt;/li&gt;
+&lt;li&gt;핵심 변수: &lt;strong&gt;호르무즈 해협&lt;/strong&gt; (전 세계 원유 수송의 21%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="패턴-3-달러--단기-강세-장기-약세"&gt;패턴 3: 달러 — 단기 강세, 장기 약세
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;전쟁 발발 → 안전자산 수요 → &lt;strong&gt;달러 단기 강세&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;전비 지출 확대 → 재정적자 → &lt;strong&gt;달러 장기 약세&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;베트남전은 결국 금본위제 폐지(1971)와 달러 40% 평가절하로 이어졌다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="패턴-4-방산주--전쟁-전에-사야-한다"&gt;패턴 4: 방산주 — 전쟁 전에 사야 한다
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;록히드마틴: 9/11 이후 20년간 &lt;strong&gt;2,800% 상승&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;노스롭그러먼, 레이시온, 제너럴다이나믹스: 모두 10배+&lt;/li&gt;
+&lt;li&gt;핵심: 방산 예산은 전쟁 중이 아니라 &lt;strong&gt;전쟁 준비 단계에서 급증&lt;/strong&gt;한다&lt;/li&gt;
+&lt;li&gt;현재 한국 방산(한화에어로, 한국항공우주, LIG넥스원)도 같은 사이클&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="패턴-5-금gold--전쟁의-진짜-수혜자"&gt;패턴 5: 금(Gold) — 전쟁의 진짜 수혜자
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;걸프전: $383→$414 (+8%)&lt;/li&gt;
+&lt;li&gt;이라크전: $350→$1,000+ (3년간 3배)&lt;/li&gt;
+&lt;li&gt;아프간 이후: $270→$1,900 (10년간 7배)&lt;/li&gt;
+&lt;li&gt;2026년 현재: $3,040 — &lt;strong&gt;전쟁 프리미엄이 이미 가격에 반영 중&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="시리즈-목차-예정"&gt;시리즈 목차 (예정)
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;[서문] 미국이 벌인 전쟁, 시장이 반응한 방법&lt;/strong&gt; ← 지금 읽는 글&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[걸프전] 유가가 가르쳐준 것 — 호르무즈 해협과 $180 시나리오&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[아프간·이라크] 방산주 20년 슈퍼사이클의 해부&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[베트남] 전비가 달러를 죽인 날 — 재정적자와 통화 위기&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[2026 이란] 지금, 역사는 어디를 반복하고 있는가&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="투자자를-위한-체크리스트"&gt;투자자를 위한 체크리스트
+&lt;/h2&gt;&lt;p&gt;지금 이 순간 확인해야 할 것들:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; &lt;strong&gt;유가 포지션&lt;/strong&gt;: 호르무즈 봉쇄 시나리오에 노출되어 있는가?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; &lt;strong&gt;방산주&lt;/strong&gt;: 한국 방산(한화에어로, KAI, LIG) — 이미 올랐지만 사이클은 초기&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; &lt;strong&gt;금&lt;/strong&gt;: 안전자산 비중 점검 — 전쟁 장기화 시 추가 상승 여력&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; &lt;strong&gt;달러&lt;/strong&gt;: 단기 강세 활용 vs 장기 약세 대비&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; &lt;strong&gt;한국 시장&lt;/strong&gt;: 중동 의존도(원유 수입 비중 70%+) → 에너지 인플레이션 전이 경로&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="맺으며"&gt;맺으며
+&lt;/h2&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;em&gt;&amp;ldquo;역사는 반복되지 않는다. 그러나 운율은 맞춘다.&amp;rdquo;&lt;/em&gt; — 마크 트웨인 (추정)&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;미국의 전쟁은 예측 불가능하다. 하지만 시장의 반응은 놀라울 정도로 예측 가능하다. 공포에 팔고, 개전에 사고, 장기전에 금과 방산을 쥐는 것 — 이 패턴은 70년간 바뀌지 않았다.&lt;/p&gt;
+&lt;p&gt;다음 글에서는 걸프전을 중심으로, &lt;strong&gt;지금의 이란 긴장이 유가에 무엇을 의미하는지&lt;/strong&gt; 깊이 파고든다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;이 시리즈는 PointnLine의 Ancient One 프레임워크를 기반으로 합니다.&lt;/em&gt;
+&lt;em&gt;&amp;ldquo;역사의 점(Point)을 연결해 미래의 선(Line)을 그린다.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-20 (금)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;📉 S&amp;amp;P500 $6,606.49 (-0.27%)&lt;/li&gt;
 &lt;li&gt;📉 나스닥 $22,090.69 (-0.28%)&lt;/li&gt;
