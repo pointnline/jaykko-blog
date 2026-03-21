@@ -2,7 +2,7 @@
 title: "AI × 부동산금융 — 피드백 루프 1년차 회고"
 date: 2026-03-02
 draft: false
-categories: ["AI", "Finance"]
+categories: ["비즈니스"]
 tags: ["피드백루프", "회고", "AI레버리지"]
 description: "본업과 AI의 순환이 실제로 작동하는가 — 1년의 실험 기록"
 ---

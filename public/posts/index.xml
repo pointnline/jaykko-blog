@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 제이꼬 — AI × Finance × Edge</title><link>https://pointnline.github.io/jaykko-blog/posts/</link><description>Recent content in Posts on 제이꼬 — AI × Finance × Edge</description><generator>Hugo -- gohugo.io</generator><language>ko</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pointnline.github.io/jaykko-blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>모닝브리핑 2026-03-20 (금)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 제이꼬 — AI × Finance × Edge</title><link>https://pointnline.github.io/jaykko-blog/posts/</link><description>Recent content in Posts on 제이꼬 — AI × Finance × Edge</description><generator>Hugo -- gohugo.io</generator><language>ko</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pointnline.github.io/jaykko-blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>모닝브리핑 2026-03-21 (토)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-21/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-21/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 S&amp;amp;P500 $6,506.48 (-1.51%)&lt;/li&gt;
+&lt;li&gt;📉 나스닥 $21,647.61 (-2.01%)&lt;/li&gt;
+&lt;li&gt;📉 다우 $45,577.47 (-0.96%)&lt;/li&gt;
+&lt;li&gt;📉 러셀2000 $2,438.45 (-2.26%)&lt;/li&gt;
+&lt;li&gt;📈 코스피 $5,781.20 (+0.31%)&lt;/li&gt;
+&lt;li&gt;📈 코스닥 $1,161.52 (+1.58%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-섹터"&gt;🏭 섹터
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 Nvidia $172.70 (-3.61%)&lt;/li&gt;
+&lt;li&gt;📉 Tesla $367.96 (-3.83%)&lt;/li&gt;
+&lt;li&gt;📉 반도체ETF $332.51 (-2.46%)&lt;/li&gt;
+&lt;li&gt;📉 앱클론 ₩78,300 (-1.88%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-변동성--센티먼트"&gt;🔥 변동성 &amp;amp; 센티먼트
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 VIX $26.78 (+11.26%)&lt;/li&gt;
+&lt;li&gt;⚠️ Fear &amp;amp; Greed 수집 실패&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-금리채권"&gt;💰 금리/채권
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 US 10Y 4.25% (-0.01)&lt;/li&gt;
+&lt;li&gt;📊 US 2Y 3.79% (+0.03)&lt;/li&gt;
+&lt;li&gt;📊 10Y-2Y 스프레드 0.51%p (+0.05)&lt;/li&gt;
+&lt;li&gt;📊 HY 스프레드 3.27%p (+0.07)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-한국-금리"&gt;🇰🇷 한국 금리
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📊 CD 91일 2.50% (+0.00)&lt;/li&gt;
+&lt;li&gt;📊 국고5년 3.12% (-0.03)&lt;/li&gt;
+&lt;li&gt;📊 COFIX 신규 2.50% (+0.00)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-환율"&gt;💱 환율
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 원/달러 ₩1,504.8 (+0.70%)&lt;/li&gt;
+&lt;li&gt;📊 달러인덱스(DXY) 120.55 (+0.73)&lt;/li&gt;
+&lt;li&gt;📈 원/유로 ₩1,741.9 (+0.57%)&lt;/li&gt;
+&lt;li&gt;📈 달러/엔 ¥159.2 (+0.82%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-원자재"&gt;🥇 원자재
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📉 금 $4,492.0 (-4.94%)&lt;/li&gt;
+&lt;li&gt;📉 은 $67.81 (-8.61%)&lt;/li&gt;
+&lt;li&gt;📈 원유(WTI) $98.09 (+4.55%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-크립토"&gt;🪙 크립토
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📈 BTC $70,534 (+0.85%)&lt;/li&gt;
+&lt;li&gt;📈 ETH $2,147.2 (+0.41%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-부동산-뉴스"&gt;🏠 부동산 뉴스
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;“동탄 국평도 19억 찍었다”…서울 거주자·6070대도 매수 행렬 가세&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;잘 나가는&amp;rsquo; 메르세데스&amp;hellip;변수는 美·이란 전쟁? [권마허의 헬멧]&lt;/li&gt;
+&lt;li&gt;“단종 장인 묘역 밀어버릴 판”…서리풀2지구, ‘매장유산’ 가능성에 ‘시끌’ [안다솜의 家봄]&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="2" &gt;소멸하는 전세&lt;/a&gt; &amp;lsquo;월세 사는 나라&amp;rsquo;의 비결⋯美·英에선?&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;목동 대신 문래&amp;rdquo;⋯학부모 수요 &amp;lsquo;신축&amp;rsquo;으로 이동 [현장]&lt;/li&gt;
+&lt;li&gt;사업비만 30兆 목동 재건축 ‘하이엔드 브랜드’가 승부 가른다&lt;/li&gt;
+&lt;li&gt;공시가격 상승이 말해주는 주택시장의 구조적 변화&lt;/li&gt;
+&lt;li&gt;재산세는 집값을 잡는 수단이 아닙니다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-실시간-이슈-brave"&gt;🔍 실시간 이슈 (Brave)
+&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;📌 이 브리핑은 매일 자동 생성됩니다&lt;/p&gt;</description></item><item><title>모닝브리핑 2026-03-20 (금)</title><link>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://pointnline.github.io/jaykko-blog/posts/morning-briefing-2026-03-20/</guid><description>&lt;h2 id="-글로벌-지수"&gt;🌐 글로벌 지수
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;📉 S&amp;amp;P500 $6,606.49 (-0.27%)&lt;/li&gt;
 &lt;li&gt;📉 나스닥 $22,090.69 (-0.28%)&lt;/li&gt;

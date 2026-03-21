@@ -2,7 +2,7 @@
 title: "AI × Finance — 엣지를 찾는 여정의 시작"
 date: 2026-03-01
 draft: false
-categories: ["AI", "Finance"]
+categories: ["비즈니스"]
 tags: ["시작", "부동산금융", "AI자동화"]
 description: "AI와 금융의 교차점에서 대체 불가능한 엣지를 만들어가는 기록"
 ---

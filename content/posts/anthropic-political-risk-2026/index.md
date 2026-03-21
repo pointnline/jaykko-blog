@@ -2,7 +2,7 @@
 title: "미국 정부, 앤트로픽 퇴출 — AI 기업에게 정치 리스크란 무엇인가"
 date: 2026-03-03
 draft: false
-categories: ["AI"]
+categories: ["비즈니스"]
 tags: ["앤트로픽", "OpenAI", "AI규제", "정치리스크"]
 description: "트럼프 행정부가 앤트로픽 제품 사용을 전면 중단했다. 기술력만으로는 살아남을 수 없는 시대."
 ---

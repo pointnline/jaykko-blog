@@ -2,8 +2,8 @@
 title: "배럴의 역사 — 에너지는 곧 지정학이다"
 description: "50년간 반복된 에너지 쇼크의 패턴. 역사를 알면 포지션이 보인다."
 date: 2026-03-20
-categories:
-  - "The Barrel Chronicles"
+categories: ["에너지"]
+series: ["The Barrel Chronicles"]
 tags:
   - 에너지
   - 매크로

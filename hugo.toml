@@ -40,15 +40,30 @@ paginate = 10
     url = '/'
     weight = 1
   [[menu.main]]
-    identifier = 'archives'
-    name = 'Archives'
-    url = '/archives'
+    identifier = 'energy'
+    name = '⚡ 에너지'
+    url = '/categories/에너지'
     weight = 2
   [[menu.main]]
-    identifier = 'morning-briefing'
-    name = '모닝브리핑'
-    url = '/categories/모닝브리핑'
+    identifier = 'realestate'
+    name = '🏢 부동산'
+    url = '/categories/부동산'
     weight = 3
+  [[menu.main]]
+    identifier = 'business'
+    name = '💼 비즈니스'
+    url = '/categories/비즈니스'
+    weight = 4
+  [[menu.main]]
+    identifier = 'stocks'
+    name = '📈 주식'
+    url = '/categories/주식'
+    weight = 5
+  [[menu.main]]
+    identifier = 'archives'
+    name = '📚 Archives'
+    url = '/archives'
+    weight = 6
 
 [markup]
   [markup.highlight]

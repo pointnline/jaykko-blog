@@ -2,7 +2,7 @@
 title: "'바이브 코딩' 시대 — Cursor가 3개월 만에 연매출 2.9조를 찍은 이유"
 date: 2026-03-03
 draft: false
-categories: ["AI"]
+categories: ["비즈니스"]
 tags: ["바이브코딩", "Cursor", "AI코딩", "개발자"]
 description: "자연어로 코드를 짜는 '바이브 코딩'이 대세다. Cursor는 3개월 만에 매출이 2배 뛰었다."
 ---
